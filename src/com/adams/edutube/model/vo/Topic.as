@@ -64,7 +64,7 @@ package com.adams.edutube.model.vo
 			}
 			for each(var stobj:Object in item.SubTopic as ArrayCollection){
 				var subTopic:String = stobj.name;
-				for each(var obj:Object in item.video as ArrayCollection){
+				for each(var obj:Object in stobj.video as ArrayCollection){
 					var videoSubVisual:Visual = new Visual();
 					videoSubVisual.subTopic = subTopic;
 					videoSubVisual.fill(obj);
