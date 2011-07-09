@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Skin xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		xmlns:s="library://ns.adobe.com/flex/spark"
+		xmlns:mediators="com.adams.edutube.view.mediators.*" 
+		xmlns:components="com.adams.edutube.view.components.*">	
+	<fx:Metadata>
+		[HostComponent("com.adams.edutube.view.mediators.MainViewMediator")]
+	</fx:Metadata>   
+	<s:states>
+		<!-- // State Begin -->
+		<s:State name='List'/> 
+		<s:State name='Web'/>
+		<!-- State End -->  
+	</s:states> 
+	<!-- // View Begin -->
+	<mediators:ListViewMediator id='list' skinClass='com.adams.edutube.view.ListSkinView' homeState='{currentState}' includeIn='List' width='100%' height='100%'/>
+	<!-- View End -->  
+	<components:AlertView id="alert" visible="false" verticalCenter="0" horizontalCenter="0"/>
+	
+	<mediators:ProgressViewMediator id='progress' width="100%" height="100%" 
+									skinClass='com.adams.edutube.view.ProgressSkinView' 
+									visible="false" includeInLayout="{ progress.visible }"/>
+</s:Skin>

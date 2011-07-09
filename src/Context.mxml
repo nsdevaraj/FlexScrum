@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Swiz:Swiz xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		   xmlns:s="library://ns.adobe.com/flex/spark" 
+		   xmlns:swiz="org.swizframework.core.*"
+		   xmlns:Swiz="org.swizframework.core.mxml.*"
+		   xmlns:dao="com.adams.swizdao.dao.*"
+		   xmlns:collections="com.adams.swizdao.model.collections.*"
+		   xmlns:vo="com.adams.swizdao.model.vo.*"
+		   xmlns:response="com.adams.swizdao.response.*"
+		   xmlns:signals="com.adams.swizdao.signals.*" 
+		   xmlns:processors="com.foomonger.swizframework.processors.*"
+		   xmlns:controller="com.adams.swizdao.controller.*"
+		   xmlns:storage="org.swizframework.storage.*" 
+		   xmlns:mediators="com.adams.edutube.view.mediators.*"
+		   xmlns:processor="com.adams.edutube.model.processor.*"  
+		   xmlns:services="org.swizframework.utils.services.*" 
+		   xmlns:mediateview="com.briankotek.mediateview.*" 
+		   xmlns:signalprocess="com.nsdevaraj.swiz.processors.*"
+		   activate="initializeHandler(event)" xmlns:util="com.adams.edutube.util.*" 
+		   xmlns:edutube="com.adams.edutube.*" xmlns:service="com.adams.edutube.service.*"
+		   xmlns:control="com.adams.edutube.control.*" xmlns:signal="com.adams.edutube.signal.*">
+	
+	<fx:Script>
+		<![CDATA[  
+			import com.adams.edutube.model.AbstractDAO;
+			import com.adams.edutube.model.vo.*;
+			import com.adams.edutube.util.Utils;
+			
+			import mx.logging.LogEventLevel;
+			import mx.logging.targets.TraceTarget;
+			
+			import org.swizframework.utils.logging.AbstractSwizLoggingTarget;
+			import org.swizframework.utils.logging.SwizLogEventLevel;
+			import org.swizframework.utils.logging.SwizLogger;
+			
+			protected function initializeHandler( event:Event ):void { 
+				var target:TraceTarget = new TraceTarget();
+				target.includeCategory = true; 
+				//target.level = LogEventLevel.ALL;    
+				var targets:AbstractSwizLoggingTarget = new AbstractSwizLoggingTarget();
+				targets.level = SwizLogEventLevel.INFO;
+				//SwizLogger.addLoggingTarget( targets );    
+				messenger.beanFactory = this.beanFactory;
+			}
+		]]> 
+	</fx:Script>
+	
+	<fx:Declarations>
+		<storage:SharedObjectBean/>		
+	</fx:Declarations>
+	
+	<Swiz:config>
+		<swiz:SwizConfig viewPackages="com.adams.edutube.view.*" tearDownEventType="{ Event.REMOVED_FROM_STAGE }"/>
+	</Swiz:config>
+	
+	<Swiz:customProcessors>
+		<mediateview:MediateViewProcessor/>		
+		<signalprocess:SignalsProcessor strictArgumentTypes="true" signalPackages='com.adams.edutube.signal'/>
+		<signalprocess:MediateSignalProcessor signalPackages="{['com.adams.swizdao.signals']}" strictArgumentTypes="true"/>
+	</Swiz:customProcessors>
+	
+	<Swiz:beanProviders> 
+		<swiz:BeanProvider>
+			
+			<!-- Service Begin-->
+			<util:NativeMessenger id="messenger"/>
+			<services:ServiceHelper swiz="{ this }" />
+			<!-- Service End -->
+			
+			<signal:ControlSignal/>
+			<signals:AbstractSignal/>
+			<signals:ResultSignal/>
+			<signals:PushRefreshSignal/>
+			<!-- Signals End -->
+			
+			<!-- Response Begin -->
+			<service:ServiceResult/>
+			<response:SignalSequence/>
+			<!-- Response End --> 
+			
+			<!-- // Processors Begin -->
+			<processor:VisualProcessor id='VisualProcessor'/>
+			<processor:TopicProcessor id='TopicProcessor'/>
+			<processor:SubjectProcessor id='SubjectProcessor'/>
+			<!-- Processors End -->  
+			
+			<!-- // DAO Begin -->
+			<swiz:Prototype name='{Utils.SUBJECTDAO}' constructorArguments='{[Utils.SUBJECTKEY,Subject,SubjectProcessor,Utils.SUBJECTDAO]}' type='{AbstractDAO}' singleton='true'/>  
+			<dao:PagingDAO/>
+			<!-- DAO End --> 
+			
+			<!-- // Controller Begin -->
+			<control:SignalsCommand/>
+			<vo:CurrentInstance/> 
+			<controller:ServiceController/>
+			<edutube:BootStrapCommand/>
+			<!-- Controller End --> 
+			<mediators:MainViewMediator id='mainview' skinClass='com.adams.edutube.view.MainSkinView' width='100%' height='100%'/>
+		</swiz:BeanProvider>
+	</Swiz:beanProviders>
+</Swiz:Swiz>

@@ -1,0 +1,1986 @@
+<Subjects>
+	<Subject name='Maths'>
+		<Topic name='Arithmetic'>
+			<video url="AuX7nPBqDts" label="Basic Addition" />
+			<video url="t2L3JFOqTEk" label="Addition 2" />
+			<video url="27Kp7HJYj2c" label="Level 2 Addition" />
+			<video url="e_SpXIw_Qts" label="Addition 3" />
+			<video url="fOXo4p4WDKM" label="Addition 4" />
+			<video url="aNqG4ChKShI" label="Basic Subtraction" />
+			<video url="incKJchBCLo" label="Subtraction 2" />
+			<video url="ZaqOUE3H1mE"
+				label="Subtraction 3:  Introduction to Borrowing or Regrouping" />
+			<video url="GBtcGO44e-A" label="Alternate mental subtraction method" />
+			<video url="omUfrXtHtN0" label="Level 4 Subtraction" />
+			<video url="fWan_T0enj4" label="Why borrowing works" />
+			<video url="SxZUFA2SGX8" label="Adding Decimals" />
+			<video url="0mOH-qNGM7M" label="Subtracting decimals" />
+			<video url="mvOkMYCygps" label="Basic Multiplication" />
+			<video url="xO_1bYgoQvA" label="Multiplication 2: The Multiplication Tables" />
+			<video url="qihoczo1Ujk" label="Multiplication 3: 10,11,12 times tables" />
+			<video url="OYYYc7ygd38" label="Multiplication 4: 2-digit times 1-digit number" />
+			<video url="t8m0NalQtEk" label="Multiplication 5:  2-digit times a 2-digit number" />
+			<video url="-h3Oqhl8fPg" label="Multiplication 6: Multiple Digit Numbers" />
+			<video url="_k3aWF6_b4w" label="Multiplication 7: Old video giving more examples" />
+			<video url="m5z6pOsxF_8" label="Mulitplication 8: Multiplying decimals (Old video)" />
+			<video url="gS6TfWUv97I" label="Lattice Multiplication" />
+			<video url="S3z4XqC_YSc" label="Why Lattice Multiplication Works" />
+			<video url="MTzTqvzWzm8" label="Division 1" />
+			<video url="8Ft5iHhauJ0" label="Division 2" />
+			<video url="NcADzGz3bSI"
+				label="Division 3: More long division and remainder examples" />
+			<video url="gHTH6PKfpMc" label="Level 4 division" />
+			<video url="Gn2pdkvdbGQ" label="Converting fractions to decimals" />
+			<video url="RvtdJnYFNhc" label="Percent and decimals" />
+			<video url="S0uuK7SQcA8" label="Dividing decimal" />
+			<video url="Llt-KkHugRQ" label="Ordering numeric expressions" />
+			<video url="jFd-6EPfnec" label="Greatest Common Divisor" />
+			<video url="cH-jaMCzIRk" label="Least Common Multiple" />
+			<video url="U2ovEuEUxXQ" label="Equivalent fractions" />
+			<video url="1xuf6ZKF1_I" label="Mixed numbers and improper fractions" />
+		</Topic>
+		<Topic name='Developmental Math'>
+			<video url="jxA8MffVmPs" label="Place Value 1" />
+			<video url="wd4cRAoBOiE" label="Place Value 2" />
+			<video url="iK0y39rjBgQ" label="Place Value 3" />
+			<video url="_qzs1zozTBo" label="Rounding Whole Numbers 1" />
+			<video url="fh8gkPW_6g4" label="Rounding Whole Numbers 2" />
+			<video url="3jBfLaLrk6I" label="Rounding Whole Numbers 3" />
+			<video url="9Jg5S7F2SMQ" label="Comparing Whole Numbers" />
+			<video url="KMwzeYAtJDc" label="Comparing Whole Numbers 2" />
+			<video url="zVqLlUpCnd0" label="Comparing Whole Numbers 3" />
+			<video url="b22tMEc6Kko" label="Adding Whole Numbers and Applications 1" />
+			<video url="8TD6iDzt4oQ" label="Adding Whole Numbers and Applications 2" />
+			<video url="YB2ATNCMciY" label="Adding Whole Numbers and Applications 3" />
+			<video url="-HaI9U9w3CM" label="Adding Whole Numbers and Applications 3" />
+			<video url="XBarsXzUtuE" label="Rounding to Estimate Differences" />
+			<video url="lNfZQNWZklI" label="Rounding to Estimate Sums" />
+			<video url="j21X53Rwqt4" label="Rounding to Estimate Sums 2" />
+			<video url="Yw3EoxC_GXU" label="Multiplying Whole Numbers and Applications 1" />
+			<video url="0WUXQNjdRvM" label="Multiplying Whole Numbers and Applications 2" />
+			<video url="CCPrxewq4bU" label="Multiplying Whole Numbers and Applications 3" />
+			<video url="tx2Niw7aJJ8" label="Multiplying Whole Numbers and Applications 4" />
+			<video url="_AP6rM49rOc" label="Multiplying Whole Numbers and Applications 5" />
+			<video url="4I9iibPLdBw" label="Dividing Whole Numbers and Applications 1" />
+			<video url="chWcaZSLmHE" label="Dividing Whole Numbers and Applications 2" />
+			<video url="qoDJwyyD_pg" label="Dividing Whole Numbers and Applications 3" />
+			<video url="4yp5v64XuRc" label="Dividing Whole Numbers and Applications 4" />
+			<video url="MS7k0BVR_uM" label="Dividing Whole Numbers and Applications 5" />
+			<video url="SQ523h4CTMM" label="Dividing Whole Numbers and Applications 6" />
+			<video url="HhwqS_d7Qp8" label="Properties of Whole Numbers" />
+			<video url="6nZp2QGeQ9k" label="Identity Property of 1" />
+			<video url="HwSszh3L358" label="Commutative Law of Addition" />
+			<video url="ENKH97PYssg" label="Commutative Law of Multiplication" />
+			<video url="oTKVXJ7TcbA" label="Associative Law of Addition" />
+			<video url="5RzDVNob0-0" label="Associative Law of Multiplication" />
+			<video url="gl_-E6iVAg4" label="The Distributive Property" />
+			<video url="Badvask-UDU" label="The Distributive Property 2" />
+			<video url="mJ1P4A-KA8k" label="Understanding Exponents" />
+			<video url="5qfOViJda_g" label="Understanding Exponents 2" />
+			<video url="ROIfbUQrSY4" label="Understanding Square Roots" />
+			<video url="GiSpzFKI5_w" label="Order of Operations" />
+			<video url="_xuXwHhqNUg" label="Order of Operations 2" />
+			<video url="3XOt1fjWKi8" label="Numerator and Denominator of a Fraction" />
+			<video url="-a_w0_VAo6U" label="Identifying Fraction Parts" />
+			<video url="cLYa05dOy8E" label="Proper and Improper Fractions" />
+			<video url="xkg7370cpjs" label="Changing a Mixed Number to an Improper Fraction" />
+			<video url="8JyPzTeA_8w" label="Changing an Improper Fraction to a Mixed Number" />
+			<video url="2G_Jr_XpnY4" label="Recognizing Divisibility" />
+			<video url="vcn2ruTOwFo" label="Finding Factors of a Number" />
+			<video url="ZKKDTfHcsG0" label="Prime Factorization" />
+			<video url="0JW9P_T4P_Y" label="Equivalent Fractions" />
+			<video url="WPimvspI0_c" label="Fractions in lowest terms" />
+			<video url="Io9i1JkKgN4" label="Comparing Fractions" />
+			<video url="EiXl9g3TRvw" label="Comparing Fractions 2" />
+			<video url="CTKMK1ZGLuk" label="Multiplying Fractions" />
+			<video url="RPhaidW0dmY" label="Multiplying  Mixed Numbers" />
+			<video url="p729tFmpOXg" label="Multiplying Fractions and Mixed Numbers" />
+			<video url="YJgIGwTysk0" label="Multiplying Fractions Word Problem" />
+			<video url="6YYiiixYz9A" label="Reciprocal of a Mixed Number" />
+			<video url="tnkPY4UqJ44" label="Dividing Fractions" />
+			<video url="51-U-Jkq79A" label="Dividing Mixed Numbers" />
+			<video url="aNeCGxJVG7w" label="Dividing Mixed Numbers and Fractions" />
+			<video url="PQsgXNggV7Q" label="Dividing Fractions Word Problem" />
+			<video url="EJjnEau6aeI" label="Adding Fractions with Like Denominators" />
+			<video url="OVMceVL_CEQ" label="Adding Fractions with Unlike Denominators" />
+			<video url="4TBVB4hLQhY" label="Adding Mixed Numbers" />
+			<video url="CfBYGFm5gPA" label="Adding Mixed Numbers with Unlike Denominators" />
+			<video url="o0arqcKC7QE" label="Adding Mixed Numbers Word Problem" />
+			<video url="UbUdyE1_b9g" label="Subtracting  Fractions" />
+			<video url="WF7L2waDwLw" label="Subtracting Mixed Numbers" />
+			<video url="4LYtLMmDuzw" label="Subtracting Mixed Numbers 2" />
+			<video url="tj9oLZYA-AQ" label="Subtracting Mixed Numbers Word Problem" />
+			<video url="x-Dqe5U1TXA" label="Decimal Place Value" />
+			<video url="AuD2TX-90Cc" label="Decimal Place Value 2" />
+			<video url="NzIoHQfStoM" label="Decimals and Fractions" />
+			<video url="HCC96awA-FM" label="Comparing Decimals" />
+			<video url="_MIn3zFkEcc" label="Rounding Decimals" />
+			<video url="w616LEmrHVE" label="Adding Decimals" />
+			<video url="Eq4mVCd-yyo" label="Subtracting Decimals" />
+			<video url="hy_bDS3aHO4" label="Subtracting Decimals Word Problem" />
+			<video url="JEHejQphIYc" label="Multiplying Decimals" />
+			<video url="1fnzY3WypMA" label="Multiplying Decimals 2" />
+			<video url="Nqts8zW8RxM" label="Dividing Decimals" />
+			<video url="D_E4Jws71rE" label="Dividing Decimals 2" />
+			<video url="HLGCq2h4ihY" label="Dividing Decimals 2.1" />
+			<video url="W7dImsrVa0Y" label="Mulitplyling Decimals 3" />
+			<video url="BkwI6Uu0vi4" label="Estimation with Decimals" />
+			<video url="JWmCiZwoyMs" label="Ratios as Fractions in Simplest Form" />
+			<video url="p5nomPfUF9k" label="Simplifying Rates and Ratios" />
+			<video url="Zm0KaIw-35k" label="Finding Unit Rates" />
+			<video url="d7rAlcNHDUI" label="Finding Unit Prices" />
+			<video url="V3FvaClh6LY" label="Understanding Proportions" />
+			<video url="e_6lyl3Lq-c" label="Find an Unknown in a Proportion" />
+			<video url="biL7ILa6P6A" label="Find an Unknown in a Proportion 2" />
+			<video url="Lvr2YsxG10o" label="Describing the Meaning of Percent" />
+			<video url="MokI3Fi8jpc" label="Describing the Meaning of Percent 2" />
+			<video url="-gB1y-PMWfs"
+				label="Representing a number as a decimal, percent, and fraction" />
+			<video url="Hkwfibux88s"
+				label="Representing a number as a decimal, percent, and fraction 2" />
+			<video url="TvSKeTFsaj4" label="Solving Percent Problems" />
+			<video url="N4kDzoQOngY" label="Solving Percent Problems 2" />
+			<video url="DAikW24_O0A" label="Solving Percent Problems 3" />
+			<video url="8C5kAIKLcZo" label="Converting Yards into Inches" />
+			<video url="CAXqVVxn9zA" label="Adding different units of length" />
+			<video url="AGFO-ROxH_I" label="Converting units of length" />
+			<video url="IrvEHVn-fks" label="Converting pounds to ounces" />
+			<video url="gRAwbGqnEqk" label="Adding different units for weight" />
+			<video url="gnCL_0uA6Ds" label="Application problems involving units of weight" />
+			<video url="4uQtJDf7drU" label="Converting Gallons to quarts pints and cups" />
+			<video url="hShqXKpI6KA"
+				label="Performing arithmetic calculations on units of volume" />
+			<video url="KgoXx_58QyQ"
+				label="Solving application problems involving units of volume" />
+			<video url="y2RHWA7t0WM" label="U.S. Customary and Metric units" />
+			<video url="SYkmadc2wOI" label="Conversion between metric units" />
+			<video url="uHaKyNplino" label="Converting within the metric system" />
+			<video url="CDvPPsB3nEM" label="Applying the Metric System" />
+			<video url="aASUZqJCHHA" label="Comparing Celsius and Farenheit temperature scales" />
+			<video url="p7TtcisPQN4" label="Converting Farenheit to Celsius" />
+		</Topic>
+		<Topic name='Pre-Algebra'>
+			<SubTopic name='Core Pre-Algebra'>
+				<video url="C38B33ZywWs" label="Adding/Subtracting negative numbers" />
+				<video url="d8lP5tR2R3Q" label="Multiplying and dividing negative numbers" />
+				<video url="52ZlXsFJULI" label="Adding and subtracting fractions" />
+				<video url="Mnu16kCRW4U" label="Multiplying fractions" />
+				<video url="zQMU-lsMb3U" label="Dividing fractions" />
+				<video url="ClYdw4d4OmA" label="Introduction to Order of Operations" />
+				<video url="piIcRV2dx7E" label="More Complicated Order of Operations Example" />
+				<video url="8htcZca0JIA" label="Level 1 Exponents" />
+				<video url="1Nt-t9YJM8k" label="Level 2 Exponents" />
+				<video url="aYE26a5E1iU" label="Level 3 exponents" />
+				<video url="Tqpcku0hrPU" label="Negative Exponent Intuition" />
+				<video url="kITJ6qH7jS0" label="Exponent Rules Part 1" />
+				<video url="rEtuPhl6930" label="Exponent Rules Part 2" />
+				<video url="6QJtWfIiyZo" label="Simplifying radicals" />
+				<video url="mQTWzLpCcW0" label="Introduction to Logarithms" />
+				<video url="w0nqd_HXHPQ" label="Unit conversion" />
+				<video url="aTjNDKlz8G4" label="Speed translation" />
+				<video url="PupNgv49_WY" label="Introduction to logarithm properties" />
+				<video url="TMmxKZaCqe0" label="Introduction to logarithm properties (part 2)" />
+				<video url="trdbaV4TaAo" label="Scientific Notation" />
+				<video url="0Dd-y_apbRw" label="Scientific Notation Examples" />
+				<video url="HpdMJaKaXXc" label="Introduction to Ratios (new HD version)" />
+				<video url="ScvuRb6vsz4" label="Unit Conversion Example: Drug Dosage" />
+			</SubTopic>
+			<SubTopic name='Worked Examples1'>
+				<video url="VSnaItss8Xc" label="MTEL Math Practice Test: 1-4" />
+				<video url="fjPvQoShHYc" label="MTEL Math Practice Test: 5-8" />
+				<video url="kE95P0oXXSw" label="MTEL Math Practice Test: 9-11" />
+				<video url="BSVUG-F6W1Y" label="MTEL Math Practice Test: 12 -15" />
+				<video url="nIGAejpOaII" label="MTEL Math Practice Test: 16-19" />
+				<video url="RnJEqQdfkCM" label="MTEL Math Practice Test: 20-23" />
+				<video url="mG94FpywnZw" label="MTEL Math Practice Test: 24-27" />
+				<video url="I3yhRywRCaQ" label="MTEL Math Practice Test: 28-30" />
+				<video url="JGeqb4VloPg" label="MTEL Math Practice Test: 31-35" />
+				<video url="tIEGPkZVUj8" label="MTEL Math Practice Test: 36-40" />
+				<video url="4bIqWXStPEI" label="MTEL Math Practice Test: 41-45" />
+			</SubTopic>
+		</Topic>
+		<Topic name='Brain Teasers'>
+			<video url="69rDtSpshAw" label="Liar Truthteller Brain Teaser" />
+			<video url="l3OkPYhDi9w" label="Toggler Brain Teaser" />
+			<video url="K4pocYXOmTQ" label="Alien Abduction Brain Teaser" />
+			<video url="rBaCDC52NOY" label="Brain Teaser: Blue Forehead Room" />
+			<video url="-xYkTJFbuM0" label="Blue Forehead Room Solution" />
+			<video url="jqpQPxWj8gE" label="Forehead Numbers Brain Teaser" />
+			<video url="WNhxkpmVQYw" label="Light Bulb Switching Brain Teaser" />
+			<video url="9QduzzW10uA" label="Path Counting Brain Teaser" />
+			<video url="wRxzDOloS3o" label="3-D Path Counting Brain Teaser" />
+		</Topic>
+		<Topic name='Algebra'>
+			<video url="9Ek61w1LxSc" label="Simple Equations" />
+			<video url="XoEn1LfVoTo" label="Equations 2" />
+			<video url="f15zA0PhSek" label="Equations 3" />
+			<video url="9IUEk9fn2Vs" label="Algebra: Linear Equations 4" />
+			<video url="VgDe_D8ojxw" label="Algebra: Solving Inequalities" />
+			<video url="2UrcUfBizyw" label="Algebra: graphing lines 1" />
+			<video url="Nhn-anmubYU" label="Algebra: Slope and Y-intercept intuition" />
+			<video url="hXP1Gv9IMBo" label="Algebra: Slope" />
+			<video url="Kk9IDameJXk" label="Algebra: Slope 2" />
+			<video url="8XffLj2zvf4" label="Algebra: Slope 3" />
+			<video url="gvwKv6F69F0" label="Algebra: Equation of a line" />
+			<video url="8sz1IPjBRS8" label="Slope and Y-intercept Intuition" />
+			<video url="9VZsMY15xeU" label="Averages" />
+			<video url="PASSD2OcU0c" label="Advanced ratio problems" />
+			<video url="bAUT_Pux73w" label="Age word problems 1" />
+			<video url="pPqPj8CAPvI" label="Age word problems 2" />
+			<video url="DplUpe3oyWo" label="Age word problems 3" />
+			<video url="Sc0e6xrRJYY" label="Level 1 multiplying expressions" />
+			<video url="N30tN9158Kc" label="Solving a quadratic by factoring" />
+			<video url="rDLDGQMKT3M" label="i and Imaginary numbers" />
+			<video url="kpywdu1afas" label="Complex Numbers (part 1)" />
+			<video url="bPqB9a1uk_8" label="Complex Numbers (part 2)" />
+			<video url="IWigvJcCAJ0" label="Introduction to the quadratic equation" />
+			<video url="y19jYxzY8Y8" label="Quadratic Equation part 2" />
+			<video url="gzm-uhj06q8" label="Completing the square" />
+			<video url="mDmRYfma9C0" label="Quadratic Formula (proof)" />
+			<video url="ZNtzWpU80-0" label="Quadratic Inequalities" />
+			<video url="xdiBjypYFRQ" label="Quadratic Inequalities (Visual Explanation)" />
+			<video url="VhokQhjl5t0" label="Introduction to functions" />
+			<video url="XEblO51pF5I" label="Functions Part 2" />
+			<video url="5fcRSie63Hs" label="Functions (Part III)" />
+			<video url="rbt51hXmzig" label="Functions (part 4)" />
+			<video url="U-k5N1WPk4g" label="Domain of a function" />
+			<video url="FP2arCfAfBY" label="Proof: log a + log b = log ab" />
+			<video url="yEAxG_D1HDw"
+				label="Proof: A(log B) = log (B^A), log A - log B = log (A/B)" />
+			<video url="cKOtT4WnZb4" label="Proof: log_a (B) = (log_x (B))/(log_x (A))" />
+			<video url="4u8_AMacu-Y" label="Algebraic Long Division" />
+			<video url="0A7RR0oy2ho" label="Introduction to Conic Sections" />
+			<video url="6r1GQCxyMKI" label="Conic Sections: Intro to Circles" />
+			<video url="lvAYFUIEpFI" label="Conic Sections: Intro to Ellipses" />
+			<video url="pzSyOTkAsY4" label="Conic Sections: Intro to Hyperbolas" />
+			<video url="hl58vTCqVIY" label="Conic Sections: Hyperbolas 2" />
+			<video url="lGQw-W1PxBE" label="Conic Sections: Hyperbolas 3" />
+			<video url="LSJuu4Qm2qQ" label="Identifying Conics 1" />
+			<video url="cvA4VN1dpuY" label="Identifying Conics 2" />
+			<video url="Dru0RHgfp2g" label="Conic Identification 3" />
+			<video url="QR2vxfwiHAU" label="Foci of an Ellipse" />
+			<video url="S0Fd2Tg2v7M" label="Foci of a Hyperbola" />
+			<video url="HPRFmu7JsKU" label="Proof: Hyperbola Foci" />
+			<video url="S-XKGBesRzk" label="Partial Fraction Expansion 1" />
+			<video url="6FrPLJY0rqM" label="Partial Fraction Expansion 2" />
+			<video url="A52fEdPn9lg" label="Partial Fraction Expansion 3" />
+			<video url="ZJf9shWlMz0" label="Parabola Focus and Directrix 1" />
+			<video url="1Jm9rREA-uA" label="Focus and Directrix of a Parabola 2" />
+			<video url="Nx4Xk5S4HQA" label="Two Passing Bicycles Word Problem" />
+			<video url="P03ljxjy8Nw" label="Passed Bike Word Problem" />
+			<video url="qLLjD-g_9ms" label="Passing Trains" />
+			<video url="LYWUHaWwY0c" label="Overtaking Word Problem" />
+			<video url="uA3m8vbd2wc" label="Early Train Word Problem" />
+			<video url="IPJAi5zWu9U" label="Officer on Horseback" />
+			<video url="ZjeMdXV0QMg" label="Rational Inequalities" />
+			<video url="2RnS3fSHVV8" label="Rational Inequalities 2" />
+			<video url="hypi8QPsFEk" label="Interesting Polynomial Coefficient Problem" />
+			<video url="i05-okb1EJg"
+				label="Geometric series sum to figure out mortgage payments" />
+			<video url="W84lObmOp8M" label="Introduction to Function Inverses" />
+			<video url="wSiamij_i_k" label="Function Inverse Example 1" />
+			<video url="aeyFb2eVH1c" label="Function Inverses Example 2" />
+			<video url="Bq9cq9FZuNM" label="Function Inverses Example 3" />
+			<SubTopic name='Core Algebra'>
+				<video url="9Ek61w1LxSc" label="Simple Equations" />
+				<video url="XoEn1LfVoTo" label="Equations 2" />
+				<video url="f15zA0PhSek" label="Equations 3" />
+				<video url="9IUEk9fn2Vs" label="Algebra: Linear Equations 4" />
+				<video url="VgDe_D8ojxw" label="Algebra: Solving Inequalities" />
+				<video url="2UrcUfBizyw" label="Algebra: graphing lines 1" />
+				<video url="Nhn-anmubYU" label="Algebra: Slope and Y-intercept intuition" />
+				<video url="hXP1Gv9IMBo" label="Algebra: Slope" />
+				<video url="Kk9IDameJXk" label="Algebra: Slope 2" />
+				<video url="8XffLj2zvf4" label="Algebra: Slope 3" />
+				<video url="gvwKv6F69F0" label="Algebra: Equation of a line" />
+				<video url="8sz1IPjBRS8" label="Slope and Y-intercept Intuition" />
+				<video url="9VZsMY15xeU" label="Averages" />
+				<video url="PASSD2OcU0c" label="Advanced ratio problems" />
+				<video url="bAUT_Pux73w" label="Age word problems 1" />
+				<video url="pPqPj8CAPvI" label="Age word problems 2" />
+				<video url="DplUpe3oyWo" label="Age word problems 3" />
+				<video url="Sc0e6xrRJYY" label="Level 1 multiplying expressions" />
+				<video url="N30tN9158Kc" label="Solving a quadratic by factoring" />
+				<video url="rDLDGQMKT3M" label="i and Imaginary numbers" />
+				<video url="kpywdu1afas" label="Complex Numbers (part 1)" />
+				<video url="bPqB9a1uk_8" label="Complex Numbers (part 2)" />
+				<video url="IWigvJcCAJ0" label="Introduction to the quadratic equation" />
+				<video url="y19jYxzY8Y8" label="Quadratic Equation part 2" />
+				<video url="gzm-uhj06q8" label="Completing the square" />
+				<video url="mDmRYfma9C0" label="Quadratic Formula (proof)" />
+				<video url="ZNtzWpU80-0" label="Quadratic Inequalities" />
+				<video url="xdiBjypYFRQ" label="Quadratic Inequalities (Visual Explanation)" />
+				<video url="VhokQhjl5t0" label="Introduction to functions" />
+				<video url="XEblO51pF5I" label="Functions Part 2" />
+				<video url="5fcRSie63Hs" label="Functions (Part III)" />
+				<video url="rbt51hXmzig" label="Functions (part 4)" />
+				<video url="U-k5N1WPk4g" label="Domain of a function" />
+				<video url="FP2arCfAfBY" label="Proof: log a + log b = log ab" />
+				<video url="yEAxG_D1HDw"
+					label="Proof: A(log B) = log (B^A), log A - log B = log (A/B)" />
+				<video url="cKOtT4WnZb4" label="Proof: log_a (B) = (log_x (B))/(log_x (A))" />
+				<video url="4u8_AMacu-Y" label="Algebraic Long Division" />
+				<video url="0A7RR0oy2ho" label="Introduction to Conic Sections" />
+				<video url="6r1GQCxyMKI" label="Conic Sections: Intro to Circles" />
+				<video url="lvAYFUIEpFI" label="Conic Sections: Intro to Ellipses" />
+				<video url="pzSyOTkAsY4" label="Conic Sections: Intro to Hyperbolas" />
+				<video url="hl58vTCqVIY" label="Conic Sections: Hyperbolas 2" />
+				<video url="lGQw-W1PxBE" label="Conic Sections: Hyperbolas 3" />
+				<video url="LSJuu4Qm2qQ" label="Identifying Conics 1" />
+				<video url="cvA4VN1dpuY" label="Identifying Conics 2" />
+				<video url="Dru0RHgfp2g" label="Conic Identification 3" />
+				<video url="QR2vxfwiHAU" label="Foci of an Ellipse" />
+				<video url="S0Fd2Tg2v7M" label="Foci of a Hyperbola" />
+				<video url="HPRFmu7JsKU" label="Proof: Hyperbola Foci" />
+				<video url="S-XKGBesRzk" label="Partial Fraction Expansion 1" />
+				<video url="6FrPLJY0rqM" label="Partial Fraction Expansion 2" />
+				<video url="A52fEdPn9lg" label="Partial Fraction Expansion 3" />
+				<video url="ZJf9shWlMz0" label="Parabola Focus and Directrix 1" />
+				<video url="1Jm9rREA-uA" label="Focus and Directrix of a Parabola 2" />
+				<video url="Nx4Xk5S4HQA" label="Two Passing Bicycles Word Problem" />
+				<video url="P03ljxjy8Nw" label="Passed Bike Word Problem" />
+				<video url="qLLjD-g_9ms" label="Passing Trains" />
+				<video url="LYWUHaWwY0c" label="Overtaking Word Problem" />
+				<video url="uA3m8vbd2wc" label="Early Train Word Problem" />
+				<video url="IPJAi5zWu9U" label="Officer on Horseback" />
+				<video url="ZjeMdXV0QMg" label="Rational Inequalities" />
+				<video url="2RnS3fSHVV8" label="Rational Inequalities 2" />
+				<video url="hypi8QPsFEk" label="Interesting Polynomial Coefficient Problem" />
+				<video url="i05-okb1EJg"
+					label="Geometric series sum to figure out mortgage payments" />
+				<video url="W84lObmOp8M" label="Introduction to Function Inverses" />
+				<video url="wSiamij_i_k" label="Function Inverse Example 1" />
+				<video url="aeyFb2eVH1c" label="Function Inverses Example 2" />
+				<video url="Bq9cq9FZuNM" label="Function Inverses Example 3" />
+			</SubTopic>
+			<SubTopic name='Worked Examples1'>
+				<video url="ZouQdHSyelg"
+					label="CA Algebra I: Number Properties and Absolute Value" />
+				<video url="Hfihqi82M4A" label="CA Algebra I: Simplifying Expressions" />
+				<video url="yIzF_XGX4qk" label="CA Algebra I: Simple Logical Arguments" />
+				<video url="KZ8Vw_Nim8U" label="CA Algebra I: Graphing Inequalities" />
+				<video url="31v-n2ND2VE" label="CA Algebra I: Slope and Y-intercept" />
+				<video url="1piZ8oYWh3E" label="CA Algebra I: Systems of Inequalities" />
+				<video url="ri-0v6vqcKM" label="CA Algebra I: Simplying Expressions" />
+				<video url="K5ggNnKTmNM" label="CA Algebra I: Factoring Quadratics" />
+				<video url="8M4c8TB3Cdc" label="CA Algebra I: Completing the Square" />
+				<video url="tSNtCg7o7bA" label="CA Algebra I: Quadratic Equation" />
+				<video url="uA6mcx4FMN8" label="CA Algebra I: Quadratic Roots" />
+				<video url="K4VyHxglUts" label="CA Algebra I: Rational Expressions" />
+				<video url="C5xQP8RmHxE" label="CA Algebra I: Rational Expressions" />
+				<video url="PP23clmV9Hw" label="CA Algebra I: Word Problems" />
+				<video url="ch5tDNaeuxc" label="CA Algebra I: More Word Problems" />
+				<video url="NRB6s77nx2g" label="CA Algebra I: Functions" />
+			</SubTopic>
+			<SubTopic name='Worked Examples2'>
+				<video url="aoXUWSwiDzE" label="Variable Expressions" />
+				<video url="3Po3nfITsok" label="Order of Operations" />
+				<video url="rUT0pa87m7E" label="Patterns and Equations" />
+				<video url="hJ-_OoCHTks" label="Equations and Inequalities" />
+				<video url="O0uUVH8dRiU" label="Domain and Range of a Function" />
+				<video url="jQ-fS2lsslU" label="Functions as Graphs" />
+				<video url="Xz6rT9k8ftg" label="Word Problem Solving Plan 1" />
+				<video url="SpDIXJ2I2D4" label="Word Problem Solving Strategies" />
+				<video url="kyu-IQ-gBIg" label="Integers and Rational Numbers" />
+				<video url="BKEtsv9MbyY" label="Addition of Rational  Numbers" />
+				<video url="lLIo4kGRBEw" label="Subraction of Rational Numbers" />
+				<video url="lBi9bwz08EY" label="Multiplication of Rational Numbers" />
+				<video url="ewEorPD4kdA" label="Distributive Property" />
+				<video url="I0b5-7UuwQ8" label="Division of Rational Numbers" />
+				<video url="BpBh8gvMifs" label="Square Roots and Real Numbers" />
+				<video url="s1QN7sSfBM8" label="Problem Solving Word Problems 2" />
+				<video url="9DxrF6Ttws4" label="One Step Equations" />
+				<video url="tuVd355R-OQ" label="Two-Step Equations" />
+				<video url="a5uNoOnEy_A" label="Multi-Step Equations" />
+				<video url="xMsG9hvqzbY" label="Equations with Variables on Both Sides" />
+				<video url="WfqgFBGet7s" label="Ratio and Proportion" />
+				<video url="GfNB14D55gQ" label="Scale and Indirect Measurement" />
+				<video url="1LtBcfk1uHg" label="Percent Problems" />
+				<video url="LRKMoqrMbGw" label="Word Problem Solving 3" />
+				<video url="VhNkWdLGpmA" label="The Coordinate Plane" />
+				<video url="6zixwWZ88tk" label="Graphing Using Intercepts" />
+				<video url="rgvysb9emcQ" label="Graphs of Linear Equations" />
+				<video url="Iqws-qzyZwc" label="Slope and Rate of Change" />
+				<video url="9wOalujeZf4" label="Graphs Using Slope-Intercept Form" />
+				<video url="9M-B5qU7ezY" label="Direct Variation Models" />
+				<video url="EmTvdKkAUtE" label="Linear Function Graphs" />
+				<video url="5EdbPz1ZVn0" label="Word Problem Solving 4" />
+				<video url="5fkh01mClLU" label="Linear Equations in Slope Intercept Form" />
+				<video url="zqCokP2vDGo" label="Linear Equations in Point Slope Form" />
+				<video url="BaQXFstxCMo" label="Linear Equations in Standard Form" />
+				<video url="9hryH94KFJA" label="Equations of Parallel and Perpendicular Lines" />
+				<video url="OhUkMQtBGmE" label="Fitting a Line to Data" />
+				<video url="aVDiAGZmcPo" label="Predicting with Linear Models" />
+				<video url="Gjv25aOuD00" label="Using a Linear Model" />
+				<video url="UTs4uZhu5t8" label="Inequalities Using Addition and Subtraction" />
+				<video url="PNXozoJWsWc" label="Inequalities Using Multiplication and Division" />
+				<video url="xOxvyeSl0uA" label="Multi-Step Inequalities" />
+				<video url="A3xPhzs-KBI" label="Compound Inequalities" />
+				<video url="u6zDpUL5RkU" label="Absolute Value Equations" />
+				<video url="iI_2Piwn_og" label="Absolute Value Inequalities" />
+				<video url="unSBFwK881s" label="Graphing Inequalities" />
+				<video url="5a6zpfl50go" label="Solving Linear Systems by Graphing" />
+				<video url="V7H1oUHXPkg" label="Solving Linear Systems by Substitution" />
+				<video url="vA-55wZtLeE" label="Solving Systems of Equations by Elimination" />
+				<video url="wYrxKGt_bLg" label="Solving Systems of Equations by Multiplication" />
+				<video url="5qkyuHIE2GM" label="Special Types of Linear Systems" />
+				<video url="5xQqwgS3O4U" label="Systems of Linear Inequalities" />
+				<video url="zM_p7tfWvLU" label="Exponent Properties Involving Products" />
+				<video url="AR1uqNbjM5s" label="Exponent Properties Involving Quotients" />
+				<video url="tOuCdKqO6-s" label="Zero, Negative, and Fractional Exponents" />
+				<video url="i6lfVUp5RW8" label="Scientific Notation" />
+				<video url="6WMZ7J0wwMI" label="Exponential Growth Functions" />
+				<video url="AXAMVxaxjDg" label="Exponential Decay Functions" />
+				<video url="pXo0bG4iAyg" label="Geometric Sequences (Introduction)" />
+				<video url="m5Tf6vgoJtQ"
+					label="Word Problem Solving- Exponential Growth and Decay" />
+				<video url="ZgFXL6SEUiI" label="Addition and Subtraction of Polynomials" />
+				<video url="fGThIRpWEE4" label="Multiplication of Polynomials" />
+				<video url="bFtjG45-Udk" label="Special Products of Binomials" />
+				<video url="zxz0WNVnF38" label="Polynomial Equations in Factored Form" />
+				<video url="eF6zYNzlZKQ" label="Factoring Quadratic Expressions" />
+				<video url="BI_jmI4xRus" label="Factoring Special Products" />
+				<video url="X7B_tH4O-_s" label="Factor by Grouping and Factoring Completely" />
+				<video url="RjkTEyO5Zso" label="Graphs of Quadratic Functions" />
+				<video url="JHUju_Qkqbg" label="Solving Quadratic Equations by Graphing" />
+				<video url="55G8037gsKY" label="Solving Quadratic Equations by Square Roots" />
+				<video url="bNQY0z76M5A"
+					label="Solving Quadratic Equations by Completing the Square" />
+				<video url="i7idZfS8t8w" label="Using the Quadratic Formula" />
+				<video url="r3SEkdtpobo" label="Proof of Quadratic Formula" />
+				<video url="JBSDQLZtjFo" label="Discriminant of Quadratic Equations" />
+				<video url="CxEFOozrMSE" label="Linear, Quadratic, and Exponential Models" />
+				<video url="o1npPDCq-4M" label="Identifying Quadratic Models" />
+				<video url="s8PKFcrrbNQ" label="Identifying Exponential Models" />
+				<video url="z_hEVWSkQHo" label="Quadratic Regression" />
+				<video url="outcfkh69U0" label="Graphs of Square Root Functions" />
+				<video url="iX7ivCww2ws" label="Radical Expressions with Higher Roots" />
+				<video url="VWlFMfPVmkU" label="More Simplifying Radical Expressions" />
+				<video url="gY5TvlHg4Vk" label="How to Rationalize a Denominator" />
+				<video url="711pdW8TbbY" label="Extraneous Solutions to Radical Equations" />
+				<video url="dKuk8PybYs4" label="Radical Equation Examples" />
+				<video url="5pqzmUxOw_E" label="More Involved Radical Equation Example" />
+				<video url="AEIzy1kNRqo" label="Pythagorean Theorem" />
+				<video url="nyZuite17Pc" label="Distance Formula" />
+				<video url="Ez_-RwV9WVo" label="Midpoint Formula" />
+				<video url="r382kfkqAF4" label="Visual Pythagorean Theorem Proof" />
+				<video url="GrynkZB3E7M"
+					label="Average or Central Tendency: Arithmetic Mean, Median, and Mode" />
+				<video url="E4HAYd0QnRc"
+					label="Range, Variance and Standard Deviation as Measures of Dispersion" />
+				<video url="OaJXJduRiIE" label="Stem and Leaf Plots" />
+				<video url="4eLJGG2Ad30" label="Histograms" />
+				<video url="BXq5TFLvsVw" label="Box-and-whisker Plot" />
+				<video url="AQFZuih2odo" label="Proportionality" />
+				<video url="2N62v_63SBo" label="Asymptotes of Rational Functions" />
+				<video url="ReEMqdZEEX0" label="Another Rational Function Graph Example" />
+				<video url="p7ycTWq6BFk" label="A Third Example of Graphing a Rational Function" />
+				<video url="FXgV9ySNusc" label="Polynomial Division" />
+				<video url="7Uos1ED3KHI" label="Simplifying Rational Expressions" />
+				<video url="x_5hDLe8UL0" label="Multiplying and Dividing Rational Expressions" />
+				<video url="nWEso_M7By4" label="Adding Rational Expressions Example 1" />
+				<video url="euyg3SwS2lU" label="Adding Rational Expressions Example 2" />
+				<video url="4VO-BgDgAHE" label="Adding Rational Expressions Example 3" />
+				<video url="6eqgIZyXgK8" label="Solving Rational Equations" />
+				<video url="u28w46QrE0Q" label="Two more examples of solving rational equations" />
+				<video url="nabw6v93Xns" label="Surveys and Samples" />
+				<video url="T0IOrRETWhI" label="Pythagorean Theorem 3" />
+			</SubTopic>
+			<SubTopic name='Worked Examples3'>
+				<video url="wzEVAd6ezZU" label="California Standards Test: Algebra II" />
+				<video url="UzvOjuJZVJ0"
+					label="California Standards Test: Algebra II (Graphing Inequalities" />
+				<video url="sMrmuoehZpY"
+					label="CA Standards: Algebra II (Algebraic Division/Multiplication)" />
+				<video url="q9m5VZMYEyw" label="CA Standards:  Algebra II" />
+				<video url="WB7gPfsv6rQ" label="Algebra II: Simplifying Polynomials" />
+				<video url="C-2Ln0pK3kY" label="Algebra II: Imaginary and Complex Numbers" />
+				<video url="e3W8o6M-7gg" label="Algebra II: Complex numbers and conjugates" />
+				<video url="GHDrDdu6vrU" label="Algebra II: Quadratics and Shifts" />
+				<video url="X9rTIwc1wRU" label="Algebra II: Shifting Quadratic Graphs" />
+				<video url="74oju-0NExU" label="Algebra ||: Conic Sections" />
+				<video url="QwOcCoHsZfM" label="Algebra II: Circles and Logarithms" />
+				<video url="BcjutHIUjxQ" label="Algebra II: Logarithms Exponential Growth" />
+				<video url="9Z1WpYN-tBE" label="Algebra II: Logarithms and more" />
+				<video url="Y5BukhTmSHE" label="Algebra II: Functions, Combinatorics" />
+				<video url="xTxv9Wukjiw" label="Algebra II: binomial Expansion and Combinatorics" />
+				<video url="EwKWzFv3Ul8"
+					label="Algebra II: Binomial Expansions, Geometric Series Sum" />
+				<video url="ZGJU7aqE3mY" label="Algebra II: Functions and Probability" />
+				<video url="UXO9kJ3jlhk" label="Algebra II: Probability and Statistics" />
+				<video url="i0W4KcxE-mI" label="Algebra II: Mean and Standard Deviation" />
+			</SubTopic>
+		</Topic>
+		<Topic name='Geometry'>
+			<SubTopic name='Core Geometry'>
+				<video url="2439OIVBgPg" label="Introduction to angles" />
+				<video url="zrqzG6xKa1A" label="Angles (part 2)" />
+				<video url="NLg6hfoKKlE" label="Angles (part 3)" />
+				<video url="gRKZaojKeP0"
+					label="Angles formed between transversals and parralel lines" />
+				<video url="0eDwckZOffc" label="Angles of parallel lines 2" />
+				<video url="kqU_ymV581c" label="The Angle Game" />
+				<video url="BI-rtfZVXy0" label="Similar triangles" />
+				<video url="qO2cTx6DwCA" label="Similar triangles (part 2)" />
+				<video url="ko-cYG3d6ec" label="Angle Game (part 2)" />
+				<video url="kqqmJiJez6o" label="Area and Perimeter" />
+				<video url="jyLRpr2P0MQ" label="Circles: Radius, Diameter and Circumference" />
+				<video url="tCrDyJsSFok" label="Area of a circle" />
+				<video url="AA6RfgP-AHU" label="The Pythagorean Theorem" />
+				<video url="nMhJLn5ives" label="Pythagorean Theorem II" />
+				<video url="tSHitjFIjd8" label="45-45-90 Triangles" />
+				<video url="Qwet4cIpnCM" label="Intro to 30-60-90 Triangles" />
+				<video url="3mLUJSoh6i0" label="30-60-90 Triangles II" />
+				<video url="-YI6UC4qVEY" label="Heron&#39;s Formula" />
+				<video url="AreOMvPCxv8" label="Part 1 of Proof of Heron&#39;s Formula" />
+				<video url="nZu7IZLhJRI" label="Part 2 of the Proof of Heron&#39;s Formula" />
+				<video url="MyzGVbCHh5M"
+					label="An inscribed angle is half of a central angle that subtends the same arc" />
+				<video url="UmiZK6Hgm6c"
+					label="Area of Inscribed Equilateral Triangle (some basic trig used)" />
+				<video url="b0U1NxbRU4w" label="Right Triangles Inscribed in Circles (Proof)" />
+				<video url="YTRimTJ5nX4"
+					label="Area of Diagonal Generated Triangles of Rectangle are Equal" />
+			</SubTopic>
+			<SubTopic name='Worked Examples1'>
+				<video url="GluohfOedQE" label="CA Geometry: deductive reasoning" />
+				<video url="u6O0YHyarlI" label="CA Geometry: Proof by Contradiction" />
+				<video url="4PPMnI8-Zsc" label="CA Geometry: More Proofs" />
+				<video url="bWTtHKSEcdI" label="CA Geometry: Similar Triangles" />
+				<video url="iOLN43V1Lmw" label="CA Geometry: Similar Triangles" />
+				<video url="FVSgVMVZZ-4"
+					label="CA Geometry: More on cogruent and similar triangles" />
+				<video url="h0FFEBHBufo" label="CA Geometry: Triangles and Parallelograms" />
+				<video url="jRrRqMJbHKc" label="CA Geometry: Area, Pythagorean Theorem" />
+				<video url="BJSk1joCQsM" label="CA Geometry: Area, Circumference, Volume" />
+				<video url="vaOXkt7uuac" label="CA Geometry: Pythagorean Theorem, Area" />
+				<video url="Ncg1HB5uVLc" label="CA Geometry: Exterior Angles" />
+				<video url="_HJljJuVHLw" label="CA Geometry: Deducing Angle Measures" />
+				<video url="6EY0E3z-hsU"
+					label="CA Geometry: Pythagorean Theorem, Compass Constructions" />
+				<video url="79lagkER9qY" label="CA Geometry: Compass Construction" />
+				<video url="MyvRxKM0xns" label="CA Geometry: Basic Trigonometry" />
+				<video url="8YBQQ0GeusM" label="CA Geometry: More Trig" />
+				<video url="FJIZPvE3O1A" label="CA Geometry: Circle Area Chords Tangent" />
+				<video url="Mp838qprwyY" label="CA Geometry: Secants and Translations" />
+			</SubTopic>
+		</Topic>
+		<Topic name='Trigonometry'>
+			<video url="F21S9Wpi0y8" label="Basic Trigonometry" />
+			<video url="QS4r_mqs-rY" label="Basic Trigonometry II" />
+			<video url="9zspW8u6kQM" label="Radians and degrees" />
+			<video url="znR9tW4AiZI" label="Using Trig Functions" />
+			<video url="RoXmKYjpLGk" label="Using Trig Functions Part II" />
+			<video url="6Qv_bPlQS8E"
+				label="The unit circle definition of trigonometric function" />
+			<video url="ZffZvSH285c" label="Unit Circle Definition of Trig Functions" />
+			<video url="2zoiW4PdVKo" label="Graph of the sine function" />
+			<video url="QmxMPPkZpME" label="Graphs of trig functions" />
+			<video url="vHYI93UV5Kg" label="Graphing trig functions" />
+			<video url="NIG3l8oWKYE" label="More trig graphs" />
+			<video url="yvW5l9W1hgE"
+				label="Determining the equation of a trigonometric function" />
+			<video url="OLzXqIqZZz0" label="Trigonometric Identities" />
+			<video url="zw0waJCEc-w" label="Proof: sin(a+b)  = (cos a)(sin b) + (sin a)(cos b)" />
+			<video url="V3-xCPDzQ1Q" label="Proof: cos(a+b) = (cos a)(cos b)-(sin a)(sin b)" />
+			<video url="ZWSoyUxAQW0"
+				label="Trig identities part 2 (parr 4 if you watch the proofs)" />
+			<video url="JXCiFbEMTZ4"
+				label="Trig identies part 3 (part 5 if you watch the proofs)" />
+			<video url="1vamogV81Y8" label="Trigonometry word problems (part 1)" />
+			<video url="4CNnPgabrLE" label="Trigonometry word problems (part 2)" />
+			<video url="pGaDcOMdw48" label="Law of cosines" />
+			<video url="XTWZ_M8d-4g" label="Navigation Word Problem" />
+			<video url="APNkWrD-U1k" label="Proof: Law of Sines" />
+			<video url="clXSqjs1wgQ" label="Ferris Wheel Trig Problem" />
+			<video url="_Kw4hLGMkm4" label="Ferris Wheel Trig Problem (part 2)" />
+			<video url="itpI12TeNIg" label="Fun Trig Problem" />
+			<video url="jexMSlSDubM" label="Polar Coordinates 1" />
+			<video url="zGpbSGj_vfE" label="Polar Coordinates 2" />
+			<video url="9iqN12hCn10" label="Polar Coordinates 3" />
+			<video url="JGU74wbZMLg" label="Inverse Trig Functions: Arcsin" />
+			<video url="Idxeo49szW0" label="Inverse Trig Functions: Arctan" />
+			<video url="eTDaJ4ebK28" label="Inverse Trig Functions: Arccos" />
+			<video url="a70-dYvDJZY" label="Trigonometry Identity Review/Fun" />
+		</Topic>
+		<Topic name='Probability'>
+			<video url="3ER8OkqBdpE" label="Probability (part 1)" />
+			<video url="6E_NVnboMB8" label="Probability (part 2)" />
+			<video url="wBDOCvHYckE" label="Probability (part 3)" />
+			<video url="W581OBM9rAY" label="Probability (part 4)" />
+			<video url="2XToWi9j0Tk" label="Probability (part 5)" />
+			<video url="xf3vfczoCho" label="Probability (part 6)" />
+			<video url="BLcgeLALLnc" label="Probability (part 7)" />
+			<video url="VVr8snbaxZg" label="Probability (part 8)" />
+			<video url="XqQTXW7XfYA" label="Permutations" />
+			<video url="bCxMhncR7PU" label="Combinations" />
+			<video url="Xqfcy1rqMbI" label="Probability using Combinations" />
+			<video url="W7DmsJKLoxc" label="Probability and Combinations (part 2)" />
+			<video url="xw6utjoyMi4" label="Conditional Probability and Combinations" />
+			<video url="9G0w61pZPig" label="Birthday Probability Problem" />
+			<video url="IYdiKeQ9xEI" label="Introduction to Random Variables" />
+			<video url="Fvi9A_tEmXQ" label="Probability Density Functions" />
+			<video url="O12yTz_8EOw" label="Binomial Distribution 1" />
+			<video url="FI8xtVaI068" label="Binomial Distribution 2" />
+			<video url="vKNpQ_KTXvE" label="Binomial Distribution 3" />
+			<video url="H0ZgOGWUcJw" label="Binomial Distribution 4" />
+			<video url="j__Kredt7vY" label="Expected Value: E(X)" />
+			<video url="SqcxYnNlI3Y" label="Expected Value of Binomial Distribution" />
+			<video url="3z-M6sbGIZ0" label="Poisson Process 1" />
+			<video url="Jkr4FSrNEVY" label="Poisson Process 2" />
+			<video url="VpuN8vCQ--M" label="Law of Large Numbers" />
+		</Topic>
+		<Topic name='Statistics'>
+			<video url="uhxtUt_-GyM" label="Statistics: The Average" />
+			<video url="hsPCte_PcVA" label="Statistics: Sample vs. Population Mean" />
+			<video url="6JFzI1DDyyk" label="Statistics: Variance of a Population" />
+			<video url="Qf3RMGXR-h8" label="Statistics: Sample Variance" />
+			<video url="HvDqbzu0i0E" label="Statistics: Standard Deviation" />
+			<video url="sRVGcYGjUk8" label="Statistics: Alternate Variance Formulas" />
+			<video url="IYdiKeQ9xEI" label="Introduction to Random Variables" />
+			<video url="Fvi9A_tEmXQ" label="Probability Density Functions" />
+			<video url="O12yTz_8EOw" label="Binomial Distribution 1" />
+			<video url="FI8xtVaI068" label="Binomial Distribution 2" />
+			<video url="vKNpQ_KTXvE" label="Binomial Distribution 3" />
+			<video url="H0ZgOGWUcJw" label="Binomial Distribution 4" />
+			<video url="j__Kredt7vY" label="Expected Value: E(X)" />
+			<video url="SqcxYnNlI3Y" label="Expected Value of Binomial Distribution" />
+			<video url="3z-M6sbGIZ0" label="Poisson Process 1" />
+			<video url="Jkr4FSrNEVY" label="Poisson Process 2" />
+			<video url="VpuN8vCQ--M" label="Law of Large Numbers" />
+			<video url="yTGEMoaWDCQ" label="Normal Distribution Excel Exercise" />
+			<video url="hgtMWR3TFnY" label="Introduction to the Normal Distribution" />
+			<video url="79duxPXpyKQ"
+				label="ck12.org Normal Distribution Problems: Qualitative sense of normal distributions" />
+			<video url="Wp2nVIzBsE8" label="ck12.org Normal Distribution Problems: z-score" />
+			<video url="OhRr26AfFBU"
+				label="ck12.org Normal Distribution Problems: Empirical Rule" />
+			<video url="2fzYE-Emar0"
+				label="ck12.org Exercise: Standard Normal Distribution and the Empirical Rule" />
+			<video url="itQEwESWDKg" label="ck12.org: More Empirical Rule and Z-score practice" />
+			<video url="JNm3M9cqWyc" label="Central Limit Theorem" />
+			<video url="FXZ2O1Lv-KE" label="Sampling Distribution of the Sample Mean" />
+			<video url="NYd6wzYkQIM" label="Sampling Distribution of the Sample Mean 2" />
+			<video url="J1twbrHel3o" label="Standard Error of the Mean" />
+		</Topic>
+		<Topic name='Pre-Calculus'>
+			<video url="W0VWO4asgmk" label="Introduction to Limits" />
+			<video url="GGQngIp0YGI" label="Limit Examples (part 1)" />
+			<video url="YRw8udexH4o" label="Limit Examples (part 2)" />
+			<video url="gWSDDopD9sk" label="Limit Examples (part3)" />
+			<video url="xjkSE9cPqzo"
+				label="Limit Examples w/ brain malfunction on first prob (part 4)" />
+			<video url="igJdDN-DPgA" label="Squeeze Theorem" />
+			<video url="Ve99biD1KtA" label="Proof: lim (sin x)/x" />
+			<video url="rkeU8_4nzKo" label="More Limits" />
+			<video url="VgVJrSJxkDk" label="Sequences and Series (part 1)" />
+			<video url="U_8GRLJplZg" label="Sequences and series (part 2)" />
+			<video url="XqQTXW7XfYA" label="Permutations" />
+			<video url="bCxMhncR7PU" label="Combinations" />
+			<video url="Cv4YhIMfbeM" label="Binomial Theorem (part 1)" />
+			<video url="-fFWWt1m9k0" label="Binomial Theorem (part 2)" />
+			<video url="xF_hJaXUNfE" label="Binomial Theorem (part 3)" />
+			<video url="GtaoP0skPWc" label="Introduction to interest" />
+			<video url="t4zfiBw0hwM" label="Interest (part 2)" />
+			<video url="qEB6y4DklNY" label="Introduction to compound interest and e" />
+			<video url="dzMvqJMLy9c" label="Compound Interest and e (part 2)" />
+			<video url="sQYpUJV8foY" label="Compound Interest and e (part  3)" />
+			<video url="VAxHMTJRhmY" label="Compound Interest and e (part 4)" />
+			<video url="JWfTckls59k" label="Exponential Growth" />
+			<video url="jexMSlSDubM" label="Polar Coordinates 1" />
+			<video url="zGpbSGj_vfE" label="Polar Coordinates 2" />
+			<video url="9iqN12hCn10" label="Polar Coordinates 3" />
+			<video url="m6c6dlmUT1c" label="Parametric Equations 1" />
+			<video url="wToSIQJ2o_8" label="Parametric Equations 2" />
+			<video url="57BiI_iD3-U" label="Parametric Equations 3" />
+			<video url="IReD6c_njOY" label="Parametric Equations 4" />
+			<video url="W84lObmOp8M" label="Introduction to Function Inverses" />
+			<video url="wSiamij_i_k" label="Function Inverse Example 1" />
+			<video url="aeyFb2eVH1c" label="Function Inverses Example 2" />
+			<video url="Bq9cq9FZuNM" label="Function Inverses Example 3" />
+		</Topic>
+		<Topic name='Calculus'>
+			<video url="W0VWO4asgmk" label="Introduction to Limits" />
+			<video url="GGQngIp0YGI" label="Limit Examples (part 1)" />
+			<video url="YRw8udexH4o" label="Limit Examples (part 2)" />
+			<video url="gWSDDopD9sk" label="Limit Examples (part3)" />
+			<video url="xjkSE9cPqzo"
+				label="Limit Examples w/ brain malfunction on first prob (part 4)" />
+			<video url="igJdDN-DPgA" label="Squeeze Theorem" />
+			<video url="Ve99biD1KtA" label="Proof: lim (sin x)/x" />
+			<video url="rkeU8_4nzKo" label="More Limits" />
+			<video url="-ejyeII0i5c" label="Epsilon Delta Limit Definition 1" />
+			<video url="Fdu5-aNJTzU" label="Epsilon Delta Limit Definition 2" />
+			<video url="ANyVpMS3HL4" label="Calculus: Derivatives 1 (new HD version)" />
+			<video url="IePCHjMeFkE" label="Calculus: Derivatives 2 (new HD version)" />
+			<video url="HEH_oKNLgUU" label="Calculus: Derivatives 2.5 (new HD version)" />
+			<video url="rAof9Ld5sOg" label="Calculus: Derivatives 1" />
+			<video url="ay8838UZ4nM" label="Calculus: Derivatives 2" />
+			<video url="z1lwai-lIzY" label="Calculus: Derivatives 3" />
+			<video url="XIQ-KnsAsbg" label="Calculus: Derivatives 4: The Chain Rule" />
+			<video url="6_lmiPDedsY" label="Calculus: Derivatives 5" />
+			<video url="DYb-AN-lK94" label="Calculus: Derivatives 6" />
+			<video url="h78GdGiRmpM" label="Derivatives (part 7)" />
+			<video url="E_1gEtiGPNI" label="Derivatives (part 8)" />
+			<video url="aEP4C_kvcO4" label="Derivatives (part 9)" />
+			<video url="dZnc3PtNaN4" label="Proof: d/dx(x^n)" />
+			<video url="789aMeepbxI" label="Proof: d/dx(sqrt(x))" />
+			<video url="yUpDRpkUhf4" label="Proof: d/dx(ln x) = 1/x" />
+			<video url="sSE6_fK3mu0" label="Proof: d/dx(e^x) = e^x" />
+			<video url="3nQejB-XPoY" label="Proofs of Derivatives of Ln(x) and e^x" />
+			<video url="viaPc8zDcRI" label="Extreme Derivative Word Problem (advanced)" />
+			<video url="sL6MC-lKOrw" label="Implicit Differentiation" />
+			<video url="PUsMyhds5S4" label="Implicit Differentiation (part 2)" />
+			<video url="hrg1hCzg3W0" label="More implicit differentiation" />
+			<video url="XHBkQW_XuA4"
+				label="More chain rule and implicit differentiation intuition" />
+			<video url="6xvwyE67CeM" label="Trig Implicit Differentiation Example" />
+			<video url="N5kkwVoAtkc" label="Calculus: Derivative of x^(x^x)" />
+			<video url="tpHz0gZfVss" label="Maxima Minima Slope Intuition" />
+			<video url="dIE22eL6q90" label="Inflection Points and Concavity Intuition" />
+			<video url="WrEcQsa-1ME" label="Monotonicity Theorem" />
+			<video url="gzmSKrwiG3g"
+				label="Calculus: Maximum and minimum values on an interval" />
+			<video url="hIgnece9ins" label="Calculus: Graphing Using Derivatives" />
+			<video url="zC_dTaEY2AY" label="Calculus Graphing with Derivatives Example" />
+			<video url="ojcp0GJKluM" label="Graphing with Calculus" />
+			<video url="Ef22yTJDUZI" label="Optimization with Calculus 1" />
+			<video url="3GYv-BZYYdg" label="Optimization with Calculus 2" />
+			<video url="i8Wtu-kdDC4" label="Optimization with Calculus 3" />
+			<video url="T8sG4Sb3g7Y" label="Optimization  Example 4" />
+			<video url="Zyq6TmQVBxk" label="Introduction to rate-of-change problems" />
+			<video url="1KwW1v__T_0" label="Equation of a tangent line" />
+			<video url="xmgk8_l3lig" label="Rates-of-change (part 2)" />
+			<video url="hD3U65CcZ0Q" label="Ladder rate-of-change problem" />
+			<video url="bGNMXfaNR5Q" label="Mean Value Theorem" />
+			<video url="xRspb-iev-g" label="The Indefinite Integral or Anti-derivative" />
+			<video url="mHvSYRUEWnE" label="Indefinite integrals (part II)" />
+			<video url="77-najNh4iY" label="Indefinite Integration (part III)" />
+			<video url="VJ9VRUDQyK8" label="Indefinite Integration (part IV)" />
+			<video url="Pra6r20geXU" label="Indefinite Integration (part V)" />
+			<video url="ouYZiIh8Ctc"
+				label="Integration by Parts (part 6 of Indefinite Integration)" />
+			<video url="F-OsMq7QKEQ" label="Indefinite Integration (part 7)" />
+			<video url="IAbSeAk5RJU" label="Another u-subsitution example" />
+			<video url="0RdI3-8G4Fs" label="Introduction to definite integrals" />
+			<video url="6PaFm_Je5A0" label="Definite integrals (part II)" />
+			<video url="7wUHJ7JQ-gs" label="Definite Integrals (area under a curve) (part III)" />
+			<video url="11Bt6OhIeqA" label="Definite Integrals (part 4)" />
+			<video url="CmXmRNFrtFw" label="Definite Integrals (part 5)" />
+			<video url="CbUx0S8BCtA" label="Definite integral with substitution" />
+			<video url="n4EK92CSuBE" label="Integrals: Trig Substitution 1" />
+			<video url="fD7MbnXbTls" label="Integrals: Trig Substitution 2" />
+			<video url="sw2p2tUIFpc" label="Integrals: Trig Substitution 3 (long problem)" />
+			<video url="C8mudsCSmcU" label="Introduction to differential equations" />
+			<video url="R_aqSL-q6_8" label="Solid of Revolution (part 1)" />
+			<video url="iUzfsUOl3-A" label="Solid of Revolution  (part 2)" />
+			<video url="tqfU9mC2yFU" label="Solid of Revolution (part 3)" />
+			<video url="OtmjNuiTHp0" label="Solid of Revolution (part 4)" />
+			<video url="NIdqkwocNuE" label="Solid of Revolution (part 5)" />
+			<video url="F2psxMnGdUw" label="Solid of Revolution (part 6)" />
+			<video url="IZ8W-h764Cc" label="Solid of Revolution (part 7)" />
+			<video url="4Flj9plmKGQ" label="Solid of Revolution (part 8)" />
+			<video url="VgVJrSJxkDk" label="Sequences and Series (part 1)" />
+			<video url="U_8GRLJplZg" label="Sequences and series (part 2)" />
+			<video url="sy132cgqaiU" label="Polynomial approximation of functions (part 1)" />
+			<video url="3JG3qn7-Sac" label="Polynomial approximation of functions (part 2)" />
+			<video url="XZDGrbyz0v0" label="Approximating functions with polynomials (part 3)" />
+			<video url="gcJeg4SdIpU" label="Polynomial approximation of functions (part 4)" />
+			<video url="9AoDucUmO20" label="Polynomial approximations of functions (part 5)" />
+			<video url="-gRNRBCG3Ow" label="Polynomial approximation of functions (part 6)" />
+			<video url="bC5Lahh4Aus" label="Polynomial approximation of functions (part 7)" />
+			<video url="8SsC5st4LnI" label="Taylor Polynomials" />
+			<video url="JWfTckls59k" label="Exponential Growth" />
+			<video url="upO6Mh862PI" label="AP Calculus BC Exams: 2008 1 a" />
+			<video url="xPb6HLM3xEQ" label="AP Calculus BC Exams: 2008 1 b&amp;c" />
+			<video url="_l0Mfsu__gU" label="AP Calculus BC Exams: 2008 1 c&amp;d" />
+			<video url="sPTuCE5zd3s" label="AP Calculus BC Exams: 2008 1 d" />
+			<video url="xvvI_QRYxBY" label="Calculus BC 2008 2 a" />
+			<video url="S4oOSgTj9C8" label="Calculus BC 2008 2 b &amp;c" />
+			<video url="o_vMb655dFk" label="Calculus BC 2008 2d" />
+			<video url="1CMDS4-PKKQ" label="Partial Derivatives" />
+			<video url="-u0mqFqpMNY" label="Partial Derivatives 2" />
+			<video url="U7HQ_G_N6vo" label="Gradient 1" />
+			<video url="OB8b8aDGLgE" label="Gradient of a scalar field" />
+			<video url="JAXyLhvZ-Vg" label="Divergence 1" />
+			<video url="tOX3RkH2guE" label="Divergence 2" />
+			<video url="U6Re4xT0o4w" label="Divergence 3" />
+			<video url="Mt4dpGFVsYc" label="Curl 1" />
+			<video url="hTSyVgBa1T0" label="Curl 2" />
+			<video url="fYzoiWIBjP8" label="Curl 3" />
+			<video url="85zGYB-34jQ" label="Double Integral 1" />
+			<video url="TdLD2Zh-nUQ" label="Double Integrals 2" />
+			<video url="z8BM6cHifPA" label="Double Integrals 3" />
+			<video url="twT-WZChfZ8" label="Double Integrals 4" />
+			<video url="hrIPO8mQqtw" label="Double Integrals 5" />
+			<video url="0pv0QtOi5l8" label="Double Integrals 6" />
+			<video url="vr0sTKbV7lI" label="Triple Integrals 1" />
+			<video url="vxQvL_WhBGU" label="Triple Integrals 2" />
+			<video url="ZN2PfqZ4ihM" label="Triple Integrals 3" />
+			<video url="C5Lbjbyr1t4" label="(2^ln x)/x  Antiderivative Example" />
+			<video url="_60sKaoRmhU" label="Introduction to the Line Integral" />
+			<video url="uXjQ8yc9Pdg" label="Line Integral Example 1" />
+			<video url="wyTjyQMVvc4" label="Line Integral Example 2 (part 1)" />
+			<video url="Qqanbd3gLhw" label="Line Integral Example 2 (part 2)" />
+			<video url="sBldw95xMD4" label="Position Vector Valued Functions" />
+			<video url="E9Q_Lc0g1xE" label="Derivative of a position vector valued function" />
+			<video url="FYMn61HLw1k" label="Differential of a vector valued function" />
+			<video url="vcwvzUVLPw0" label="Vector valued function derivative example" />
+			<video url="t3cJYNdQLYg" label="Line Integrals and Vector Fields" />
+			<video url="AFF8FXxt5os"
+				label="Using a line integral to find the work done by a vector field example" />
+			<video url="eGRZKkmI_fo" label="Parametrization of a Reverse Path" />
+			<video url="99pD1-6ZpuM"
+				label="Scalar Field Line Integral Independent of Path Direction" />
+			<video url="fuSOY9r1R6w"
+				label="Vector Field Line Integrals Dependent on Path Direction" />
+			<video url="K_fgnCJOI8I" label="Path Independence for Line Integrals" />
+			<video url="I2dbzp0zHuw"
+				label="Closed Curve Line Integrals of Conservative Vector Fields" />
+			<video url="Q9t1LghwdGc"
+				label="Example of Closed Line Integral of Conservative Field" />
+			<video url="LpY8Qa3IP1w"
+				label="Second Example of Line Integral of Conservative Vector Field" />
+			<video url="l5zJvZKfMYE" label="Green&#39;s Theorem Proof Part 1" />
+			<video url="qdFD-0OWBRo" label="Green&#39;s Theorem Proof (part 2)" />
+			<video url="gGXnILbrhsM" label="Green&#39;s Theorem Example 1" />
+			<video url="sSyPAAyL8nQ" label="Green&#39;s Theorem Example 2" />
+			<video url="owKAHXf1y1A"
+				label="Introduction to Parametrizing a Surface with Two Parameters" />
+			<video url="bJ_09eoCmag"
+				label="Determining a Position Vector-Valued Function for a Parametrization of Two Parameters" />
+			<video url="c7ByaI3T7Dc" label="Partial Derivatives of Vector-Valued Functions" />
+			<video url="9k97m8oWnaY" label="Introduction to the Surface Integral" />
+			<video url="7sQCcGlK2bY" label="Example of calculating a surface integral part 1" />
+			<video url="qQAhhithHa8" label="Example of calculating a surface integral part 2" />
+			<video url="s2_NTiISZl4" label="Example of calculating a surface integral part 3" />
+			<video url="PdSzruR5OeE" label="Introduction to L&#39;Hopital&#39;s Rule" />
+			<video url="BiVOC3WocXs" label="L&#39;Hopital&#39;s Rule Example 1" />
+			<video url="FJo18AwLfuI" label="L&#39;Hopital&#39;s Rule Example 2" />
+			<video url="MeVFZjT-ABM" label="L&#39;Hopital&#39;s Rule Example 3" />
+		</Topic>
+		<Topic name='Differential Equations'>
+			<video url="-_POEWfygmU" label="Introduction to differential equations" />
+			<video url="C5-lz0hcqsE" label="Separable Differential Equations" />
+			<video url="xVWCfMe97ws" label="Separable differential equations 2" />
+			<video url="iEpqcdaJNTQ" label="Exact Equations Intuition 1 (proofy)" />
+			<video url="a7wYAtMjORQ" label="Exact Equations Intuition 2 (proofy)" />
+			<video url="Pb04ntcDJcQ" label="Exact Equations Example 1" />
+			<video url="utQi1ZhF__Q" label="Exact Equations Example 2" />
+			<video url="eu_GFuU7tLI" label="Exact Equations Example 3" />
+			<video url="j511hg7Hlbg" label="Integrating factors 1" />
+			<video url="0NyeDUhKwBE" label="Integrating factors 2" />
+			<video url="9Wfn-WWV1aY" label="First order homegenous equations" />
+			<video url="6YRGEsQWZzY" label="First order homogenous equations 2" />
+			<video url="UFWAu8Ptth0"
+				label="2nd Order Linear Homogeneous Differential Equations 1" />
+			<video url="SPVqgkOZMAc"
+				label="2nd Order Linear Homogeneous Differential Equations 2" />
+			<video url="UyCwAFQt4v0"
+				label="2nd Order Linear Homogeneous Differential Equations 3" />
+			<video url="3uO_uPb9H8w"
+				label="2nd Order Linear Homogeneous Differential Equations 4" />
+			<video url="6xEO4BeawzA" label="Complex roots of the characteristic equations 1" />
+			<video url="jJyRrIZ595c" label="Complex roots of the characteristic equations 2" />
+			<video url="rGaM6pwqhB0" label="Complex roots of the characteristic equations 3" />
+			<video url="NW9JfMvIsxw" label="Repeated roots of the characteristic equation" />
+			<video url="YezsgIlcb68"
+				label="Repeated roots of the characterisitic equations part 2" />
+			<video url="znE4Nq9NJCQ" label="Undetermined Coefficients 1" />
+			<video url="hbJ2o9EUmJ0" label="Undetermined Coefficients 2" />
+			<video url="I3vIAzMcm4Y" label="Undetermined Coefficients 3" />
+			<video url="vAepSNDLZRM" label="Undetermined Coefficients 4" />
+			<video url="OiNh2DswFt4" label="Laplace Transform 1" />
+			<video url="33TYoybjqPg" label="Laplace Transform 2" />
+			<video url="gMcs6RF_LrQ" label="Laplace Transform 3 (L{sin(at)})" />
+			<video url="-cApVwKR1Ps" label="Laplace Transform 4" />
+			<video url="E2VxbufzuWQ" label="Laplace Transform 5" />
+			<video url="fyJkXBvcA2Q" label="Laplace Transform 6" />
+			<video url="3uYb-RhM7lU" label="Laplace Transform to solve an equation" />
+			<video url="EdQ7Q9VoF44" label="Laplace Transform solves an equation 2" />
+			<video url="_X_QwpXsdOs" label="More Laplace Transform tools" />
+			<video url="nlUG4OKN1IY"
+				label="Using the Laplace Transform to solve a nonhomogenous eq" />
+			<video url="qhKJ1DG9kYY" label="Laplace Transform of : L{t}" />
+			<video url="pZIaUx3UQoA" label="Laplace Transform of  t^n: L{t^n}" />
+			<video url="4Mr7aEHQr8E" label="Laplace Transform of the Unit Step Function" />
+			<video url="BbqbvSig6Mc" label="Inverse Laplace Examples" />
+			<video url="R0JY8oWsuOY" label="Laplace/Step Function Differential Equation" />
+			<video url="4qfdCwys2ew" label="Dirac Delta Function" />
+			<video url="vhfjEpQWWeE" label="Laplace Transform of the Dirac Delta Function" />
+			<video url="IW4Reburjpc" label="Introduction to the Convolution" />
+			<video url="TJgBEI3drUc" label="The Convolution and the Laplace Transform" />
+			<video url="rfyq32mHcYs"
+				label="Using the Convolution Theorem to Solve an Initial Value Prob" />
+		</Topic>
+		<Topic name='Linear Algebra(Advanced)'>
+			<video url="xyAuNHPsq-g" label="Introduction to matrices" />
+			<video url="aKhhYguY0DQ" label="Matrix multiplication (part 1)" />
+			<video url="OAh573i_qn8" label="Matrix multiplication (part 2)" />
+			<video url="iUQR0enP7RQ" label="Inverse Matrix (part 1)" />
+			<video url="S4n-tQZnU6o" label="Inverting matrices (part 2)" />
+			<video url="obts_JDS6_Q" label="Inverting Matrices (part 3)" />
+			<video url="AUqeb9Z3y3k" label="Matrices to solve a system of equations" />
+			<video url="gsNgdVdAT1o" label="Matrices to solve a vector combination problem" />
+			<video url="UqyN7-tRS00" label="Singular Matrices" />
+			<video url="5tB7y_piK6o" label="3-variable linear equations (part 1)" />
+			<video url="woqq3Sls1d8" label="Solving 3 Equations with 3 Unknowns" />
+			<video url="5cWB52I-SF0" label="Linear Algebra: Introduction to Vectors" />
+			<video url="r4bH66vYjss" label="Linear Algebra: Vector Examples" />
+			<video url="hWhs2cIj7Cw"
+				label="Linear Algebra: Parametric Representations of Lines" />
+			<video url="Qm_OS-8COwU" label="Linear Combinations and Span" />
+			<video url="CrV1xCWdY-g"
+				label="Linear Algebra: Introduction to Linear Independence" />
+			<video url="Alhcv5d_XOs" label="More on linear independence" />
+			<video url="9kW6zFK5E5c" label="Span and Linear Independence Example" />
+			<video url="pMFv6liWK4M" label="Linear Subspaces" />
+			<video url="zntNi3-ybfQ" label="Linear Algebra: Basis of a Subspace" />
+			<video url="WNuIhXo39_k" label="Vector Dot Product and Vector Length" />
+			<video url="rVQ3G9epCjw" label="Proving Vector Dot Product Properties" />
+			<video url="r2PogGDl8_U" label="Proof of the Cauchy-Schwarz Inequality" />
+			<video url="PsNidCBr5II" label="Linear Algebra: Vector Triangle Inequality" />
+			<video url="5AWob_z74Ks" label="Defining the angle between vectors" />
+			<video url="UJxgcVaNTqY"
+				label="Defining a plane in R3 with a point and normal vector" />
+			<video url="pJzmiywagfY" label="Linear Algebra: Cross Product Introduction" />
+			<video url="7MKA2QlKvHc"
+				label="Proof: Relationship between cross product and sin of angle" />
+			<video url="tdwFdzVqito" label="Dot and Cross Product Comparison/Intuition" />
+			<video url="L0CmbneYETs" label="Matrices: Reduced Row Echelon Form 1" />
+			<video url="lP1DGtZ8Wys" label="Matrices: Reduced Row Echelon Form 2" />
+			<video url="JVDrlTdzxiI" label="Matrices: Reduced Row Echelon Form 3" />
+			<video url="7Mo4S2wyMg4" label="Matrix Vector Products" />
+			<video url="jCwRV1QL_Xs" label="Introduction to the Null Space of a Matrix" />
+			<video url="qvyboGryeA8"
+				label="Null Space 2: Calculating the null space of a matrix" />
+			<video url="vFctYRhK2M0" label="Null Space 3: Relation to Linear Independence" />
+			<video url="st6D5OdFV9M" label="Column Space of a Matrix" />
+			<video url="_uTAdf_AsfQ" label="Null Space and Column Space Basis" />
+			<video url="EGNlXtjYABw" label="Visualizing a Column Space as a Plane in R3" />
+			<video url="Zn2K8UIT8r4"
+				label="Proof: Any subspace basis has same number of elements" />
+			<video url="abYAUqs_n6I" label="Dimension of the Null Space or Nullity" />
+			<video url="JUgrBkPteTg" label="Dimension of the Column Space or Rank" />
+			<video url="BfVjTOjvI30" label="Showing relation between basis cols and pivot cols" />
+			<video url="CkQOCnLWPUA" label="Showing that the candidate basis does span C(A)" />
+			<video url="BQMyeQOLvpg" label="A more formal understanding of functions" />
+			<video url="gAbadNuQEjI" label="Vector Transformations" />
+			<video url="4PCktDZJH8E" label="Linear Transformations" />
+			<video url="ondmopWLiEg" label="Matrix Vector Products as Linear Transformations" />
+			<video url="PErhLkQcpZ8" label="Linear Transformations as Matrix Vector Products" />
+			<video url="MIAmN5kgp3k" label="Image of a subset under a transformation" />
+			<video url="hZ827mfh1Jo" label="im(T):  Image of a Transformation" />
+			<video url="zVsGtU8lIWs" label="Preimage of a set" />
+			<video url="6yrPU8rYOhs" label="Preimage and Kernel Example" />
+			<video url="wHuY97vss18"
+				label="Sums and Scalar Multiples of Linear Transformations" />
+			<video url="Z19-ObbmHJE" label="More on Matrix Addition and Scalar Multiplication" />
+			<video url="qkfODKmZ-x4"
+				label="Linear Transformation Examples: Scaling and Reflections" />
+			<video url="lPWfIq5DzqI" label="Linear Transformation Examples: Rotations in R2" />
+			<video url="gkyuLPzfDV0" label="Rotation in R3 around the X-axis" />
+			<video url="lQn7fksaDq0" label="Unit Vectors" />
+			<video url="27vT-NWuw0M" label="Introduction to Projections" />
+			<video url="JK-8XNIoAkI"
+				label="Expressing a Projection on to a line as a Matrix Vector prod" />
+			<video url="f_DTiXZpb8M" label="Compositions of Linear Transformations 1" />
+			<video url="BuqcKpe5ZQs" label="Compositions of Linear Transformations 2" />
+			<video url="x1z0hOyjapU" label="Linear Algebra: Matrix Product Examples" />
+			<video url="Hhc96U_HvQE" label="Matrix Product Associativity" />
+			<video url="oMWTMj78cwc" label="Distributive Property of Matrix Products" />
+			<video url="-eAzhBZgq28"
+				label="Linear Algebra: Introduction to the inverse of a function" />
+			<video url="7GEUgRcnfVE"
+				label="Proof: Invertibility implies a unique solution to f(x)=y" />
+			<video url="xKNX8BUWR0g"
+				label="Surjective (onto) and Injective (one-to-one) functions" />
+			<video url="QIU1daMN8fw"
+				label="Relating invertibility to being onto and one-to-one" />
+			<video url="eR8vEdJTvd0" label="Determining whether a transformation is onto" />
+			<video url="1PsNIzUJPkc" label="Linear Algebra: Exploring the solution set of Ax=b" />
+			<video url="M3FuL9qKTBs"
+				label="Linear Algebra: Matrix condition for one-to-one trans" />
+			<video url="Yz2OosyMTmY"
+				label="Linear Algebra: Simplifying conditions for invertibility" />
+			<video url="mr9Tow8hpCg" label="Linear Algebra: Showing that Inverses are Linear" />
+			<video url="6DpzCKJBsz0"
+				label="Linear Algebra: Deriving a method for determining inverses" />
+			<video url="r9aTLTN16V4" label="Linear Algebra: Example of Finding Matrix Inverse" />
+			<video url="eEUK_ThrHuQ" label="Linear Algebra: Formula for 2x2 inverse" />
+			<video url="0c7dt2SQfLw" label="Linear Algebra: 3x3 Determinant" />
+			<video url="H9BWRYJNIv4" label="Linear Algebra: nxn Determinant" />
+			<video url="nu87kfmwNfU" label="Linear Algebra: Determinants along other rows/cols" />
+			<video url="4xFIi0JF2AM" label="Linear Algebra: Rule of Sarrus of Determinants" />
+			<video url="32rdijPB-rA"
+				label="Linear Algebra: Determinant when row multiplied by scalar" />
+			<video url="WY6QG0mZ7uQ"
+				label="Linear Algebra: (correction) scalar muliplication of row" />
+			<video url="VrB3LaSD_uo" label="Linear Algebra: Determinant when row is added" />
+			<video url="gYv8sttBIqs" label="Linear Algebra: Duplicate Row Determinant" />
+			<video url="kpG7xySkivg" label="Linear Algebra: Determinant after row operations" />
+			<video url="VX7K8iqoiRc" label="Linear Algebra: Upper Triangular Determinant" />
+			<video url="QV0jsTiobU4" label="Linear Algebra: Simpler 4x4 determinant" />
+			<video url="n-S63_goDFg"
+				label="Linear Algebra:  Determinant and area of a parallelogram" />
+			<video url="g3MqSdO5Ubc" label="Linear Algebra: Determinant as Scaling Factor" />
+			<video url="2t0003_sxtU" label="Linear Algebra: Transpose of a Matrix" />
+			<video url="x-GV2v0dRNE" label="Linear Algebra:  Determinant of Transpose" />
+			<video url="Br_8t58mdeI" label="Linear Algebra:  Transposes of sums and inverses" />
+			<video url="lSoaMCNKfAg" label="Linear Algebra: Transpose of a Vector" />
+			<video url="qBfc57x_RSg" label="Linear Algebra: Rowspace and Left Nullspace" />
+			<video url="GW8ZPjGlk24"
+				label="Lin Alg: Visualizations of Left Nullspace and Rowspace" />
+			<video url="QOTjdgmNqlg" label="Linear Algebra: Orthogonal Complements" />
+			<video url="tqqVOWm9YsU" label="Linear Algebra: Rank(A) = Rank(transpose of A)" />
+			<video url="pGhBfkBqok0"
+				label="Linear Algebra: dim(V) + dim(orthogonoal complelent of V)=n" />
+			<video url="M6lFqkqvUgo"
+				label="Lin Alg: Representing vectors in Rn using subspace members" />
+			<video url="zlI8mx8Hc8o"
+				label="Lin Alg:  Orthogonal Complement of the Orthogonal Complement" />
+			<video url="LE_aQAur7nI" label="Lin Alg: Orthogonal Complement of the Nullspace" />
+			<video url="czIYvs9zj2g" label="Lin Alg: Unique rowspace solution to Ax=b" />
+			<video url="qdf2CuMGdKs" label="Linear Alg: Rowspace Solution to Ax=b example" />
+			<video url="ESSMQH6Y5OA"
+				label="Lin Alg: Showing that A-transpose x A is invertible" />
+			<video url="5B8XluiqdHM" label="Linear Algebra: Projections onto Subspaces" />
+			<video url="uWbZlJURkfA" label="Linear Alg: Visualizing a projection onto a plane" />
+			<video url="cTyNpXB92bQ"
+				label="Lin Alg: A Projection onto a Subspace is a Linear Transforma" />
+			<video url="QTcSBB3uVP0" label="Linear Algebra: Subspace Projection Matrix Example" />
+			<video url="XhCSHu6dHb8" label="Lin Alg: Another Example of a Projection Matrix" />
+			<video url="b269qpILOpk"
+				label="Linear Alg: Projection is closest vector in subspace" />
+			<video url="MC7l96tW8V8" label="Linear Algebra: Least Squares Approximation" />
+			<video url="8mAZYv5wIcE" label="Linear Algebra: Least Squares Examples" />
+			<video url="QkepM8Vv3kw" label="Linear Algebra: Another Least Squares Example" />
+			<video url="uvgru6FcyxU"
+				label="Linear Algebra: Coordinates with Respect to a Basis" />
+			<video url="1j5WnqwMdCk" label="Linear Algebra: Change of Basis Matrix" />
+			<video url="meibWcbGqt4" label="Lin Alg: Invertible Change of Basis Matrix" />
+			<video url="PiuhTj0zCf4"
+				label="Lin Alg: Transformation Matrix with Respect to a Basis" />
+			<video url="lCRGNykWqFI"
+				label="Lin Alg: Alternate Basis Tranformation Matrix Example" />
+			<video url="EyORbCPUAd4"
+				label="Lin Alg: Alternate Basis Tranformation Matrix Example Part 2" />
+			<video url="K_na_j1Msfg"
+				label="Lin Alg: Changing coordinate systems to help find a transformation matrix" />
+			<video url="7BFx8pt2aTQ" label="Linear Algebra: Introduction to Orthonormal Bases" />
+			<video url="SWbis2zWIvo"
+				label="Linear Algebra: Coordinates with respect to orthonormal bases" />
+			<video url="we829K4NOq8"
+				label="Lin Alg: Projections onto subspaces with orthonormal bases" />
+			<video url="SUoqA9srY1Q"
+				label="Lin Alg: Finding projection onto subspace with orthonormal basis example" />
+			<video url="gfVY7cW7VLQ"
+				label="Lin Alg: Example using orthogonal change-of-basis matrix to find transformation matrix" />
+			<video url="yDwIfYjKEeo"
+				label="Lin Alg:  Orthogonal matrices preserve angles and lengths" />
+			<video url="rHonltF77zI" label="Linear Algebra: The Gram-Schmidt Process" />
+			<video url="tu1GPtfsQ7M" label="Linear Algebra: Gram-Schmidt Process Example" />
+			<video url="ZRRG386v6DI"
+				label="Linear Algebra:  Gram-Schmidt example with 3 basis vectors" />
+			<video url="PhfbEr2btGQ"
+				label="Linear Algebra: Introduction to Eigenvalues and Eigenvectors" />
+			<video url="rfm0wQObxjk"
+				label="Linear Algebra: Proof of formula for determining Eigenvalues" />
+			<video url="pZ6mMVEE89g"
+				label="Linear Algebra: Example solving for the eigenvalues of a 2x2 matrix" />
+			<video url="3-xfmbdzkqc"
+				label="Linear Algebra:  Finding Eigenvectors and Eigenspaces example" />
+			<video url="11dNghWC4HI" label="Linear Algebra: Eigenvalues of a 3x3 matrix" />
+			<video url="3Md5KCCQX-0"
+				label="Linear Algebra:  Eigenvectors and Eigenspaces for a 3x3 matrix" />
+			<video url="C2PC9185gIw"
+				label="Linear Algebra:  Showing that an eigenbasis makes for good coordinate systems" />
+		</Topic>
+	</Subject>
+	<Subject name='Science'>
+
+		<Topic name='Computer Science'>
+			<video url="husPzLE6sZc" label="Introduction to Programs Data Types" />
+			<video url="zEyEC34MY1A" label="Python Lists" />
+			<video url="9LgyKiq_hU0" label="For Loops in Python" />
+			<video url="D0Nb2Fs3Q8c" label="While Loops in Python" />
+			<video url="iZAtkS0F-Zo" label="Fun with Strings" />
+			<video url="ZyYp1V84Xqc" label="Writing a Simple Factorial Program. (Python 2)" />
+			<video url="dn9XjHz33O8" label="Stepping Through the Factorial Program" />
+			<video url="EiR6cf8Towc" label="Flowchart for the Factorial Program" />
+			<video url="WT-gS-8p7KA" label="Python 3 Not Backwards Compatible with Python 2" />
+			<video url="JwO_25S_eWE" label="Defining a Factorial Function" />
+			<video url="6qCQB8E5bkI" label="Diagramming What Happens with a Function Call" />
+			<video url="o920mj0NbhE" label="Recursive Factorial Function" />
+			<video url="kx6DfrYfWnQ"
+				label="Comparing Iterative and Recursive Factorial Functions" />
+			<video url="Bdbc1ZC-vhw" label="Exercise - Write a Fibonacci Function" />
+			<video url="94O_3QCvfqI" label="Iterative Fibonacci Function Example" />
+			<video url="-BE7FEouGeI" label="Stepping Through Iterative Fibonacci Function" />
+			<video url="urPVT1lymzU" label="Recursive Fibonacci Example" />
+			<video url="zg-ddPbzcKM" label="Stepping Through Recursive Fibonacci Function" />
+			<video url="Qbl-RZS2-4g" label="Exercise - Write a Sorting Function" />
+			<video url="lCzQvQr8Utw" label="Insertion Sort Algorithm" />
+			<video url="lEA31vHiry4" label="Insertion Sort in Python" />
+			<video url="6pyeMmJTefg" label="Stepping Through Insertion Sort Function" />
+		</Topic>
+
+		<Topic name='Biology'>
+			<video url="GcjgWov7mTM" label="Introduction to Evolution and Natural Selection" />
+			<video url="qxOEz9aPZNY" label="Intelligent Design and Evolution" />
+			<video url="nh1R-gyY7es" label="Evolution Clarification" />
+			<video url="dR_BFmDMRaI" label="Natural Selection and the Owl Butterfly" />
+			<video url="_-vZ_g7K6P0" label="DNA" />
+			<video url="DuArVnT1i-E" label="Variation in a Species" />
+			<video url="s9HPNwXd9fk" label="Chromosomes, Chromatids, Chromatin, etc." />
+			<video url="kaSIjIzAtYA" label="Mitosis, Meiosis and Sexual Reproduction" />
+			<video url="LLKX_4DHE3I" label="Phases of Mitosis" />
+			<video url="ijLc52LmFQg" label="Phases of Meiosis" />
+			<video url="-yCIMk1x0Pk" label="Embryonic Stem Cells" />
+			<video url="RZhL7LDPk8w" label="Cancer" />
+			<video url="eEUvRrhmcxM" label="Introduction to Heredity" />
+			<video url="D5ymMYcLtv0" label="Punnett Square Fun" />
+			<video url="4Kbruik_LOo" label="Hardy-Weinberg Principle" />
+			<video url="-ROhfKyxgCo" label="Sex-Linked Traits" />
+			<video url="TDoGrbpJJ14" label="Bacteria" />
+			<video url="0h5Jd7sgQWY" label="Viruses" />
+			<video url="YQfWiDlFEcA" label="ATP: Adenosine Triphosphate" />
+			<video url="2f7YwCtHcgk" label="Introduction to Cellular Respiration" />
+			<video url="orI2m6IarJg"
+				label="Oxidation and Reduction Review From Biological Point-of-View" />
+			<video url="_KyyVhlUDNU" label="Oxidation and Reduction in Cellular Respiration" />
+			<video url="FE2jfTXAJHg" label="Glycolysis" />
+			<video url="juM2ROSLWfw" label="Krebs / Citric Acid Cycle" />
+			<video url="mfgCcFXUZRk" label="Electron Transport Chain" />
+			<video url="W_Q17tqw_7A" label="Oxidative Phosphorylation and Chemiosmosis" />
+			<video url="-rsYk4eCKnA" label="Photosynthesis" />
+			<video url="GR2GA7chA_c" label="Photosynthesis: Light Reactions 1" />
+			<video url="yfR36PMWegg"
+				label="Photosynthesis:  Light Reactions and Photophosphorylation" />
+			<video url="slm6D2VEXYs" label="Photosynthesis:  Calvin Cycle" />
+			<video url="EQvTEFCANTM" label="Photorespiration" />
+			<video url="7ynX_F-SwNY" label="C-4 Photosynthesis" />
+			<video url="xp6Zj24h8uA" label="CAM Plants" />
+			<video url="Hmwvj9X4GNY" label="Parts of a cell" />
+			<video url="aubZU0iWtgI" label="Diffusion and Osmosis" />
+			<video url="SPGRkexI_cs" label="The Lungs and Pulmonary System" />
+			<video url="fLKOBQ6cZHA" label="Red blood cells" />
+			<video url="QhiVnFvshZg" label="Circulatory System and the Heart" />
+			<video url="LWtXthfG9_M" label="Hemoglobin" />
+			<video url="ob5U8zPbAX4" label="Anatomy of a Neuron" />
+			<video url="C_H-ONQFjpQ" label="Sodium Potassium Pump" />
+			<video url="ye3rTjLCvAU" label="Correction to Sodium and Potassium Pump Video" />
+			<video url="gkQtRec2464" label="Electrotonic and Action Potentials" />
+			<video url="7wgb7ggzFNs" label="Saltatory Conduction in Neurons" />
+			<video url="Tbq-KZaXiL4" label="Neuronal Synapses (Chemical)" />
+			<video url="zopoN2i7ALQ" label="Myosin and Actin" />
+			<video url="LiOfeSsjrB8"
+				label="Tropomyosin and troponin and their role in regulating muscle contraction" />
+			<video url="SauhB2fYQkM" label="Role of the Sarcoplasmic Reticulum in Muscle Cells" />
+			<video url="uY2ZOsCnXIA" label="Anatomy of a muscle cell" />
+			<video url="O1N2rENXq_Y"
+				label="Role of Phagocytes in Innate or Nonspecific Immunity" />
+			<video url="rp7T4IItbtM"
+				label="Types of immune responses: Innate and Adaptive.  Humoral vs. Cell-Mediated" />
+			<video url="Z36dUduOk1Y" label="B Lymphocytes (B cells)" />
+			<video url="j_kSmmEpvQk"
+				label="Professional Antigen Presenting Cells (APC) and MHC II complexes" />
+			<video url="uwMYpTYsNZM" label="Helper T Cells" />
+			<video url="oqI4skjr6lQ" label="Cytotoxic T Cells" />
+			<video url="xaz5ftvZCyI" label="Review of B cells,  CD4+ T cells and CD8+ T cells" />
+			<video url="FXSuEIMrPQk" label="Inflammatory Response" />
+			<video url="cc8sUv2SuaY" label="The Kidney and Nephron" />
+			<video url="czY5nyvZ7cU" label="Secondary Active Transport in the Nephron" />
+		</Topic>
+		<Topic name='Chemistry'>
+			<video url="1xSQlwWGT8M" label="Introduction to the atom" />
+			<video url="yBrp8uvNAhI" label="Orbitals" />
+			<video url="FmQoSenbtnU" label="More on orbitals and electron configuration" />
+			<video url="RJlEH5Jz80w" label="Electron Configurations" />
+			<video url="YURReI6OJsg" label="Electron Configurations 2" />
+			<video url="1TZA171yxY4" label="Valence Electrons" />
+			<video url="LDHg7Vgzses" label="Groups of the Periodic Table" />
+			<video url="ywqg9PorTAw" label="Periodic Table Trends: Ionization Energy" />
+			<video url="XMLd-O6PgVs" label="Other Periodic Table Trends" />
+			<video url="CGA8sRwqIFg" label="Ionic, Covalent, and Metallic Bonds" />
+			<video url="gfBcM3uvWfs" label="Molecular and Empirical Formulas" />
+			<video url="AsqEkF7hcII" label="The Mole and Avogadro&#39;s Number" />
+			<video url="xatVrAh2U0E" label="Formula from Mass Composition" />
+			<video url="sXOIIEZh6qg" label="Another mass composition problem" />
+			<video url="RnGu3xO2h74" label="Balancing Chemical Equations" />
+			<video url="SjQG3rKSZUQ" label="Stoichiometry" />
+			<video url="rESzyhPOJ7I" label="Stoichiometry: Limiting Reagent" />
+			<video url="WScwPIPqZa0" label="Ideal Gas Equation: PV=nRT" />
+			<video url="erjMiErRgSQ" label="Ideal Gas Equation Example 1" />
+			<video url="GwoX_BemwHs" label="Ideal Gas Equation Example 2" />
+			<video url="69V-60sga3M" label="Ideal Gas Equation Example 3" />
+			<video url="Osl6HEDZZ-E" label="Ideal Gas Example 4" />
+			<video url="d4bqNf37mBY" label="Partial Pressure" />
+			<video url="pKvo0XWZtjo" label="States of Matter" />
+			<video url="WenwtcuqOj8" label="States of Matter Follow-Up" />
+			<video url="zz4KbvF_X-0" label="Specific Heat, Heat of Fusion and Vaporization" />
+			<video url="lsXcKgjg8Hs" label="Chilling Water Problem" />
+			<video url="Qp87Z4m8R-w" label="Phase Diagrams" />
+			<video url="8qfzpJvsp04" label="Van Der Waals Forces" />
+			<video url="Rw_pDVbnfQk" label="Covalent Networks, Metallic, and Ionic Crystals" />
+			<video url="hA5jddDYcyg" label="Vapor Pressure" />
+			<video url="3ROWXs3jtQU" label="Suspensions, Colloids and Solutions" />
+			<video url="zjIVJh4JLNo" label="Solubility" />
+			<video url="z9LxdqYntlU"
+				label="Boiling Point Elevation and Freezing Point Supression" />
+			<video url="__zy-oOLPug" label="Introduction to Kinetics" />
+			<video url="CGJjjm7-DJ4" label="Reactions in Equilibrium" />
+			<video url="HBi8xjMchZc" label="Mini-Video on Ion Size" />
+			<video url="ONBJo7dXJm8"
+				label="Keq Intuition (mathy and not necessary to progress)" />
+			<video url="psLX080RQR8" label="Keq derivation intuition (can skip; bit mathy)" />
+			<video url="TsXlTWgyItw" label="Heterogenous Equilibrium" />
+			<video url="4-fEvpVNTlE" label="Le Chatelier&#39;s Principle" />
+			<video url="2q4vSKwaBtw" label="Introduction to pH, pOH, and pKw" />
+			<video url="vShCnTY1-T0" label="Acid Base Introduction" />
+			<video url="tS2YJPmKOFQ" label="pH, pOH of Strong Acids and Bases" />
+			<video url="dencuBNp_Ck" label="pH of a Weak Acid" />
+			<video url="gDJtOIxDu78" label="pH of a Weak Base" />
+			<video url="0LM6wPpypxM" label="Conjugate Acids and Bases" />
+			<video url="3Gm4nAAc3zc" label="pKa and pKb Relationship" />
+			<video url="HzmI7A578ss" label="Buffers" />
+			<video url="299o6c-Fkz4" label="Strong Acid Titration" />
+			<video url="gbpc_JBG1F0" label="Weak Acid Titration" />
+			<video url="1u0PU2BcxKg" label="Half Equivalence Point" />
+			<video url="BBIGR0RAMtY" label="Titration Roundup" />
+			<video url="_fNNQfGGYr4" label="Introduction to Oxidation States" />
+			<video url="GA88JI4AymY" label="More on Oxidation States" />
+			<video url="YPjtG5PA-iY" label="Hydrogen Peroxide Correction" />
+			<video url="yp60-oVxrT4" label="Redox Reactions" />
+			<video url="N4L3dDIixSU" label="Galvanic Cells" />
+			<video url="3koOwozY4oc" label="Types of Decay" />
+			<video url="9REPnibO4IQ" label="Half-Life" />
+			<video url="H7nrVDV8ahc"
+				label="Exponential Decay Formula Proof (can skip, involves Calculus)" />
+			<video url="HTDop6eEsaA" label="Introduction to Exponential Decay" />
+			<video url="Hqzakjo_dYg" label="More Exponential Decay Examples" />
+			<video url="5EU-y1VF7g4" label="Macrostates and Microstates" />
+			<video url="lKq-10ysDb4" label="Quasistatic and Reversible Processes" />
+			<video url="Xb05CaG7TsQ" label="First Law of Thermodynamics/ Internal Energy" />
+			<video url="aOSlXuDO4UU" label="More on Internal Energy" />
+			<video url="obeGVTOZyfE" label="Work from Expansion" />
+			<video url="M5uOIy-JTmo" label="PV-diagrams and Expansion Work" />
+			<video url="qSFY7GKhSRs" label="Proof: U=(3/2)PV or U=(3/2)nRT" />
+			<video url="iiFWoXQPOJc" label="Work Done by Isothermic Process" />
+			<video url="aAfBSJObd6Y" label="Carnot Cycle and Carnot Engine" />
+			<video url="ixRtSV3CXPA" label="Proof: Volume Ratios in a Carnot Cycle" />
+			<video url="sPz5RrFus1Q" label="Proof: S (or Entropy) is a valid state variable" />
+			<video url="PFcGiMLwjeY" label="Thermodynamic Entropy Definition Clarification" />
+			<video url="WLKEVfLFau4"
+				label="Reconciling Thermodynamic and State Definitions of Entropy" />
+			<video url="xJf6pHqLzs0" label="Entropy Intuition" />
+			<video url="aKRDvSZ-igA" label="Maxwell&#39;s Demon" />
+			<video url="dFFzAP2OZ3E" label="More on Entropy" />
+			<video url="M_5KYncYNyc" label="Efficiency of a Carnot Engine" />
+			<video url="pQWwP7YYH6o" label="Carnot Efficiency 2:  Reversing the Cycle" />
+			<video url="LUoUb4hGMH8"
+				label="Carnot Efficiency 3:  Proving that it is the most efficient" />
+			<video url="fucyI7Ouj2c" label="Enthalpy" />
+			<video url="PK_JXzYcme0" label="Heat of Formation" />
+			<video url="chXMpDwjBDk" label="Hess&#39;s Law and Reaction Enthalpy Change" />
+			<video url="ViAmQivKif0" label="Gibbs Free Energy and Spontaneity" />
+			<video url="sG1ZAdYi13A" label="Gibbs Free Energy Example" />
+			<video url="7aur5h44pV4"
+				label="More rigorous Gibbs Free Energy/ Spontaneity Relationship" />
+			<video url="yYbzJs6vgv8"
+				label="A look at a seductive but wrong Gibbs/Spontaneity Proof" />
+			<video url="jFv6k2OV7IU" label="Stoichiometry Example Problem 1" />
+			<video url="eQf_EAYGo-k" label="Stoichiometry Example Problem 2" />
+			<video url="YNriRslOk9A" label="Limiting Reactant Example Problem 1" />
+			<video url="FycJ8X67xEU"
+				label="Empirical and Molecular Formulas from Stoichiometry" />
+			<video url="66ziUq6vRko" label="Example of Finding Reactant Empirical Formula" />
+			<video url="EKZSwjVR594" label="Stoichiometry of a Reaction in Solution" />
+			<video url="_qrQKBB2jt8" label="Another Stoichiometry Example in a Solution" />
+			<video url="_H009sTvYE0"
+				label="Molecular and Empirical Forumlas from Percent Composition" />
+		</Topic>
+		<Topic name='Physics'>
+			<video url="8wZugqi_uCg" label="Introduction to motion" />
+			<video url="OKXyKt40WFE" label="Introduction to motion (part 2)" />
+			<video url="enmHaVxLfAE" label="Introduction to motion (part 3)" />
+			<video url="15zliAL4llE" label="Projectile motion (part 1)" />
+			<video url="emdHj6WodLw" label="Projectile motion (part 2)" />
+			<video url="Y5cSGxdDHz4" label="Projectile motion (part 3)" />
+			<video url="-W3RkgvLrGI" label="Projectile motion (part 4)" />
+			<video url="dlpmllTx5MY" label="Projectile motion (part 5)" />
+			<video url="bl2DvFn8LjM" label="Projectile motion (part 6)" />
+			<video url="-uAfg0t6NmM" label="Projectile motion (part 7)" />
+			<video url="oDcPHWX2Nv0" label="Projectile motion (part 8)" />
+			<video url="uHwKV2NzDno" label="Projectile motion (part 9)" />
+			<video url="zbZyiyzMUQ8" label="Projectile motion (part 10)" />
+			<video url="RcSadoSQhdA" label="2 dimensional projectile motion (part 1)" />
+			<video url="cEOxZWGp-8E" label="2 dimensional projectile motion (part 2)" />
+			<video url="o2ZrX9MbIwU" label="2-dimensional projectile motion (part 3)" />
+			<video url="5GRlLD7M430" label="2 dimensional projectile motion part 4" />
+			<video url="8PXJ3hHPxlo" label="2-dimensional projectile motion part 5" />
+			<video url="RhUdv0jjfcE" label="Optimal angle for a projectile part 1" />
+			<video url="XtAB9GOfLiM" label="Optimal angle for a projectile part 2 - Hangtime" />
+			<video url="-h_x8TwC1ik"
+				label="Optimal angle for a projectile part 3 - Horizontal distance as a function of angle (and speed)" />
+			<video url="snw0BrCBQYQ"
+				label="Optimal angle for a projectile part 4   Finding the optimal angle and distance with a bit of calculus" />
+			<video url="D9y0RlF_DqA" label="Newton&#39;s First Law of Motion" />
+			<video url="3FQ58lVtbCg" label="Newton&#39;s Second Law of Motion" />
+			<video url="NfuKfbpkIrQ" label="Newton&#39;s Third Law of Motion" />
+			<video url="wGKXIq-gdok" label="Newton&#39;s Laws Problems (part 1)" />
+			<video url="x5Bz0ManOuc" label="Newton&#39;s Laws Examples (part 2)" />
+			<video url="16StQAx83kA" label="Newton&#39;s Laws" />
+			<video url="eMVzfoA9dnA" label="Newton&#39;s Laws and vectors" />
+			<video url="rDodorjgiy8" label="Force with Vectors" />
+			<video url="_UrfHFEBIpU" label="Introduction to Tension" />
+			<video url="zwDJ1wVr7Is" label="Tension (part 2)" />
+			<video url="VU0lr5KQ79s" label="Mass on Inclined Plane" />
+			<video url="KvQ3YDALMeg" label="Introduction to friction" />
+			<video url="1g6eQqZgc50" label="Friction on an inclined plane" />
+			<video url="kM6D8FDlYPU" label="A more complicated friction/inclined plane problem" />
+			<video url="52wxpYnS64U"
+				label="Tension in an accelerating system and pie in the face" />
+			<video url="J5GJgtZN6GE" label="Moving pulley problem (part 1)" />
+			<video url="aHro1hCjukQ" label="Moving pulley problem (part 2)" />
+			<video url="XFhntPxow0U" label="Introduction to Momentum" />
+			<video url="vPkkCOlGND4" label="Momentum: Ice skater throws a ball" />
+			<video url="CFygKiTB-4A" label="2-dimensional momentum problem" />
+			<video url="leudxqivIJI" label="2-dimensional momentum problem (part 2)" />
+			<video url="2WS1sG9fhOk" label="Introduction to work and energy" />
+			<video url="3mier94pbnU" label="Work and Energy (part 2)" />
+			<video url="kw_4Loo1HR4" label="Conservation of Energy" />
+			<video url="YvacYWgygaA" label="Work/Energy problem with Friction" />
+			<video url="pfzJ-z5Ij48" label="Introduction to mechanical advantage" />
+			<video url="DiBXxWBrV24" label="Mechanical Advantage (part 2)" />
+			<video url="vSsK7Rfa3yA" label="Mechanical Advantage (part 3)" />
+			<video url="VrflZifKIuw" label="Center of Mass" />
+			<video url="QhuJn8YBtmg" label="Introduction to Torque" />
+			<video url="ESusD8HRLBI" label="Moments" />
+			<video url="peXbz0frV74" label="Moments (part 2)" />
+			<video url="FaF3v-ezbSk" label="Unit Vector Notation" />
+			<video url="595Tiga1gIg" label="Unit Vector Notation (part 2)" />
+			<video url="oYpEaB9_am8" label="Projectile Motion with Unit Vectors" />
+			<video url="9VBa4o8rz0Y" label="Projectile Motion with Unit Vectors (part 2)" />
+			<video url="jl_gQ-eL3xo" label="Projectile Motion with Ordered Set Notation" />
+			<video url="GBGGh2Ie4d0" label="Introduction to centripetal acceleration (part 1)" />
+			<video url="UmiotSKSRvw" label="Centripetal Acceleration (part 2)" />
+			<video url="p3AGlD6g8X8" label="Centripetal Acceleration (part 3)" />
+			<video url="TNX-Z6XR3gA" label="Visual Proof: a= v^2/r" />
+			<video url="YRBRarbMCyE" label="Calculus Proof that a=v^2/r" />
+			<video url="X4UTe1fZUzI" label="Introduction to angular velocity" />
+			<video url="s_R8d3isJDA" label="Conservation of angular momemtum" />
+			<video url="391txUI76gM" label="Introduction to Newton&#39;s Law of Gravitation" />
+			<video url="8i0j3j16yFk" label="Gravitation (part 2)" />
+			<video url="ZzwuHS9ldbY" label="Intro to springs and Hooke&#39;s Law" />
+			<video url="eVl5zs6Lqy0" label="Potential energy stored in a spring" />
+			<video url="P3QV9ktuYlQ" label="Spring potential energy example (mistake in math)" />
+			<video url="Nk2q-_jkJVs" label="Introduction to Harmonic Motion" />
+			<video url="xoUppFlif04" label="Harmonic Motion Part 2 (calculus)" />
+			<video url="oqBHBO8cqLI" label="Harmonic Motion Part 3 (no calculus)" />
+			<video url="Pn5YEMwQb4Y" label="Fluids (part 1)" />
+			<video url="lWDtFHDVqqk" label="Fluids (part 2)" />
+			<video url="5EWjlpc0S00" label="Fluids (part 3)" />
+			<video url="i6gz9VFyYks" label="Fluids (part 4)" />
+			<video url="vzID7ds600c" label="Fluids (part 5)" />
+			<video url="wwjtuZ5vTvc" label="Fluids (part 6)" />
+			<video url="G4CgOF4ccXk" label="Fluids (part 7)" />
+			<video url="uqyLOuAzbvo" label="Fluids (part 8)" />
+			<video url="QX2YLR09Q78" label="Fluids (part 9)" />
+			<video url="NGpJPz44JYc" label="Fluids (part 10)" />
+			<video url="HnfBFeLunk4" label="Fluids (part 11)" />
+			<video url="xlJYYM5TWoA" label="Fluids (part 12)" />
+			<video url="tQcB9BLUoVI" label="Thermodynamics (part 1)" />
+			<video url="x34OTtDE5q8" label="Thermodynamics (part 2)" />
+			<video url="HvYUKRMT0VI" label="Thermodynamics (part 3)" />
+			<video url="5B1i26dUwME" label="Thermodynamics (part 4)" />
+			<video url="UekR9J31a2o" label="Thermodynamics (part 5)" />
+			<video url="NXMgvrS8Gr8"
+				label="Electrostatics (part 1): Introduction to Charge and Coulomb&#39;s Law" />
+			<video url="0YOGrTNgGhE" label="Electrostatics (part 2)" />
+			<video url="prLfVucoxpw"
+				label="Proof (Advanced): Field from infinite plate (part 1)" />
+			<video url="TxwE4_dXo8s"
+				label="Proof (Advanced): Field from infinite plate (part 2)" />
+			<video url="elJUghWSVh4" label="Electric Potential Energy" />
+			<video url="CqsYCIjSm9A"
+				label="Electric Potential Energy (part 2-- involves calculus)" />
+			<video url="zqGvUbvVQXg" label="Voltage" />
+			<video url="ngOC4eUQl8Y" label="Capacitance" />
+			<video url="3o8_EARoMtg" label="Circuits (part 1)" />
+			<video url="7vHh1sfZ5KE" label="Circuits (part 2)" />
+			<video url="ZrMw7P6P2Gw" label="Circuits (part 3)" />
+			<video url="3NcIK0s3IwU" label="Circuits (part 4)" />
+			<video url="zA0fvwtvgvA" label="Cross product 1" />
+			<video url="o_puKe_lTKk" label="Cross Product 2" />
+			<video url="s38l6nmTrvM" label="Cross Product and Torque" />
+			<video url="8Y4JSp5U82I" label="Introduction to Magnetism" />
+			<video url="NnlAI4ZiUrQ" label="Magnetism 2" />
+			<video url="LTuGQy4rmmo" label="Magnetism 3" />
+			<video url="b1QFKLZC11U" label="Magnetism 4" />
+			<video url="jQ2nD8ZGeEw" label="Magnetism 5" />
+			<video url="Ri557hvwhcM" label="Magnetism 6: Magnetic field due to current" />
+			<video url="l3hw0twZSCc" label="Magnetism 7" />
+			<video url="4tctB1wZNiI" label="Magnetism 8" />
+			<video url="pAgPfr7MkkU" label="Magnetism 9: Electric Motors" />
+			<video url="cePkWyXRvIQ" label="Magnetism 10: Electric Motors" />
+			<video url="XMkUDyl1ZRo" label="Magnetism 11: Electric Motors" />
+			<video url="KuUMUvwvML8" label="Magnetism 12: Induced Current in a Wire" />
+			<video url="KDHuWxy53uM" label="The dot product" />
+			<video url="E34CftP455k" label="Dot vs. Cross Product" />
+			<video url="enr7JqvehJs"
+				label="Calculating dot and cross products with unit vector notation" />
+			<video url="c38H6UKt3_I" label="Introduction to Waves" />
+			<video url="tJW_a6JeXD8"
+				label="Amplitude, Period, Frequency and Wavelength of Periodic Waves" />
+			<video url="dc7l7Qqa8xk" label="Introduction to the Doppler Effect" />
+			<video url="kGrk6V8tWDY" label="Doppler effect formula for observed frequency" />
+			<video url="KkJ0wL9f2VY" label="Doppler effect formula when source is moving away" />
+			<video url="4Xgk3vusxT8"
+				label="When the source and the wave move at the same velocity" />
+			<video url="VlaGxYjnoPY" label="Mach Numbers" />
+		</Topic>
+		<Topic name='Organic Chemistry'>
+			<video url="pMoA65Dj-zk" label="Representing Structures of Organic Molecules" />
+			<video url="NRFPvLp3r3g" label="Naming Simple Alkanes" />
+			<video url="KKAD-OOOHxg" label="Naming Alkanes with Alkyl Groups" />
+			<video url="CFBKfgGTP98"
+				label="Correction - 2-Propylheptane should never be the name!" />
+			<video url="TJUm860AjNw"
+				label="Common and Systematic Naming-Iso, Sec and Tert Prefixes" />
+			<video url="96D7RHUQvMA" label="More Organic Chemistry Naming Examples 1" />
+			<video url="CJRQ8gOjq4E" label="Organic Chemistry Naming Examples 2" />
+			<video url="Se-ekDNhCDk" label="Organic Chemistry Naming Examples 3" />
+			<video url="25axjMBeMxE" label="Organic Chemistry Naming Examples  4" />
+			<video url="6BR0Q5e74bs" label="Organic Chemistry Naming Examples 5" />
+			<video url="KWv5PaoHwPA" label="Naming Alkenes Examples" />
+			<video url="jiJdNWzETSk" label="Naming Alkyl Halides" />
+			<video url="u1eGSL6J6Fo" label="sp3 Hybridized Orbitals and Sigma Bonds" />
+			<video url="lJX8DxoPRfk" label="Pi bonds and sp2 Hybridized Orbitals" />
+			<video url="IkmM4CPnqF0" label="Newman Projections" />
+			<video url="ryJvNEHcuDg" label="Newman Projections 2" />
+			<video url="YUEkOBvJSNg" label="Chair and Boat Shapes for Cyclohexane" />
+			<video url="I6LsWSXx8fg" label="Double Newman Diagram for Methcyclohexane" />
+			<video url="tk-SNvCPLCE" label="Introduction to Chirality" />
+			<video url="0XSSPow5oAc" label="Chiral Examples 1" />
+			<video url="QQMZ1ljepWg" label="Chiral Examples 2" />
+			<video url="DfO27juYly8" label="Cahn-Ingold-Prelog System for Naming Enantiomers" />
+			<video url="peQsBg9P4ms" label="R,S (Cahn-Ingold-Prelog) Naming System Example 2" />
+			<video url="457xnJv80O0"
+				label="Stereoisomers, Enantiomers, Diastereomers, Constitutional Isomers and Meso Compounds" />
+			<video url="oYoQpDtBLac" label="Cis-Trans and E-Z Naming Scheme for Alkenes" />
+			<video url="GFiizJ-jGVw"
+				label="Entgegen-Zusammen Naming Scheme for Alkenes Examples" />
+			<video url="Z_GWBW_GVGA" label="Introduction to Reaction Mechanisms" />
+			<video url="X-VCk3WrGlM" label="Markovnikov&#39;s Rule and Carbocations" />
+			<video url="sEiQm7IzUg8" label="Addition of Water (Acid-Catalyzed) Mechanism" />
+			<video url="tR-hzV5Tkxo" label="Polymerization of Alkenes with Acid" />
+			<video url="Z_85KXnBSYc" label="Sn2 Reactions" />
+			<video url="3e0ScEkz8oU" label="Sn1 Reactions" />
+			<video url="NypbNw1iJ-E" label="Steric Hindrance" />
+			<video url="QxIUeYAQRy0" label="Sn2 Stereochemistry" />
+			<video url="8J0ys3z5wzo" label="Solvent Effects on Sn1 and Sn2 Reactions" />
+			<video url="Z9Jh-Q59xso" label="Nucleophilicity (Nucleophile Strength)" />
+			<video url="Mx7KM-k2MMo" label="Nucleophilicity vs. Basicity" />
+			<video url="J0gXdEAaSiA" label="E2 Reactions" />
+			<video url="U9dGHwsewNk" label="E1 Reactions" />
+			<video url="2jO--kC3aqk" label="Zaitsev&#39;s Rule" />
+			<video url="12Rvts2NR7M" label="Comparing E2 E1 Sn2 Sn1 Reactions" />
+			<video url="vinEPfrqfiU" label="E2 E1 Sn2 Sn1 Reactions Example 2" />
+			<video url="MtwvLru62Qw" label="E2 E1 Sn2 Sn1 Reactions Example 3" />
+			<video url="5HgzsltWwK8" label="Free Radical Reactions" />
+			<video url="nQ7QSV4JRSs" label="Alcohols" />
+			<video url="Aa1CMokCch4" label="Alcohol Properties" />
+		</Topic>
+	</Subject>
+	<Subject name='Other'>
+		<Topic name='History'>
+			<video url="BDWqwcTtZa0" label="French Revolution (Part 1)" />
+			<video url="0t4MF9ZoppM" label="French Revolution (Part 2)" />
+			<video url="BZmtnCqTWik" label="French Revolution (Part 3) - Reign of Terror" />
+			<video url="KYoB2mjNdr0"
+				label="French Revolution (Part 4) - The Rise of Napoleon Bonaparte" />
+			<video url="Qz5zFzvbib4" label="Haitian Revolution (Part 1)" />
+			<video url="gU-5bjpAPmA" label="Haitian Revolution (Part 2)" />
+			<video url="OzyH-1p9nAg"
+				label="Napoleon and the Wars of the First and Second Coalitions" />
+			<video url="yogD_-Op4Wc" label="Napoleon and the War of the Third Coalition" />
+			<video url="O3HxPDH-s7w" label="Napoleon and the War of the Fourth Coalition" />
+			<video url="ALJGz4r_VF0" label="Napoleon&#39;s Peninsular Campaigns" />
+			<video url="F_ySQvjtAxQ" label="French Invasion of Russia" />
+			<video url="CH6FQhlZn6k" label="Napoleon Forced to Abdicate" />
+		</Topic>
+		<Topic name='Finance'>
+			<SubTopic name='Core Finance'>
+				<video url="GtaoP0skPWc" label="Introduction to interest" />
+				<video url="t4zfiBw0hwM" label="Interest (part 2)" />
+				<video url="ks33lMoxst0" label="Introduction to Present Value" />
+				<video url="4LSktB7Pk_c" label="Present Value 2" />
+				<video url="3SgVUlEcOBU" label="Present Value 3" />
+				<video url="6WCfVjUTTEY" label="Present Value 4 (and discounted cash flow)" />
+				<video url="mxsYHiDVNlk" label="Introduction to Balance Sheets" />
+				<video url="U2Nw5T44zvY" label="More on balance sheets and equity" />
+				<video url="7rrSuhFC7I0" label="Home equity loans" />
+				<video url="YL10H_EcB-E" label="Renting vs. Buying a home" />
+				<video url="QA2TBiIsdT0" label="Renting vs. buying a home (part 2)" />
+				<video url="mtL_plJXv3c" label="Renting vs. Buying (detailed analysis)" />
+				<video url="8IR5LefXVPY" label="The housing price conundrum" />
+				<video url="wYAhlTHIBT4" label="Housing price conundrum (part 2)" />
+				<video url="aAfMps_VyOY" label="Housing Price Conundrum (part 3)" />
+				<video url="s6UYa2nwaDw" label="Housing Conundrum (part 4)" />
+				<video url="8OCjwBkMJ_E" label="Raising money for a startup" />
+				<video url="-hJj5NpWUXQ" label="Getting a seed round from a VC" />
+				<video url="m28RAgUySGQ" label="Going back to the till: Series B" />
+				<video url="ywOr4OYqXOs" label="An IPO" />
+				<video url="opEy6iN9kqc" label="More on IPOs" />
+				<video url="WvITkPn83gc" label="What it means to buy a company&#39;s stock" />
+				<video url="rs1md3e4aYU" label="Bonds vs. Stocks" />
+				<video url="-IDmLERenrU" label="Shorting Stock" />
+				<video url="ucAUriWEFo8" label="Shorting Stock 2" />
+				<video url="zAkMhEqWFF0" label="Is short selling bad?" />
+				<video url="-oW4M3vpuRM" label="Chapter 7:Bankruptcy Liquidation" />
+				<video url="mxVWyzzMOXM" label="Chapter 11: Bankruptcy Restructuring" />
+				<video url="9T6ZPYYu_Dk" label="Return on capital" />
+				<video url="oosYQHq2hwE" label="Mortgage-Backed Securities I" />
+				<video url="eYBlfxGIk28" label="Mortgage-backed securities II" />
+				<video url="q0oSKmC3Mfc" label="Mortgage-backed securities III" />
+				<video url="XjoJ9UF2hqg" label="Collateralized Debt Obligation (CDO)" />
+				<video url="b_cAxh44aNQ" label="Introduction to the yield curve" />
+				<video url="qEB6y4DklNY" label="Introduction to compound interest and e" />
+				<video url="dzMvqJMLy9c" label="Compound Interest and e (part 2)" />
+				<video url="sQYpUJV8foY" label="Compound Interest and e (part  3)" />
+				<video url="VAxHMTJRhmY" label="Compound Interest and e (part 4)" />
+				<video url="ZUEjRYe7MRk" label="Bailout 1: Liquidity vs. Solvency" />
+				<video url="YJBqGM29_64" label="Bailout 2: Book Value" />
+				<video url="TUOQZjotyAQ" label="Bailout 3: Book value vs. market value" />
+				<video url="w_GZqhAR0I4" label="Bailout 4: Mark-to-model vs. mark-to-market" />
+				<video url="I8BLj7cRM7c" label="Bailout 5: Paying off the debt" />
+				<video url="jDNalKBb3aA" label="Bailout 6: Getting an equity infusion" />
+				<video url="MdIfefLcdoU" label="Bailout 7: Bank goes into bankruptcy" />
+				<video url="gX9aKDeAOz4" label="Bailout 8: Systemic Risk" />
+				<video url="eBYbnYNl0rw" label="Bailout 9: Paulson&#39;s Plan" />
+				<video url="roap32sTgPk" label="Bailout 10: Moral Hazard" />
+				<video url="a1lVOO9Y080" label="Credit Default Swaps" />
+				<video url="neAFEvNsiqw" label="Credit Default Swaps 2" />
+				<video url="rEiLOB4FulY" label="Investment vs. Consumption 1" />
+				<video url="xRjfRVXXFxU" label="Investment vs. Comsumption 2" />
+				<video url="RkIM0Mbc8YQ" label="Bailout 11: Why these CDOs could be worth nothing" />
+				<video url="eZZkhSl8lMA" label="Bailout 12: Lone Star Transaction" />
+				<video url="R528WbVdC0I"
+					label="Bailout 13: Does the bailout have a chance of working?" />
+				<video url="Q7HbtnOyKMg" label="Wealth Destruction 1" />
+				<video url="eRImmzuExyg" label="Wealth Destruction 2" />
+				<video url="BdmI14oSe4g" label="Bailout 14: Possible Solution" />
+				<video url="-KrSxA9NCf0" label="Bailout 15: More on the solution" />
+				<video url="E-HOz8T6tAo" label="Banking 1" />
+				<video url="h3lMANILkw0" label="Banking 2: A bank&#39;s income statement" />
+				<video url="nH2-37rTA8U" label="Banking 3: Fractional Reserve Banking" />
+				<video url="F7r7l1VG-Tw" label="Banking 4: Multiplier effect and the money supply" />
+				<video url="9jGufOGo88A" label="Personal Bankruptcy:  Chapters 7 and 13" />
+				<video url="-qgdMTbTJlA" label="Introduction to Compound Interest" />
+				<video url="pLG5j6isgRs" label="The Rule of 72 for Compound Interest" />
+				<video url="P4h4QenI-uU" label="Annual Percentage Rate (APR) and Effective APR" />
+				<video url="44cYyG0LSzQ" label="Introduction to Bonds" />
+				<video url="kDRqSJIiTqU"
+					label="Relationship between bond prices and interest rates" />
+				<video url="mhRL99LqxMc" label="Introduction to Mortgage Loans" />
+				<video url="2K0ubOpyZt8" label="Traditional IRAs" />
+				<video url="HbQ2kmhIlHo" label="Roth IRAs" />
+				<video url="T649KqOJ3N8" label="401(k)s" />
+				<video url="BHTMuHvmarU" label="Payday Loans" />
+				<video url="tvL7ox0ezCU"
+					label="Institutional Roles in Issuing and Processing Credit Cards" />
+				<video url="5UVpLPtgdF4" label="Ponzi Schemes" />
+			</SubTopic>
+			<SubTopic name='Banking and Money'>
+				<video url="E-HOz8T6tAo" label="Banking 1" />
+				<video url="h3lMANILkw0" label="Banking 2: A bank&#39;s income statement" />
+				<video url="nH2-37rTA8U" label="Banking 3: Fractional Reserve Banking" />
+				<video url="F7r7l1VG-Tw" label="Banking 4: Multiplier effect and the money supply" />
+				<video url="cNFLqhU4MN0" label="Banking 5: Introduction to Bank Notes" />
+				<video url="IOzZVmgK3IM" label="Banking 6: Bank Notes and Checks" />
+				<video url="On3c86V5A_E"
+					label="Banking 7: Giving out loans without giving out gold" />
+				<video url="VP3nKDUw1jA" label="Banking 8: Reserve Ratios" />
+				<video url="DFPBdbx0vFc" label="Banking 9: More on Reserve Ratios (Bad sound)" />
+				<video url="8fxilNdEQTo" label="Banking 10:  Introduction to leverage (bad sound)" />
+				<video url="M-4GWomLbpc" label="Banking 11: A reserve bank" />
+				<video url="JBWdbzzYbtU" label="Banking 12:  Treasuries (government debt)" />
+				<video url="BTNarhvGX88" label="Banking 13: Open Market Operations" />
+				<video url="IniG1KkPS2c" label="Banking 14: Fed Funds Rate" />
+				<video url="rgqFXkLAc-4" label="Banking 15: More on the Fed Funds Rate" />
+				<video url="yOgGhPIHnlA" label="Banking 16: Why target rates vs. money supply" />
+				<video url="NFDMXwwzyIM" label="Banking 17: What happened to the gold?" />
+				<video url="T9byZBGtGuw" label="Banking 18: Big Picture Discussion" />
+				<video url="FxkTSjctXdk" label="The Discount Rate" />
+				<video url="QWninXOAMXE" label="Repurchase Agreements (Repo transactions)" />
+				<video url="MILF-9GeMDQ" label="Federal Reserve Balance Sheet" />
+				<video url="ZyyaE3DIxhc" label="Fractional Reserve Banking Commentary 1" />
+				<video url="otstXFxMkl4" label="FRB Commentary 2: Deposit Insurance" />
+				<video url="8SAMey9Gl5I" label="FRB Commentary 3: Big Picture" />
+			</SubTopic>
+			<SubTopic name='Valuation and Investing'>
+				<video url="fa-VZ-SDxgY" label="Price and Market Capitalization" />
+				<video url="Z7C4cz2HkeY" label="Introduction to the Income Statement" />
+				<video url="RouNXdkC0do" label="Earnings and EPS" />
+				<video url="cppxO67e6eo" label="Introduction to the Price-to-Earnings Ratio" />
+				<video url="V-rko8jgJ9o" label="P/E Discussion" />
+				<video url="Oh4H3BJX1ZI" label="ROA Discussion 1" />
+				<video url="R_5slDeVCQk" label="ROA Discussion 2" />
+				<video url="a5sFUXkxyGc" label="Depreciation" />
+				<video url="XfR3JSkSkJM" label="Amortization" />
+				<video url="VrFbXxkl9JU" label="P/E Conundrum" />
+				<video url="pa92UdJCaos" label="Enterprise Value" />
+				<video url="v4Fq9LEspzw" label="EBITDA" />
+			</SubTopic>
+			<SubTopic name='Venture Capital and Capital Markets'>
+				<video url="8OCjwBkMJ_E" label="Raising money for a startup" />
+				<video url="-hJj5NpWUXQ" label="Getting a seed round from a VC" />
+				<video url="m28RAgUySGQ" label="Going back to the till: Series B" />
+				<video url="ywOr4OYqXOs" label="An IPO" />
+				<video url="opEy6iN9kqc" label="More on IPOs" />
+				<video url="yQtUyBrRBx4" label="Equity vs. Debt" />
+				<video url="rs1md3e4aYU" label="Bonds vs. Stocks" />
+				<video url="-oW4M3vpuRM" label="Chapter 7:Bankruptcy Liquidation" />
+				<video url="mxVWyzzMOXM" label="Chapter 11: Bankruptcy Restructuring" />
+			</SubTopic>
+			<SubTopic name='Credit Crisis'>
+				<video url="8IR5LefXVPY" label="The housing price conundrum" />
+				<video url="wYAhlTHIBT4" label="Housing price conundrum (part 2)" />
+				<video url="aAfMps_VyOY" label="Housing Price Conundrum (part 3)" />
+				<video url="s6UYa2nwaDw" label="Housing Conundrum (part 4)" />
+				<video url="oosYQHq2hwE" label="Mortgage-Backed Securities I" />
+				<video url="eYBlfxGIk28" label="Mortgage-backed securities II" />
+				<video url="q0oSKmC3Mfc" label="Mortgage-backed securities III" />
+				<video url="XjoJ9UF2hqg" label="Collateralized Debt Obligation (CDO)" />
+				<video url="R528WbVdC0I"
+					label="Bailout 13: Does the bailout have a chance of working?" />
+				<video url="a1lVOO9Y080" label="Credit Default Swaps" />
+				<video url="neAFEvNsiqw" label="Credit Default Swaps 2" />
+				<video url="Q7HbtnOyKMg" label="Wealth Destruction 1" />
+				<video url="eRImmzuExyg" label="Wealth Destruction 2" />
+			</SubTopic>
+			<SubTopic name='Paulson Bailout'>
+				<video url="ZUEjRYe7MRk" label="Bailout 1: Liquidity vs. Solvency" />
+				<video url="YJBqGM29_64" label="Bailout 2: Book Value" />
+				<video url="TUOQZjotyAQ" label="Bailout 3: Book value vs. market value" />
+				<video url="w_GZqhAR0I4" label="Bailout 4: Mark-to-model vs. mark-to-market" />
+				<video url="I8BLj7cRM7c" label="Bailout 5: Paying off the debt" />
+				<video url="jDNalKBb3aA" label="Bailout 6: Getting an equity infusion" />
+				<video url="MdIfefLcdoU" label="Bailout 7: Bank goes into bankruptcy" />
+				<video url="gX9aKDeAOz4" label="Bailout 8: Systemic Risk" />
+				<video url="eBYbnYNl0rw" label="Bailout 9: Paulson&#39;s Plan" />
+				<video url="roap32sTgPk" label="Bailout 10: Moral Hazard" />
+				<video url="RkIM0Mbc8YQ" label="Bailout 11: Why these CDOs could be worth nothing" />
+				<video url="eZZkhSl8lMA" label="Bailout 12: Lone Star Transaction" />
+				<video url="BdmI14oSe4g" label="Bailout 14: Possible Solution" />
+				<video url="-KrSxA9NCf0" label="Bailout 15: More on the solution" />
+			</SubTopic>
+			<SubTopic name='Geithner Plan'>
+				<video url="ervHbKa7R5g" label="Geithner Plan I" />
+				<video url="n-arbfLTCtI" label="Geithner Plan II" />
+				<video url="0FxRYePmogU" label="Geithner Plan 2.5" />
+				<video url="_ka1HZS-Egc" label="Geithner Plan III" />
+				<video url="ajl1UdtYUCA" label="Geithner Plan IV" />
+				<video url="kpqSeXpiM6k" label="Geithner 5: A better solution" />
+			</SubTopic>
+			<SubTopic name='Current Economics'>
+				<video url="XDIBJyNnLOU" label="Economics of a Cupcake Factory" />
+				<video url="-LTXzYXaAuk" label="Cupcake Economics 2" />
+				<video url="8x1-TeDxblU" label="Cupcake Economics 3" />
+				<video url="LXrPdFn7Gn4" label="Inflation, Deflation &amp; Capacity Utilization" />
+				<video url="cugQ4z4cJF8" label="Inflation, Deflation &amp; Capacity Utilization 2" />
+				<video url="sZRkERfzzn4" label="Inflation &amp; Deflation 3: Obama Stimulus Plan" />
+				<video url="vUOiOi-XaoQ" label="Unemployment" />
+				<video url="pRIELoITIHI" label="CPI Index" />
+				<video url="sSqxVMbml_k"
+					label="Simple Analysis of Cost per Job Saved from Stimulus" />
+				<video url="9DGbDx5xQNo" label="Unemployment Rate Primer" />
+			</SubTopic>
+		</Topic>
+	</Subject>
+	<Subject name='Test Prep'>
+		<Topic name='SAT Math'>
+			<SubTopic name='Test1'>
+				<video url="tP9bocr_C2I" label="Section 3 Part 1" />
+				<video url="uFfMl-wGOqA" label="Section 3 Part 2" />
+				<video url="BRX5mWU0pKo" label="Section 3 Part 3" />
+				<video url="THu1yyU350A" label="Section 3 Part 4" />
+				<video url="Pj-dYWwdlDA" label="Section 3 Part 5" />
+				<video url="I1CPivr1Rqs" label="Section 3 Part 6" />
+				<video url="r_MPl6c23cc" label="Section 3 Part 7" />
+				<video url="281GDzKgNIw" label="Section 3 Part 8" />
+				<video url="VUY_9-dl9Ro" label="Section 6 Part 1" />
+				<video url="EWsVUf6ZFgw" label="Section 6 Part 2" />
+				<video url="qCFS9sM3U4w" label="Section 6 Part 3" />
+				<video url="j-G31l9tETk" label="Section 6 Part 4" />
+				<video url="zYltrrFpuRU" label="Section 6 Part 5" />
+				<video url="-UtUjx4nj-E" label="Section 6 Part 6" />
+				<video url="MFAuLptYXFE" label="Section 9 Part 1" />
+				<video url="fX0ZVflYqf0" label="Section 9 Part 2" />
+				<video url="D4UfrKzUVz8" label="Section 9 Part 3" />
+				<video url="5tptL-SjfHY" label="Section 9 Part 4" />
+				<video url="QWtZ9jpN_3k" label="Section 9  Part 5" />
+			</SubTopic>
+			<SubTopic name='Test2'>
+				<video url="0QvGgONYDeA" label="Section 3 part 1" />
+				<video url="jG_R8MyQ53U" label="Section 3 Part 2" />
+				<video url="x7RYmTE3X-Y" label="Section 3 Part 3" />
+				<video url="t9_by0bbp48" label="Section 3 Part 4" />
+				<video url="oRWMtRqR6yc" label="Section 3 Part 5" />
+				<video url="FEEsj1puK9k" label="Section 3 Part 6" />
+				<video url="4mUAiRKIhj0" label="Section 6 Part 1" />
+				<video url="MuhPEK5_kog" label="Section 6 Part 2" />
+				<video url="JqzTKxFpzco" label="Section 6 Part 3" />
+				<video url="uH5qmnegzcY" label="Section 6 Part 4" />
+				<video url="f4drCCsnOt8" label="Section 6 Part 5" />
+				<video url="EDEg7SY2-VU" label="Section 6 Part 6" />
+				<video url="oVkzin26KJk" label="Section 9 Part 1" />
+				<video url="nognGA0mtcU" label="Section 9 Part 2" />
+				<video url="n30T7Uc6IOg" label="Section 9 Part 3" />
+				<video url="u1FZjRUC9MY" label="Section 9 Part 4" />
+			</SubTopic>
+			<SubTopic name='Test3'>
+				<video url="pCpLtKdMjSE" label="Section 2 Part 1" />
+				<video url="YsKgw5S7Plg" label="Section 2 Part 2" />
+				<video url="fRRc-3sJuwU" label="Section 2 Part 3" />
+				<video url="79ZwFMRWidQ" label="Section 2 Part 4" />
+				<video url="Eh0j5nHhS6I" label="Section 2 Part 5" />
+				<video url="eS-XNHsh4TQ" label="Section 4 Part 1" />
+				<video url="7rt8X3bIhf4" label="Section 4 Part 2" />
+				<video url="eZuR5-Jng0o" label="Section 4 Part 3" />
+				<video url="-rH2wMlppjo" label="Section 4 Part 4" />
+				<video url="z01WJ-HgoCY" label="Section 4 Part 5" />
+				<video url="7FRFzf-MLnw" label="Section 8 Part 1" />
+				<video url="YFV6QFVxxPc" label="Section 8 Part 2" />
+				<video url="5yysruBGqEM" label="Section 8 Part 3" />
+				<video url="eUi6VS3qc9A" label="Section 8 Part 4" />
+			</SubTopic>
+			<SubTopic name='Test4'>
+				<video url="yMc71el5Bic" label="Section 2 Part 1" />
+				<video url="jKg5oFQXdJU" label="Section 2 Part 2" />
+				<video url="qo2Omdf4UyA" label="Section 2 Part 3" />
+				<video url="KWBa0yxfi7U" label="Section 2 Part 4" />
+				<video url="HIzG0J7He2c" label="Section 2 Part 5" />
+				<video url="bKzw0C-Sh7A" label="Section 2 Part 6" />
+				<video url="xfEZKZDiXqc" label="Section 4 Part 1" />
+				<video url="Nr-EB7BKKJM" label="Section 4 Part 2" />
+				<video url="eRzobkVm1Jg" label="Section 4 Part 3" />
+				<video url="0mMr7iKWAjQ" label="Section 4 Part 4" />
+				<video url="Zkeq0j9CKcc" label="Section 8 Part 1" />
+				<video url="Oyiz3Td1KEI" label="Section 8 Part 2" />
+				<video url="cVEXO42UKd0" label="Section 8 Part 3" />
+				<video url="We1OgfMotaM" label="Section 8 Part 4" />
+			</SubTopic>
+			<SubTopic name='Test5'>
+				<video url="zKIQYn1quh8" label="Section 3 Part 1" />
+				<video url="s_3msatl-NU" label="Section 3 Part 2" />
+				<video url="bOKhHf58978" label="Section 3 Part 3" />
+				<video url="8Jwy6seAdHY" label="Section 3 Part 4" />
+				<video url="-c2LcmZaT_o" label="Section 3 Part 5" />
+				<video url="0mH04VZ_dOM" label="Section 3 Part 6" />
+				<video url="1jwEEbr2fuU" label=" Section 7 Part 1" />
+				<video url="26apAl5onO4" label="Section 7 Part 2" />
+				<video url="1zHTzT4KP80" label="Section 7 Part 3" />
+				<video url="1SC8pC5FKtM" label="Section 7 Part 4" />
+				<video url="KEyCBPe_T5I" label="Section 7 Part 5" />
+				<video url="XizVnQI2d9Q" label="Section 7 Part 6" />
+				<video url="NLBp-Tq3TS4" label="Section 9 Part 1" />
+				<video url="VUg5v5PzGKo" label="Section 9 Part 2" />
+				<video url="7D3ErvtvOaU" label="Section 9 Part 3" />
+				<video url="WV6gftyM3SU" label="Section 9 Part 4" />
+			</SubTopic>
+			<SubTopic name='Test6'>
+				<video url="Zee_TGgEBsg" label="Section 3 Part 1" />
+				<video url="gWq0WpgBthI" label="Section 3 Part 2" />
+				<video url="QPKMZHYBcTc" label="Section 3 Part 3" />
+				<video url="i1aNc26PsOI" label="Section 3 Part 4" />
+				<video url="PH92iJRiUgg" label="Section 3 Part 5" />
+				<video url="dkN6eSd2AIA" label="Section 7 Part 1" />
+				<video url="j9iKQnnAsgI" label="Section 7 Part 2" />
+				<video url="wXQrhgpMI0o" label="Section 7 Part 3" />
+				<video url="kmP97_diMVM" label="Section 7 Part 4" />
+				<video url="0CIn1_M-BoY" label="Section 7 Part 5" />
+				<video url="aEvm-V7A5s8" label="Section 7 Part 6" />
+				<video url="pplnmRsNDuY" label="Section 9 Part 1" />
+				<video url="ewzoWPBLG3g" label="Section 9 Part 2" />
+				<video url="PMFJCEOWVmc" label="Section 9 Part 3" />
+				<video url="LeNa9s0rdj8" label="Section 9 Part 4" />
+			</SubTopic>
+			<SubTopic name='Test7'>
+				<video url="k3Wd-9bZCgw" label="Section 2 Part 1" />
+				<video url="FhUj7sF00VM" label="Section 2 Part 2" />
+				<video url="lb3TmicdsCU" label="Section 2 Part 3" />
+				<video url="UDyFevRLKb8" label="Section 2 Part 4" />
+				<video url="R6byhBey7eY" label="Section 5 Part 1" />
+				<video url="va9qsz7Q6b0" label="Section 5 Part 2" />
+				<video url="RpCkWhPqTQM" label="Section 5 Part 3" />
+				<video url="U2FLQYvioeY" label="Section 5 Part 4" />
+				<video url="A-qer1ChzXk" label="Section 5 Part 5" />
+				<video url="GZOp27tWARg" label="Section 8 Part 1" />
+				<video url="Z7fM5fu7LAs" label="Section 8 Part 2" />
+				<video url="Fq1BirUwrLQ" label="Section 8 Part 3" />
+				<video url="RHfnCQCqohk" label="Section 8 Part 4" />
+			</SubTopic>
+			<SubTopic name='Prep: Test 8'>
+				<video url="FyoZaqF2dsY" label="Section 2 Part 1" />
+				<video url="lumGHA9JGNY" label="Section 2 Part 2" />
+				<video url="hbsWxarO5d4" label="Section 2 Part 3" />
+				<video url="423zK3ev1vM" label="Section 2 Part 4" />
+				<video url="yKiU7kzjTQw" label="Section 5 Part 1" />
+				<video url="4-JYxNfqp8g" label="Section 5 Part 2" />
+				<video url="lPLm4pM4KXU" label="Section 5 Part 3" />
+				<video url="Q5z0MSvTtRg" label="Section 5 Part 4" />
+				<video url="q2TqEsD1t4U" label="Section 8 Part 1" />
+				<video url="nwW5IMuRCaM" label="Section 8 Part 2" />
+				<video url="Ghy5jasP6Ek" label="Section 8 Part 3" />
+			</SubTopic>
+		</Topic>
+		<Topic name='GMAT'>
+			<SubTopic name='Data Sufficiency'>
+				<video url="GZInN7p1D0M" label="Data Sufficiency 1" />
+				<video url="8nod8JWaO1o" label="Data Sufficiency  2" />
+				<video url="eg4r1ev0xYs" label="Data Sufficiency 3" />
+				<video url="fMTLSOTAzWs" label="Data Sufficiency 4" />
+				<video url="wIPriEEti6o" label="Data Sufficiency 5" />
+				<video url="qHO1xH4ilZs" label="Data Sufficiency 6" />
+				<video url="21680hPTfUc" label="Data Sufficiency 7" />
+				<video url="nL-NSia0HiA" label="Data Sufficiency 8" />
+				<video url="GviCdNfeXw8" label="Data Sufficiency 9" />
+				<video url="Sx_KqnkcJVA" label="Data Sufficiency 10" />
+				<video url="gpIJcqY0weE" label="Data Sufficiency 11" />
+				<video url="dgZy7Uj8cAI" label="Data Sufficiency 12" />
+				<video url="qDsLxwmW_Ms" label="Data Sufficiency 13" />
+				<video url="iW3EP2FE5zc" label="Data Sufficiency 14" />
+				<video url="ejIjaaocVvE" label="Data Sufficiency  15" />
+				<video url="3ia-sGkAVf8" label="Data Sufficiency 16" />
+				<video url="bcADF8WgLz4" label="Data Sufficiency 17" />
+				<video url="UR4Zr0hE-As" label="Data Sufficiency 18" />
+				<video url="C-qg2Lcy6Ts" label="Data Sufficiency 19" />
+				<video url="XFuFxgbnkaM" label="Data Sufficiency 20" />
+				<video url="V7vCaxe3Rys" label="Data Sufficiency 21" />
+				<video url="Lq-zp5_OgSY" label="Data Sufficiency 21 (correction)" />
+				<video url="CdF-6PJ2jTM" label="Data Sufficiency 22" />
+				<video url="QOtyTZGWOmg" label="Data Sufficiency 23" />
+				<video url="NrIf451oN30" label="Data Sufficiency 24" />
+				<video url="kYWBbu-FXV0" label="Data Sufficiency 25" />
+				<video url="Lhop0mfeJMQ" label="Data Sufficiency 26" />
+				<video url="OzTqWpAPnrw" label="Data Sufficiency 27" />
+				<video url="vD1OROM3Lfo" label="Data Sufficiency 28" />
+				<video url="BCEyKQQOl8E" label="Data Sufficiency 29" />
+				<video url="o_eNoF1DnZs" label="Data Sufficiency 30" />
+				<video url="5BEaqN92vDk" label="Data Sufficiency 31" />
+				<video url="qVPtT8CX1eM" label="Data Sufficiency 32" />
+				<video url="-uZt8MLeDrg" label="Data Sufficiency 33" />
+				<video url="K_uaUQY6MVQ" label="Data Sufficiency 34" />
+				<video url="XuDGJ-LUnAU" label="Data Sufficiency 35" />
+				<video url="LDyMYyiAsQs" label="Data Sufficiency 36" />
+				<video url="wPA2FrET_Ac" label="Data Sufficiency 37" />
+				<video url="n1MbK-Qb7Mk" label="Data Sufficiency 38" />
+				<video url="lqv9dXXjfWE" label="Data Sufficiency 39" />
+				<video url="dmN_s286dHc" label="Data Sufficiency 40" />
+				<video url="cMjJSUsaWvc" label="Data Sufficiency 41" />
+			</SubTopic>
+			<SubTopic name='Problem Solving'>
+				<video url="jciijU8Mj_Y" label="Math 1" />
+				<video url="UlHo2cxKA84" label="Math 2" />
+				<video url="G8s3SkAm-gM" label="Math 3" />
+				<video url="X58FV7MwdbY" label="Math 4" />
+				<video url="fRTx45FJWto" label="Math 5" />
+				<video url="Q59w-ACX30M" label="Math 6" />
+				<video url="HqiBo62O8bk" label="Math 7" />
+				<video url="yZtpr_curdc" label="Math 8" />
+				<video url="HkBFunEh8iY" label="Math 9" />
+				<video url="E8HagppxzxY" label="Math 10" />
+				<video url="YOlP6xmw7zU" label="Math 11" />
+				<video url="VdBZSEF_FhU" label="Math 12" />
+				<video url="9r8Wb7prWZA" label="Math 13" />
+				<video url="M8TOJrI6cJc" label="Math 14" />
+				<video url="BdSNiuJnZa8" label="Math 15" />
+				<video url="dA1u8RD49dU" label="Math 16" />
+				<video url="f3TQEpL7dk4" label="Math 17" />
+				<video url="ITc5DeU1zaw" label="Math 18" />
+				<video url="m44llkkWI0g" label="Math 19" />
+				<video url="-Jx6vyc_830" label="Math 20" />
+				<video url="tcm-v12m7hU" label="Math 21" />
+				<video url="Zplk5NcBt3c" label="Math 22" />
+				<video url="Qod67l16LfQ" label="Math 23" />
+				<video url="QR9K8M4u8rk" label="Math 24" />
+				<video url="A6FP-2d3GnQ" label="Math 25" />
+				<video url="ucqaqTR6EK8" label="Math 26" />
+				<video url="SEtkn9S-WHY" label="Math 27" />
+				<video url="4r6QHJzu8YQ" label="Math 28" />
+				<video url="WBWV_uvgC6w" label="Math 29" />
+				<video url="zpnjkbJNp90" label="Math 30" />
+				<video url="wYGKRP0gD3I" label="Math 31" />
+				<video url="uG2VpBYd-Hk" label="Math 32" />
+				<video url="wdINk29ZSMA" label="Math 33" />
+				<video url="OgxsswJEZ7k" label="Math 34" />
+				<video url="FEYN0jK1-pI" label="Math 35" />
+				<video url="x8pEjhCc5ug" label="Math 36" />
+				<video url="QcAr1552o84" label="Math 37" />
+				<video url="-y9SELk3UNU" label="Math 38" />
+				<video url="1bj7FPzUiWc" label="Math 39" />
+				<video url="oug9h9-komI" label="Math 40" />
+				<video url="4WOjZ9lQdHE" label="Math 41" />
+				<video url="q0AkvTchhPI" label="Math 42" />
+				<video url="xvyQP-oezXc" label="Math 43" />
+				<video url="IDkhHTjlg0M" label="Math 44" />
+				<video url="o0azgDKAFNI" label="Math 45" />
+				<video url="rLI88bU7Fuo" label="Math 46" />
+				<video url="iwamZ7r2tTE" label="Math 47" />
+				<video url="nZ90fsoVvmc" label="Math 48" />
+				<video url="1-9n4Upditg" label="Math 49" />
+				<video url="OvRAIlok3fA" label="Math 50" />
+				<video url="AwKTZK8gqZI" label="Math 51" />
+				<video url="tixLZtDnbTg" label="Math 52" />
+				<video url="cY-iPEtvJAE" label="Math 53" />
+				<video url="EiZJzWPTm0I" label="Math 54" />
+			</SubTopic>
+		</Topic>
+		<Topic name='IIT JEE'>
+
+			<video url="X7GT9JKoAbo" label="Trigonometry Problem 1 " />
+			<video url="2u535-HVJ_o" label="Perpendicular Planes (Part 1) " />
+			<video url="66pQLO--Ghk" label="Perpendicular Plane (part 2) " />
+			<video url="bV_HSZ_W0nk" label="Complex Root Probability (part 1)" />
+			<video url="S3KMyYYGuPE" label="Complex Root Probability (part 2)" />
+			<video url="GDXyGy5TjnI" label="Position Vectors" />
+			<video url="pnwrNnZGVEw" label="Integral Limit" />
+			<video url="zs5LM7dxyTo" label="Algebraic Manipulation" />
+			<video url="2E_DB5VuAoo" label="Function Maxima" />
+			<video url="pdXcf5ZWHf0" label="Diameter Slope" />
+			<video url="dOxXl_6BDQc" label="Hairy Trig and Algebra (part 1)" />
+			<video url="6t9ogglXNIM" label="Hairy Trig and Algebra (Part 2)" />
+			<video url="KVRpXvrsSKM" label="Hairy Trig and Algebra (Part 3)" />
+			<video url="_5ei_I02huY" label="Complex Numbers (part 1)" />
+			<video url="pQwoBOpVoWw" label="Complex Numbers (part 2)" />
+			<video url="FwA_UZkI-JM" label="Complex Numbers (part 3)" />
+			<video url="FIt1RNiCO6U" label="Differentiability and Boundedness" />
+			<video url="1-5sTDLrcp4" label="Integral with Binomial Expansion" />
+			<video url="G6OoxGmJzuc" label="Symmetric and Skew-Symmetric Matrices" />
+			<video url="5S03uylNn-Q" label="Trace and Determinant" />
+			<video url="9vlsBN3pFE0" label="Divisible Determinants" />
+			<video url="6g3DPg2HqGw" label="Circle Hyperbola Intersection" />
+			<video url="MhLfun2Vask" label="Circle Hyperbola Common Tangent Part 1" />
+			<video url="0imeUgSxR10" label="Circle Hyperbola Common Tangent Part 2" />
+			<video url="RomnHMWSLoE" label="Circle Hyperbola Common Tangent Part 3" />
+			<video url="eGo8C2Jshzs" label="Circle Hyperbola Common Tangent Part 4" />
+			<video url="rPoqpQcgNv4" label="Circle Hyperbola Common Tangent Part 5" />
+			<video url="EjtjdJZ2x8w" label="Trigonometric Constraints" />
+			<video url="tzR9jUCSniQ" label="Trigonometric Maximum" />
+			<video url="b7JTVLc_aMk" label="Vector Triple Product Expansion (very optional)" />
+			<video url="rndex9FCIdo" label="Lagrange's Formula" />
+			<video url="c_8QQbVQKU0"
+				label="Tangent Line Hyperbola Relationship (very optional)" />
+			<video url="4ES_vbSJ7LU" label="2010 Paper 1 Problem 50 Hyperbola Eccentricity" />
+			<video url="gw-4wltP5tY" label="Normal vector from plane equation" />
+			<video url="7rIFO8hct9g" label="Point distance to plane" />
+			<video url="v8plb6V8BQo" label="Distance Between Planes" />
+			<video url="E7OkUomRq1Q" label="Complex Determinant Example" />
+			<video url="A6fbDssPeac" label="Series Sum Example" />
+			<video url="Y2ed-g8Lpdc" label="Trigonometric System Example" />
+			<video url="fqnPabGV6A4" label="Simple Differential Equation Example" />
+		</Topic>
+	</Subject>
+</Subjects>
