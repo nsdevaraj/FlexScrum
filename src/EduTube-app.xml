@@ -25,7 +25,7 @@
 		can also be 1-part or 2-part. It is not necessary to have a 3-part value. 
 		An updated version of application must have a versionNumber value higher 
 		than the previous version. Required for namespace >= 2.5 . -->
-	<versionNumber>0.0.0</versionNumber>
+	<versionNumber>1.0.0</versionNumber>
 
 	<!-- A string value (such as "v1", "2.5", or "Alpha 1") that represents 
 		the version of the application, as it should be shown to users. Optional. -->
@@ -170,8 +170,15 @@
 	<!-- <contentType></contentType> -->
 
 	<!-- The icon to display for the file type. Optional. -->
-	<!-- <icon> <image16x16></image16x16> <image32x32></image32x32> <image48x48></image48x48> 
-		<image128x128></image128x128> </icon> -->
+<icon>
+		<image16x16>assets/icons/diadem16.png</image16x16>
+		<image32x32>assets/icons/diadem32.png</image32x32>
+		<image36x36>assets/icons/diadem36.png</image36x36>
+		<image48x48>assets/icons/diadem48.png</image48x48>
+		<image72x72>assets/icons/diadem72.png</image72x72>
+		<image114x114>assets/icons/diadem114.png</image114x114>
+		<image128x128>assets/icons/diadem128.png</image128x128>
+	</icon>
 
 	<!-- </fileType> -->
 	<!-- </fileTypes> -->
