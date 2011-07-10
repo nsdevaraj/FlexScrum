@@ -189,6 +189,9 @@ package com.adams.edutube.view.mediators
 		
 		protected function applicationResizeHandler(event:ResizeEvent=null):void{
 			view.currentState =FlexGlobals.topLevelApplication.aspectRatio;
+			if(webView.stage != null){
+				webView.viewPort = new Rectangle( 0, 50, stage.stageWidth, stage.stageHeight-50);	
+			}
 		} 
 		
 		override protected function pushResultHandler( signal:SignalVO ): void { 
