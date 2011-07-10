@@ -2,10 +2,7 @@
 <s:Skin xmlns:fx="http://ns.adobe.com/mxml/2009" 
 		xmlns:s="library://ns.adobe.com/flex/spark"
 		xmlns:mediators="com.adams.edutube.view.mediators.*" 
-		xmlns:components="com.adams.edutube.view.components.*">	
-	<fx:Metadata>
-		[HostComponent("com.adams.edutube.view.mediators.MainViewMediator")]
-	</fx:Metadata>   
+		xmlns:components="com.adams.edutube.view.components.*">	 
 	<s:states>
 		<!-- // State Begin -->
 		<s:State name='List'/> 

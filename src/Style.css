@@ -31,9 +31,9 @@ s|FormItem{
 	skinClass : ClassReference("assets.skins.form.StackedFormItemViewSkin");
 }
 s|Label.header{
-	font-size:22;
-	color:#959595;
-	font-weight:normal;
+	font-size:26;
+	color:#ffffff;
+	font-weight:bold;
 }
 s|ButtonBar{
 	skin-class:ClassReference('assets.skins.ButtonBar.ButtonBarSkin');

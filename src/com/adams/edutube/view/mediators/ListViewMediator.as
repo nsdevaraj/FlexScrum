@@ -28,6 +28,7 @@ package com.adams.edutube.view.mediators
 	import mx.core.FlexGlobals;
 	import mx.events.ResizeEvent;
 	
+	import spark.components.HGroup;
 	import spark.events.IndexChangeEvent;
 	
 	public class ListViewMediator extends AbstractViewMediator
@@ -92,6 +93,7 @@ package com.adams.edutube.view.mediators
 			view.list.addEventListener(IndexChangeEvent.CHANGE, setLevel,false,0,true);
 			view.topicBtn.clicked.add(setBtnLevel);
 			view.subjectBtn.clicked.add(setBtnLevel);
+			view.videoBtn.clicked.add(setBtnLevel);
 			controlSignal.loadVideoCodesSignal.dispatch(this);
 		} 
 		
@@ -100,6 +102,8 @@ package com.adams.edutube.view.mediators
 				setHeaderData(1);
 			}else if(ev.currentTarget == view.topicBtn){
 				setHeaderData(2);
+			}else if(ev.currentTarget == view.videoBtn){
+				setHeaderData(3);
 			}
 			setLevel(ev);
 		}
@@ -123,8 +127,14 @@ package com.adams.edutube.view.mediators
 				}
 				case 3:
 				{
+					if(view.videoBtn.parent is HGroup)view.header.removeElement(view.videoBtn);
 					view.header.addElement(view.topicBtn);
 					view.list.labelField = 'visualName';
+					break;
+				}
+				case 4:
+				{
+					view.header.addElement(view.videoBtn);
 					break;
 				}	 
 			}
@@ -156,7 +166,9 @@ package com.adams.edutube.view.mediators
 			}else if(obj is Visual){
 				webView.stage = this.stage;
 				webView.viewPort = new Rectangle( 0, 50, stage.stageWidth, stage.stageHeight-50);
-				webView.loadURL(Utils.YOU_TUBE_M+Visual(obj).visualUrl);
+				view.videoBtn.label = Visual(obj).visualName;
+				webView.loadURL(Utils.YOU_TUBE_M+ Visual(obj).visualUrl);
+				setHeaderData(4);
 			}
 		} 
 		
