@@ -149,6 +149,7 @@ package com.adams.edutube.view.mediators
 		}
 		
 		protected function setLevel(ev:Event):void {
+			view.list.visible =true;
 			var obj:Object;
 			webView.stage = null;
 			webView.loadURL(Utils.GOOG_M);
@@ -196,14 +197,13 @@ package com.adams.edutube.view.mediators
 				setHeaderData(1);
 			}
 			if(signal.action == Action.HTTP_REQUEST && signal.daoName == Utils.VISUALDAO) {
-				if(currentTop.ted){
-					for each(var visual:Visual in signal.currentHTTPCollection){
-						visual.visualName = StringUtils.removeExtraWhitespace( visual.visualName.substr(18,visual.visualName.length));
+				for each(var visual:Visual in signal.currentHTTPCollection){
+					if(currentTop.ted){
+						visual.visualName = visual.visualName.substr(18,visual.visualName.length);
+					}else if(currentTop.ytv){ 
+						visual.visualName = currentTop.playCode;
 					}
-				}else if(currentTop.ytv){
-					for each(var visualtv:Visual in signal.currentHTTPCollection){
-						visualtv.visualName = currentTop.playCode;
-					}
+					visual.visualName = StringUtils.removeExtraWhitespace( visual.visualName);
 				}
 				currentTop.visuals = signal.currentHTTPCollection as ArrayCollection
 				if(currentTop.visuals.length>0 )currentTop.visualThumbUrl = currentTop.visuals.getItemAt(0).visualThumbUrl
@@ -229,6 +229,7 @@ package com.adams.edutube.view.mediators
 		} 
 		
 		protected function setStageWeb(): void { 
+			view.list.visible =false;
 			if(webViewFirstLoad){
 				webView.viewPort = new Rectangle( 0, 50, stage.stageWidth,stage.stageHeight-50);
 				webViewFirstLoad = false;
