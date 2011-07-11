@@ -21,6 +21,8 @@ package com.adams.edutube.model.vo
 		private var _topicName:String;
 		private var _playCode:String;
 		private var _visualThumbUrl:String;
+		public var ted:Boolean;
+		public var ytv:Boolean;
 		private var _visuals:ArrayCollection;
 		public function Topic()
 		{
@@ -79,6 +81,8 @@ package com.adams.edutube.model.vo
 		override public function fill(item:Object):void{ 
 			topicName = item.name;
 			playCode = item.code;
+			if(item.hasOwnProperty('TED'))ted = Boolean(item.TED);
+			if(item.hasOwnProperty('YTTV'))ytv = Boolean(item.YTTV);
 		}
 	}
 }

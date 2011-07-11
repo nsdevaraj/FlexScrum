@@ -45,6 +45,19 @@ package com.adams.edutube.control
 		private var alertView:IViewMediator;
 		private var alertResponder:Object;
 		// todo: add listener
+        /**
+         * Whenever an LoadTVUserSignal is dispatched.
+         * MediateSignal initates this loadtvuserAction to perform control Actions
+         * The invoke functions to perform control functions
+         */
+        [ControlSignal(type='loadTVUserSignal')]
+        public function loadtvuserAction(obj:IViewMediator,user:String):void {
+			var signal:SignalVO = new SignalVO(obj,visualDAO,Action.HTTP_REQUEST);
+			signal.emailBody = Utils.YTV_API+user;
+			signal.receivers = ['track','trackList','playlist'];
+			signalSequence.addSignal(signal);
+        }
+
          /**
           * Whenever an LoadPlaylistSignal is dispatched.
           * MediateSignal initates this loadplaylistAction to perform control Actions

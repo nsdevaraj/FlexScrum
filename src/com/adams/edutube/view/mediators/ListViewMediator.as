@@ -19,6 +19,7 @@ package com.adams.edutube.view.mediators
 	import com.adams.edutube.view.renderers.ThumbnailRenderer;
 	import com.adams.swizdao.model.vo.*;
 	import com.adams.swizdao.util.Action;
+	import com.adams.swizdao.util.StringUtils;
 	import com.adams.swizdao.views.mediators.AbstractViewMediator;
 	
 	import flash.events.Event;
@@ -169,7 +170,11 @@ package com.adams.edutube.view.mediators
 				currentTop = obj as Topic;
 				view.topicBtn.label = currentTop.topicName;
 				if(!currentTop.visuals){
-					controlSignal.loadPlaylistSignal.dispatch(this,currentTop.playCode);
+					if(!currentTop.ytv){
+						controlSignal.loadPlaylistSignal.dispatch(this,currentTop.playCode);
+					}else{
+						controlSignal.loadTVUserSignal.dispatch(this,currentTop.playCode);
+					}
 					controlSignal.progressStateSignal.dispatch(Utils.PROGRESS_ON);
 				}else{
 					view.list.dataProvider = currentTop.visuals;
@@ -191,6 +196,15 @@ package com.adams.edutube.view.mediators
 				setHeaderData(1);
 			}
 			if(signal.action == Action.HTTP_REQUEST && signal.daoName == Utils.VISUALDAO) {
+				if(currentTop.ted){
+					for each(var visual:Visual in signal.currentHTTPCollection){
+						visual.visualName = StringUtils.removeExtraWhitespace( visual.visualName.substr(18,visual.visualName.length));
+					}
+				}else if(currentTop.ytv){
+					for each(var visualtv:Visual in signal.currentHTTPCollection){
+						visualtv.visualName = currentTop.playCode;
+					}
+				}
 				currentTop.visuals = signal.currentHTTPCollection as ArrayCollection
 				if(currentTop.visuals.length>0 )currentTop.visualThumbUrl = currentTop.visuals.getItemAt(0).visualThumbUrl
 				view.list.dataProvider = currentTop.visuals;

@@ -21,6 +21,14 @@
 		<Topic code="36E7A2B75028A3D6" name="Computer Science" />
 		<Topic code="7305D1BC80498DA6" name="Organic Chemistry" />
 	</Subject>
+	<Subject name='TED'>
+		<Topic code="9133CCF626BB069C" name="TED Talks 1" TED="true"/>
+		<Topic code="98DD142D78036421" name="TED Talks 2" TED="true"/>
+		<Topic code="A7C278E8D9D22E59" name="TED Talks 3" TED="true"/>
+		<Topic code="AC463A2B6B2CEC7F" name="TED Talks 4" TED="true"/>
+		<Topic code="9DD399805F715133" name="TED Talks 5" TED="true"/>
+		<Topic code="TEDtalksDirector" name="TED Talks" YTTV="true" />
+	</Subject>
 	<Subject name='Other'>
 		<Topic code="CECDA315A8848B99" name="Banking and Money" />
 		<Topic code="BE233FA3D593154E" name="Paulson Bailout" />
