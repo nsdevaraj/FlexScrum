@@ -17,5 +17,5 @@
 		<s:State name="portrait"/>
 	</s:states>
 	<s:HGroup id="header" left="0" top="0" right="0" height="50"/>
-	<s:List id="list" left="0" top="50" right="0" bottom="0"/>
+	<s:List id="list" left="0" top="50" right="0" bottom="0" itemRenderer="com.adams.edutube.view.renderers.ThumbnailRenderer"/>
 </s:Skin>

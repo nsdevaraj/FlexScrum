@@ -12,18 +12,27 @@ Copyright (c) 2011 Adams Studio India, All Rights Reserved
 package com.adams.edutube.model.vo
 {
 	import com.adams.swizdao.model.vo.AbstractVO;
-	import mx.collections.ArrayCollection;
 	[Bindable]
-	[RemoteClass(alias='com.adams.edutube.dao.entities.Visual')]
 	public class Visual extends AbstractVO
 	{
 		private var _visualId:int; 
 		private var _visualName:String;
 		private var _visualUrl:String;
+		private var _visualThumbUrl:String;
 		private var _subTopic:String='';
 		public function Visual()
 		{
 			super();
+		}
+
+		public function get visualThumbUrl():String
+		{
+			return _visualThumbUrl;
+		}
+
+		public function set visualThumbUrl(value:String):void
+		{
+			_visualThumbUrl = value;
 		}
 
 		public function get subTopic():String
@@ -66,8 +75,9 @@ package com.adams.edutube.model.vo
 			_visualId = value;
 		}
 		override public function fill(item:Object):void{ 
-			visualName = item.label+ ' '+subTopic;
-			visualUrl = item.url;
+			visualName = item.group.description;
+			visualUrl = (item.group.player.url).split('?v=')[1].split('&feature')[0];
+			if((item.group.thumbnail).length > 0 )visualThumbUrl =(item.group.thumbnail).getItemAt(1).url
 		}
 	}
 }

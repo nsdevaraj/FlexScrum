@@ -22,20 +22,21 @@ package com.adams.edutube.util
 		// todo: add view index
 		public static const MAIN_INDEX:String='Main';
 		// todo: add key
-       public static const VISUALKEY  :String='visualId';
-       public static const TOPICKEY  :String='topicId';
-       public static const SUBJECTKEY  :String='subjectId';
-		 
+		public static const VISUALKEY  :String='visualUrl';
+		public static const TOPICKEY  :String='playCode';
+		public static const SUBJECTKEY  :String='subjectName';
+		
 		// todo: add dao
-       public static const WEB_INDEX:String='Web';
-	   public static const GOOG_M:String='http://m.google.com'
-	   public static const YOU_TUBE_M:String='http://m.youtube.com/watch?v='
-	   public static var fileSplitter:String =  '//';
-	   public static const XMLPATH:String="assets"+fileSplitter+"xml"+fileSplitter+"video.xml";
-       public static const VISUALDAO  :String='visualDAO'; 
-       public static const TOPICDAO  :String='topicDAO'; 
-       public static const SUBJECTDAO  :String='subjectDAO'; 
-       public static const LIST_INDEX:String='List';
+		public static const WEB_INDEX:String='Web';
+		public static const GOOG_M:String='http://m.google.com'
+		public static const GOOG_API:String='https://gdata.youtube.com/feeds/api/playlists/'
+		public static const YOU_TUBE_M:String='http://m.youtube.com/watch?v='
+		public static var fileSplitter:String =  '//';
+		public static const XMLPATH:String="assets"+fileSplitter+"xml"+fileSplitter+"playlist.xml";
+		public static const VISUALDAO  :String='visualDAO'; 
+		public static const TOPICDAO  :String='topicDAO'; 
+		public static const SUBJECTDAO  :String='subjectDAO'; 
+		public static const LIST_INDEX:String='List';
 		
 		public static const ALERT_YES:int = 0;
 		public static const ALERT_NO:int = 1;

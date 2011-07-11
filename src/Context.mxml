@@ -80,12 +80,12 @@
 			
 			<!-- // Processors Begin -->
 			<processor:VisualProcessor id='VisualProcessor'/>
-			<processor:TopicProcessor id='TopicProcessor'/>
 			<processor:SubjectProcessor id='SubjectProcessor'/>
 			<!-- Processors End -->  
 			
 			<!-- // DAO Begin -->
 			<swiz:Prototype name='{Utils.SUBJECTDAO}' constructorArguments='{[Utils.SUBJECTKEY,Subject,SubjectProcessor,Utils.SUBJECTDAO]}' type='{AbstractDAO}' singleton='true'/>  
+			<swiz:Prototype name='{Utils.VISUALDAO}' constructorArguments='{[Utils.VISUALKEY,Visual,VisualProcessor,Utils.VISUALDAO]}' type='{AbstractDAO}' singleton='true'/>  
 			<dao:PagingDAO/>
 			<!-- DAO End --> 
 			

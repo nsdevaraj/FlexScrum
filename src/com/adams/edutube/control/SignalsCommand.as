@@ -36,6 +36,9 @@ package com.adams.edutube.control
 		[Inject("subjectDAO")]
 		public var subjectDAO:AbstractDAO;
 		
+		[Inject("visualDAO")]
+		public var visualDAO:AbstractDAO;
+		
 		[Inject]
 		public var signalSequence:SignalSequence;
 		
@@ -48,8 +51,11 @@ package com.adams.edutube.control
           * The invoke functions to perform control functions
           */
          [ControlSignal(type='loadPlaylistSignal')]
-         public function loadplaylistAction(obj:IViewMediator):void {
-          
+         public function loadplaylistAction(obj:IViewMediator,code:String):void {
+			 var signal:SignalVO = new SignalVO(obj,visualDAO,Action.HTTP_REQUEST);
+			 signal.emailBody = Utils.GOOG_API+code;
+			 signal.receivers = ['entry','feed'];
+			 signalSequence.addSignal(signal);
          }
 
          /**

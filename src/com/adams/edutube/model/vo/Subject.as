@@ -15,7 +15,6 @@ package com.adams.edutube.model.vo
 	
 	import mx.collections.ArrayCollection;
 	[Bindable]
-	[RemoteClass(alias='com.adams.edutube.dao.entities.Subject')]
 	public class Subject extends AbstractVO
 	{
 		private var _subjectId:int; 

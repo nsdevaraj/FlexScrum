@@ -16,6 +16,7 @@ package com.adams.edutube.view.mediators
 	import com.adams.edutube.signal.ControlSignal;
 	import com.adams.edutube.util.Utils;
 	import com.adams.edutube.view.ListSkinView;
+	import com.adams.edutube.view.renderers.ThumbnailRenderer;
 	import com.adams.swizdao.model.vo.*;
 	import com.adams.swizdao.util.Action;
 	import com.adams.swizdao.views.mediators.AbstractViewMediator;
@@ -25,6 +26,8 @@ package com.adams.edutube.view.mediators
 	import flash.geom.Rectangle;
 	import flash.media.StageWebView;
 	
+	import mx.collections.ArrayCollection;
+	import mx.core.ClassFactory;
 	import mx.core.FlexGlobals;
 	import mx.events.ResizeEvent;
 	
@@ -116,6 +119,7 @@ package com.adams.edutube.view.mediators
 				{
 					view.header.removeAllElements();
 					view.header.addElement(view.logo);
+					view.list.itemRenderer = new ClassFactory(ThumbnailRenderer);
 					view.list.labelField = 'subjectName';
 					break;
 				}
@@ -123,6 +127,7 @@ package com.adams.edutube.view.mediators
 				{
 					view.header.removeAllElements();
 					view.header.addElement(view.subjectBtn);
+					view.list.itemRenderer = new ClassFactory(ThumbnailRenderer);
 					view.list.labelField = 'topicName';
 					break;
 				}
@@ -130,6 +135,7 @@ package com.adams.edutube.view.mediators
 				{
 					if(view.videoBtn.parent is HGroup)view.header.removeElement(view.videoBtn);
 					view.header.addElement(view.topicBtn);
+					view.list.itemRenderer = new ClassFactory(ThumbnailRenderer);
 					view.list.labelField = 'visualName';
 					break;
 				}
@@ -161,9 +167,14 @@ package com.adams.edutube.view.mediators
 				setHeaderData(2);
 			}else if(obj is Topic){
 				currentTop = obj as Topic;
-				view.list.dataProvider =currentTop.visuals;
 				view.topicBtn.label = currentTop.topicName;
-				setHeaderData(3);
+				if(!currentTop.visuals){
+					controlSignal.loadPlaylistSignal.dispatch(this,currentTop.playCode);
+					controlSignal.progressStateSignal.dispatch(Utils.PROGRESS_ON);
+				}else{
+					view.list.dataProvider = currentTop.visuals;
+					setHeaderData(3);
+				}
 			}else if(obj is Visual){
 				webViewFirstLoad =true;
 				webView.stage = this.stage;
@@ -178,6 +189,13 @@ package com.adams.edutube.view.mediators
 			if(signal.action == Action.HTTP_REQUEST && signal.daoName == Utils.SUBJECTDAO) {
 				view.list.dataProvider = subjectDAO.collection.items;
 				setHeaderData(1);
+			}
+			if(signal.action == Action.HTTP_REQUEST && signal.daoName == Utils.VISUALDAO) {
+				currentTop.visuals = signal.currentHTTPCollection as ArrayCollection
+				if(currentTop.visuals.length>0 )currentTop.visualThumbUrl = currentTop.visuals.getItemAt(0).visualThumbUrl
+				view.list.dataProvider = currentTop.visuals;
+				setHeaderData(3);
+				controlSignal.progressStateSignal.dispatch(Utils.PROGRESS_OFF);
 			}
 		}
 		/**
