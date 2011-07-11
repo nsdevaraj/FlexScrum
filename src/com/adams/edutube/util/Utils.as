@@ -40,6 +40,9 @@ package com.adams.edutube.util
 		public static const ALERT_YES:int = 0;
 		public static const ALERT_NO:int = 1;
 		public static const ALERT_OK:int = 2;
+		
+		public static const PORTRAIT:String='portrait';
+		public static const LANDSCAPE:String='landscape';
 		public static const PROGRESS_INDEX:String='Progress';
 		public static const PROGRESS_ON:String = "progressOn"; 
 		public static const PROGRESS_OFF:String = "progressOff"; 	 

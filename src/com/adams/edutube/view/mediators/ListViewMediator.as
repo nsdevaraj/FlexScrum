@@ -41,6 +41,7 @@ package com.adams.edutube.view.mediators
 		public var subjectDAO:AbstractDAO; 
 		private var currentSub:Subject;
 		private var currentTop:Topic;
+		private var webViewFirstLoad:Boolean = true;
 		private var webView:StageWebView = new StageWebView();
 		private var _homeState:String;
 		public function get homeState():String
@@ -164,8 +165,9 @@ package com.adams.edutube.view.mediators
 				view.topicBtn.label = currentTop.topicName;
 				setHeaderData(3);
 			}else if(obj is Visual){
+				webViewFirstLoad =true;
 				webView.stage = this.stage;
-				webView.viewPort = new Rectangle( 0, 50, stage.stageWidth, stage.stageHeight-50);
+				setStageWeb();
 				view.videoBtn.label = Visual(obj).visualName;
 				webView.loadURL(Utils.YOU_TUBE_M+ Visual(obj).visualUrl);
 				setHeaderData(4);
@@ -190,11 +192,17 @@ package com.adams.edutube.view.mediators
 		protected function applicationResizeHandler(event:ResizeEvent=null):void{
 			view.currentState =FlexGlobals.topLevelApplication.aspectRatio;
 			if(webView.stage != null){
-				webView.viewPort = new Rectangle( 0, 50, stage.stageWidth, stage.stageHeight-50);	
+				setStageWeb()
 			}
 		} 
 		
-		override protected function pushResultHandler( signal:SignalVO ): void { 
+		protected function setStageWeb(): void { 
+			if(webViewFirstLoad){
+				webView.viewPort = new Rectangle( 0, 50, stage.stageWidth,stage.stageHeight-50);
+				webViewFirstLoad = false;
+			}else{
+				webView.viewPort = new Rectangle( 0, 50, stage.stageHeight, stage.stageWidth-50);
+			}
 		} 
 		/**
 		 * Remove any listeners we've created.
