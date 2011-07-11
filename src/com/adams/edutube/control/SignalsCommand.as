@@ -43,6 +43,16 @@ package com.adams.edutube.control
 		private var alertResponder:Object;
 		// todo: add listener
          /**
+          * Whenever an LoadPlaylistSignal is dispatched.
+          * MediateSignal initates this loadplaylistAction to perform control Actions
+          * The invoke functions to perform control functions
+          */
+         [ControlSignal(type='loadPlaylistSignal')]
+         public function loadplaylistAction(obj:IViewMediator):void {
+          
+         }
+
+         /**
           * Whenever an LoadVideoCodesSignal is dispatched.
           * MediateSignal initates this loadvideocodesAction to perform control Actions
           * The invoke functions to perform control functions

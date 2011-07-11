@@ -20,6 +20,7 @@ package com.adams.edutube.signal
 	public class ControlSignal
 	{
 		// add Signal 
+         public var loadPlaylistSignal:Signal= new Signal(IViewMediator);
          public var loadVideoCodesSignal:Signal= new Signal(IViewMediator);
 		public var changeStateSignal:Signal= new Signal(String);
 		public var hideAlertSignal:Signal = new Signal( uint );
