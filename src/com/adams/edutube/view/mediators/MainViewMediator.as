@@ -11,19 +11,11 @@ Copyright (c) 2011 Adams Studio India, All Rights Reserved
 */
 package com.adams.edutube.view.mediators
 { 
-	import com.adams.edutube.model.AbstractDAO;
 	import com.adams.edutube.model.vo.*;
 	import com.adams.edutube.signal.ControlSignal;
 	import com.adams.edutube.util.Utils;
 	import com.adams.edutube.view.MainSkinView;
-	import com.adams.swizdao.dao.PagingDAO;
 	import com.adams.swizdao.model.vo.*;
-	import com.adams.swizdao.response.SignalSequence;
-	import com.adams.swizdao.util.Action;
-	import com.adams.swizdao.util.ArrayUtil;
-	import com.adams.swizdao.util.Description;
-	import com.adams.swizdao.util.ObjectUtils;
-	import com.adams.swizdao.views.components.NativeList;
 	import com.adams.swizdao.views.mediators.AbstractViewMediator;
 	
 	import flash.events.Event;
@@ -121,19 +113,21 @@ package com.adams.edutube.view.mediators
 		override protected function init():void {
 			super.init();  
 			viewState = Utils.MAIN_INDEX;
-			systemManager.stage.addEventListener(KeyboardEvent.KEY_DOWN, _onKeyDown);
+			systemManager.stage.addEventListener(KeyboardEvent.KEY_DOWN, onKeyDown,false,0,true);
+			view.addEventListener(MouseEvent.MOUSE_DOWN, closeMenu,false,0,true);
 		}
 		
-		private function _onKeyDown(event:KeyboardEvent):void
+		private function closeMenu(event:MouseEvent):void
+		{
+			view.menu.visible=false;
+		}
+		
+		private function onKeyDown(event:KeyboardEvent):void
 		{
 			if(event.keyCode == Keyboard.BACK)
 			{
 				event.preventDefault();
 			}
-		}
-		
-		override protected function setRenderers():void {
-			super.setRenderers();  
 		} 
 		
 		public function showAlert( text:String, title:String, type:int = 0 ):void {
@@ -146,22 +140,13 @@ package com.adams.edutube.view.mediators
 			view.alert.visible = false;
 			controlSignal.hideAlertSignal.dispatch( alertDetail );
 		}
-		
-		override protected function serviceResultHandler( obj:Object,signal:SignalVO ):void {  
-		}
-		/**
-		 * Create listeners for all of the view's children that dispatch events
-		 * that we want to handle in this mediator.
-		 */
-		override protected function setViewListeners():void {
-			super.setViewListeners(); 
-		}
-		override protected function pushResultHandler( signal:SignalVO ): void { 
-		} 
+		 
 		/**
 		 * Remove any listeners we've created.
 		 */
 		override protected function cleanup( event:Event ):void {
+			systemManager.stage.removeEventListener(KeyboardEvent.KEY_DOWN, onKeyDown);
+			view.removeEventListener(MouseEvent.MOUSE_DOWN, closeMenu);
 			super.cleanup( event ); 		
 		} 
 	}

@@ -22,6 +22,7 @@ package com.adams.edutube.view.mediators
 	import com.adams.swizdao.util.StringUtils;
 	import com.adams.swizdao.views.mediators.AbstractViewMediator;
 	
+	import flash.desktop.NativeApplication;
 	import flash.events.Event;
 	import flash.events.KeyboardEvent;
 	import flash.events.MouseEvent;
@@ -119,7 +120,7 @@ package com.adams.edutube.view.mediators
 				view.header.height = 50;
 				view.list.top= 50;
 			}
-			controlSignal.openMenuSignal.dispatch(this,[],false);
+			controlSignal.openMenuSignal.dispatch(this,[view.setting],false);
 		}
 		protected function setBtnLevel(ev:MouseEvent):void {
 			if(ev.currentTarget == view.subjectBtn){
@@ -249,8 +250,9 @@ package com.adams.edutube.view.mediators
 				setHeaderData(modifyLevel);
 				setLevel();
 			}
+			if(modifyLevel ==0) NativeApplication.nativeApplication.exit();
 		}
-		protected function menuKeyUpHandler(event:KeyboardEvent=null):void
+		protected function menuKeyUpHandler(event:Event=null):void
 		{ 
 			controlSignal.openMenuSignal.dispatch(this,[view.setting],true);
 		}
