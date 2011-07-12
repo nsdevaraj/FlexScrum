@@ -18,10 +18,9 @@ package com.adams.edutube.model.vo
 	public class Visual extends AbstractVO
 	{
 		private var _visualId:int; 
-		private var _visualName:String;
+		private var _visualName:String='';
 		private var _visualUrl:String;
 		private var _visualThumbUrl:String;
-		private var _subTopic:String='';
 		public function Visual()
 		{
 			super();
@@ -35,17 +34,7 @@ package com.adams.edutube.model.vo
 		public function set visualThumbUrl(value:String):void
 		{
 			_visualThumbUrl = value;
-		}
-		
-		public function get subTopic():String
-		{
-			return _subTopic;
-		}
-		
-		public function set subTopic(value:String):void
-		{
-			_subTopic = value;
-		}
+		} 
 		
 		public function get visualUrl():String
 		{
@@ -78,13 +67,13 @@ package com.adams.edutube.model.vo
 		}
 		override public function fill(item:Object):void{ 
 			if(!item.hasOwnProperty('location')){
-				visualName = item.group.description;
-				visualUrl = (item.group.player.url).split('?v=')[1].split('&feature')[0];
+				if(item.group.hasOwnProperty('description')) visualName = item.group.description;
+				if(item.group.hasOwnProperty('player')) visualUrl = (item.group.player.url).split('?v=')[1].split('&feature')[0];
 			}else{
 				visualUrl = (item.location).split('?v=')[1]; 
 				Utils.getHTTPResult(visualUrl,this);
 			}
-			visualThumbUrl = 'http://img.youtube.com/vi/'+visualUrl+'/2.jpg'
+			if(visualUrl) visualThumbUrl = 'http://img.youtube.com/vi/'+visualUrl+'/2.jpg'
 		}  
 	}
 }
