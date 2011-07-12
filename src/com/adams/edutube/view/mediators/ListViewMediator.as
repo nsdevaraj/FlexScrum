@@ -23,9 +23,11 @@ package com.adams.edutube.view.mediators
 	import com.adams.swizdao.views.mediators.AbstractViewMediator;
 	
 	import flash.events.Event;
+	import flash.events.KeyboardEvent;
 	import flash.events.MouseEvent;
 	import flash.geom.Rectangle;
 	import flash.media.StageWebView;
+	import flash.ui.Keyboard;
 	
 	import mx.collections.ArrayCollection;
 	import mx.core.ClassFactory;
@@ -33,6 +35,8 @@ package com.adams.edutube.view.mediators
 	import mx.events.ResizeEvent;
 	
 	import spark.components.HGroup;
+	import spark.components.LabelItemRenderer;
+	import spark.components.List;
 	import spark.events.IndexChangeEvent;
 	
 	public class ListViewMediator extends AbstractViewMediator
@@ -47,6 +51,11 @@ package com.adams.edutube.view.mediators
 		private var currentTop:Topic;
 		private var webViewFirstLoad:Boolean = true;
 		private var webView:StageWebView = new StageWebView();
+		
+		private var backKeyEventPreventDefaulted:Boolean;
+		protected var exitApplicationOnBackKey:Boolean = false;
+		private var menuKeyEventPreventDefaulted:Boolean;
+		private var currentLevel:int;
 		private var _homeState:String;
 		public function get homeState():String
 		{
@@ -110,17 +119,18 @@ package com.adams.edutube.view.mediators
 			}else if(ev.currentTarget == view.videoBtn){
 				setHeaderData(3);
 			}
-			setLevel(ev);
+			setLevel();
 		}
 		
 		protected function setHeaderData(level:int):void {
+			currentLevel = level;
 			switch(level)
 			{
 				case 1:
 				{
 					view.header.removeAllElements();
 					view.header.addElement(view.logo);
-					view.list.itemRenderer = new ClassFactory(ThumbnailRenderer);
+					view.list.itemRenderer = new ClassFactory(LabelItemRenderer);
 					view.list.labelField = 'subjectName';
 					break;
 				}
@@ -148,17 +158,17 @@ package com.adams.edutube.view.mediators
 			}
 		}
 		
-		protected function setLevel(ev:Event):void {
+		protected function setLevel(ev:Event=null):void { 
 			view.list.visible =true;
 			var obj:Object;
 			webView.stage = null;
 			webView.loadURL(Utils.GOOG_M);
-			if(ev is IndexChangeEvent){
+			if(ev ){
 				obj = ev.currentTarget.selectedItem;
-			}else if(ev is MouseEvent){
-				if(ev.currentTarget == view.subjectBtn){
+			}else {
+				if(currentLevel == 1){
 					view.list.dataProvider = subjectDAO.collection.items;
-				}else if(ev.currentTarget == view.topicBtn){
+				}else if(currentLevel == 2){
 					obj = currentSub;
 				}
 			}
@@ -218,7 +228,44 @@ package com.adams.edutube.view.mediators
 		 */
 		override protected function setViewListeners():void {
 			FlexGlobals.topLevelApplication.addEventListener(ResizeEvent.RESIZE,applicationResizeHandler, false, 0, true);
+			stage.addEventListener(KeyboardEvent.KEY_UP, deviceKeyUpHandler, false, 0, true);
 			super.setViewListeners(); 
+		}
+		
+		protected function backKeyUpHandler(event:KeyboardEvent):void
+		{
+			var modifyLevel:int = currentLevel -1;
+			if(modifyLevel>=1 && modifyLevel <=3){
+				setHeaderData(modifyLevel);
+				setLevel();
+			}
+		}
+		protected function menuKeyUpHandler(event:KeyboardEvent):void
+		{
+			//
+		}
+		
+		private function deviceKeyUpHandler(event:KeyboardEvent):void
+		{
+			var key:uint = event.keyCode;
+			if (key == Keyboard.BACK && !backKeyEventPreventDefaulted)
+				backKeyUpHandler(event);
+			else if (key == Keyboard.MENU && !menuKeyEventPreventDefaulted)
+				menuKeyUpHandler(event);
+		}
+		
+		private function deviceKeyDownHandler(event:KeyboardEvent):void
+		{
+			var key:uint = event.keyCode;
+			if (key == Keyboard.BACK)
+			{
+				backKeyEventPreventDefaulted = event.isDefaultPrevented();
+				event.preventDefault();
+			}
+			else if (key == Keyboard.MENU)
+			{
+				menuKeyEventPreventDefaulted = event.isDefaultPrevented();
+			}
 		}
 		
 		protected function applicationResizeHandler(event:ResizeEvent=null):void{
@@ -241,7 +288,10 @@ package com.adams.edutube.view.mediators
 		 * Remove any listeners we've created.
 		 */
 		override protected function cleanup( event:Event ):void {
-			view.list.addEventListener(IndexChangeEvent.CHANGE, setLevel);
+			view.list.removeEventListener(IndexChangeEvent.CHANGE, setLevel);
+			
+			stage.removeEventListener(KeyboardEvent.KEY_DOWN, deviceKeyDownHandler);
+			stage.removeEventListener(KeyboardEvent.KEY_UP, deviceKeyUpHandler);
 			FlexGlobals.topLevelApplication.removeEventListener(ResizeEvent.RESIZE,applicationResizeHandler);
 			super.cleanup( event ); 		
 		} 

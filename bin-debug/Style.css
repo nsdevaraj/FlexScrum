@@ -39,10 +39,8 @@ s|ButtonBar{
 	skin-class:ClassReference('assets.skins.ButtonBar.ButtonBarSkin');
 }
 s|Button.labelButton{
-	skin-class:ClassReference('assets.skins.button.ButtonLabelSkin');
-	color:#0090d3;
-	overColor:#00a6ff;
-	disabledColor:#ffffff;
+	skin-class:ClassReference('assets.skins.MobileButtonSkin'); 
+	color:#ffffff;
 	font-size:13;
 }
 

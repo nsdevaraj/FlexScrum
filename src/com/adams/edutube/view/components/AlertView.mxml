@@ -48,12 +48,13 @@
 		<s:State name="yesNoView"/>
 		<s:State name="okView"/>
 	</s:states> 
-	<s:TitleWindow id="registerPanel" title="{titleText}" width="300">
-		<s:Label text="{contentText}" width="100%" textAlign="center"/>
+	<s:TitleWindow title="{titleText}" width="300">
+		<s:TextArea text="{contentText}" contentBackgroundAlpha="0" editable="false" 
+					selectable="false" borderVisible="false" width="100%" textAlign="center"/>
 		<s:controlBarContent>
 			<s:Button label="Yes" name="{Utils.ALERT_YES}" id="yesBtn" styleName="labelButton" buttonMode="true" 
 					  includeIn="yesNoView" click="onControlClick(event)"/>
-			<s:Label text="/" includeIn="yesNoView"/>
+			<s:Label text="/" includeIn="yesNoView"/> 
 			<s:Button label="No" name="{Utils.ALERT_NO}" id="noBtn" styleName="labelButton" buttonMode="true" 
 					  includeIn="yesNoView" click="onControlClick(event)"/>
 			<s:Button label="OK" name="{Utils.ALERT_OK}"

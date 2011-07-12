@@ -97,7 +97,7 @@
 								distance.inactiveGroup="7"/>
 		</s:filters>
 		<s:Rect radiusX="10" radiusY="10" id="background" bottom="0" left="0" right="0" top="0">
-			<s:fill> <s:SolidColor id="backgroundFill" color="#cde2f5"/> </s:fill>
+			<s:fill> <s:SolidColor id="backgroundFill" color="#cde2f5"/> </s:fill><!---->
 		</s:Rect>
 		<s:Rect radiusX="10" radiusY="10" top="25" right="25" left="25" bottom="25">
 			<s:stroke>
@@ -111,7 +111,7 @@
 			<!--- @private -->
 			<s:Group id="topGroup" >
 				<s:Rect width="{titleDisplay.width + 15}" horizontalCenter="0" height="30" top="10">
-					<s:fill> <s:SolidColor color="#cde2f5"/> </s:fill>
+					<s:fill> <s:SolidColor color="#8B8B8B"/> </s:fill><!---->
 				</s:Rect>
 				<s:Label id="titleDisplay"
 					minHeight="30"
@@ -142,10 +142,10 @@
 			<s:Group id="bottomGroup"
 				includeIn="withControls"
 				minHeight="0"
-				minWidth="0">
+				minWidth="0"><!--
 				<s:Rect width="{controlBarGroup.width }" height="10" verticalCenter="0" x="{controlBarGroup.x}">
 					<s:fill> <s:SolidColor color="#cde2f5"/> </s:fill>
-				</s:Rect>
+				</s:Rect>-->
 				<!--- @copy spark.components.Panel#controlBarGroup -->
 				<s:Group id="controlBarGroup"
 					minHeight="0"
@@ -163,12 +163,5 @@
 				</s:Group>
 			</s:Group>
 		</s:Group>
-	</s:Group>
-
-	<!--<resize1:ResizeHandleLines id="resizeHandle"
-		enabled="{resizeManager.enabled}"
-		bottom="1"
-		right="1"
-		visible="{resizeManager.enabled}"/>-->
-
+	</s:Group> 
 </s:SparkSkin>

@@ -8,9 +8,9 @@
 			<s:Image source="assets/icons/diadem128.png" height="100%"/>
 			<s:Label text="EduTube" styleName="header"/>
 		</s:HGroup>
-		<components:NativeButton id="subjectBtn" />
-		<components:NativeButton id="topicBtn" />
-		<components:NativeButton id="videoBtn" />
+		<components:NativeButton id="subjectBtn" height="50"/>
+		<components:NativeButton id="topicBtn" height="50"/>
+		<components:NativeButton id="videoBtn" height="50"/> 
 	</fx:Declarations>
 	<s:states>
 		<s:State name="landscape"/>

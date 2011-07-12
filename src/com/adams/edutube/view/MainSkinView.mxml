@@ -13,7 +13,6 @@
 	<mediators:ListViewMediator id='list' skinClass='com.adams.edutube.view.ListSkinView' homeState='{currentState}' includeIn='List' width='100%' height='100%'/>
 	<!-- View End -->  
 	<components:AlertView id="alert" visible="false" verticalCenter="0" horizontalCenter="0"/>
-	
 	<mediators:ProgressViewMediator id='progress' width="100%" height="100%" 
 									skinClass='com.adams.edutube.view.ProgressSkinView' 
 									visible="false" includeInLayout="{ progress.visible }"/>
