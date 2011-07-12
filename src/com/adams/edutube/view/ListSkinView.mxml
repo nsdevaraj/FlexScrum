@@ -8,14 +8,15 @@
 			<s:Image source="assets/icons/diadem128.png" height="100%"/>
 			<s:Label text="EduTube" styleName="header"/>
 		</s:HGroup>
-		<components:NativeButton id="subjectBtn" height="50"/>
-		<components:NativeButton id="topicBtn" height="50"/>
-		<components:NativeButton id="videoBtn" height="50"/> 
+		<components:NativeButton id="subjectBtn" height="50" width="100%"/>
+		<components:NativeButton id="topicBtn" height="50" width="100%"/>
+		<components:NativeButton id="videoBtn" height="50" width="100%"/> 
+		<s:ToggleButton id="setting" height="50" width="100%" label="{setting.selected ? 'Header ON' : 'Header OFF'}"/>
 	</fx:Declarations>
 	<s:states>
 		<s:State name="landscape"/>
 		<s:State name="portrait"/>
 	</s:states>
-	<s:HGroup id="header" left="0" top="0" right="0" height="50"/>
-	<s:List id="list" left="0" top="50" right="0" bottom="0" itemRenderer="com.adams.edutube.view.renderers.ThumbnailRenderer"/>
+	<s:HGroup id="header" left="0" top="0" right="0" />
+	<s:List id="list" left="0" right="0" bottom="0" itemRenderer="com.adams.edutube.view.renderers.ThumbnailRenderer"/>
 </s:Skin>

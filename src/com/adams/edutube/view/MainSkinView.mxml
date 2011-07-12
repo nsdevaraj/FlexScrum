@@ -16,4 +16,5 @@
 	<mediators:ProgressViewMediator id='progress' width="100%" height="100%" 
 									skinClass='com.adams.edutube.view.ProgressSkinView' 
 									visible="false" includeInLayout="{ progress.visible }"/>
+	<s:HGroup id="menu" includeInLayout="{menu.visible}" visible="false" height="50" left="0" right="0" bottom="0"/>
 </s:Skin>

@@ -46,6 +46,17 @@ package com.adams.edutube.control
 		private var alertResponder:Object;
 		// todo: add listener
         /**
+         * Whenever an OpenMenuSignal is dispatched.
+         * MediateSignal initates this openmenuAction to perform control Actions
+         * The invoke functions to perform control functions
+         */
+        [ControlSignal(type='openMenuSignal')]
+        public function openmenuAction(obj:IViewMediator,compArr:Array,visible:Boolean):void {
+			mainViewMediator.menuContent = compArr;
+			mainViewMediator.view.menu.visible =visible;
+        }
+
+        /**
          * Whenever an LoadTVUserSignal is dispatched.
          * MediateSignal initates this loadtvuserAction to perform control Actions
          * The invoke functions to perform control functions

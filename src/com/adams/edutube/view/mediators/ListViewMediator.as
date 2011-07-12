@@ -36,7 +36,6 @@ package com.adams.edutube.view.mediators
 	
 	import spark.components.HGroup;
 	import spark.components.LabelItemRenderer;
-	import spark.components.List;
 	import spark.events.IndexChangeEvent;
 	
 	public class ListViewMediator extends AbstractViewMediator
@@ -108,9 +107,20 @@ package com.adams.edutube.view.mediators
 			view.topicBtn.clicked.add(setBtnLevel);
 			view.subjectBtn.clicked.add(setBtnLevel);
 			view.videoBtn.clicked.add(setBtnLevel);
+			headerSetup();
 			controlSignal.loadVideoCodesSignal.dispatch(this);
+			view.setting.addEventListener(MouseEvent.CLICK,headerSetup,false,0,true);
 		} 
-		
+		protected function headerSetup(ev:MouseEvent=null):void {
+			if(view.setting.selected){
+				view.header.height = 0;
+				view.list.top= 0;
+			}else{
+				view.header.height = 50;
+				view.list.top= 50;
+			}
+			controlSignal.openMenuSignal.dispatch(this,[],false);
+		}
 		protected function setBtnLevel(ev:MouseEvent):void {
 			if(ev.currentTarget == view.subjectBtn){
 				setHeaderData(1);
@@ -240,18 +250,20 @@ package com.adams.edutube.view.mediators
 				setLevel();
 			}
 		}
-		protected function menuKeyUpHandler(event:KeyboardEvent):void
-		{
-			//
+		protected function menuKeyUpHandler(event:KeyboardEvent=null):void
+		{ 
+			controlSignal.openMenuSignal.dispatch(this,[view.setting],true);
 		}
 		
 		private function deviceKeyUpHandler(event:KeyboardEvent):void
 		{
 			var key:uint = event.keyCode;
-			if (key == Keyboard.BACK && !backKeyEventPreventDefaulted)
+			if (key == Keyboard.BACK && !backKeyEventPreventDefaulted){
 				backKeyUpHandler(event);
-			else if (key == Keyboard.MENU && !menuKeyEventPreventDefaulted)
+			}
+			else if (key == Keyboard.MENU && !menuKeyEventPreventDefaulted){
 				menuKeyUpHandler(event);
+			}
 		}
 		
 		private function deviceKeyDownHandler(event:KeyboardEvent):void

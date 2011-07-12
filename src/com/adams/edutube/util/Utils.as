@@ -53,7 +53,9 @@ package com.adams.edutube.util
 		public static const LANDSCAPE:String='landscape';
 		public static const PROGRESS_INDEX:String='Progress';
 		public static const PROGRESS_ON:String = "progressOn"; 
-		public static const PROGRESS_OFF:String = "progressOff"; 	
+		public static const PROGRESS_OFF:String = "progressOff"; 
+		public static const MENU_ON:String = "menuOn"; 
+		public static const MENU_OFF:String = "menuOff"; 	
 		public static var http:HTTPService= new HTTPService()
 		public static var httpDelegate:HTTPDelegate= new HTTPDelegate()
 		public static function addArrcStrictItem( item:Object, arrc:ArrayCollection, sortString:String, modified:Boolean =false ):void{
