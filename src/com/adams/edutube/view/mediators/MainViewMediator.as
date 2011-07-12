@@ -114,7 +114,7 @@ package com.adams.edutube.view.mediators
 			super.init();  
 			viewState = Utils.MAIN_INDEX;
 			systemManager.stage.addEventListener(KeyboardEvent.KEY_DOWN, onKeyDown,false,0,true);
-			view.addEventListener(MouseEvent.MOUSE_DOWN, closeMenu,false,0,true);
+			view.list.addEventListener(MouseEvent.MOUSE_DOWN, closeMenu,false,0,true);
 		}
 		
 		private function closeMenu(event:MouseEvent):void
