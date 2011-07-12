@@ -6,6 +6,7 @@
 		<Topic code="738A89379AF8DD2A" name="Bugs Bunny " />
 		<Topic code="A2C5018B54365C3C" name="Daffy Duck" />
 		<Topic code="D572048819F3CE24" name="Duck Dodgers" />
+		<Topic code="82C2B02BE527E534" name="Looney Tunes" />
 	</Subject>
 	<Subject name='Backyardigans Song'>
 		<Topic code="7AB93130023B5F21" name="Backyardigans Songs 1" />
@@ -36,6 +37,7 @@
 		<Topic code="C9178777EF1408FF" name="Aladdin " />
 		<Topic code="4BC8CF55E453B30A" name="Disney 1" />
 		<Topic code="E31C58E54716405D" name="Disney 2" />
+		<Topic code="DEAD81C27448D035" name="Disney 3" />
 		<Topic code="35997FB71DB92EE0" name="Disney's Marsupilami" />
 		<Topic code="97500B71B5B7684A" name="Disney's The Emperor's " />
 	</Subject>
@@ -82,6 +84,7 @@
 		<Topic code="034D98F3ED4DA27B" name="Mickey Mouse Clubhouse" />
 		<Topic code="41381CE410C5A99F" name="Classic Chip and Dale" />
 		<Topic code="10953A01B7B25D27" name="Goofy" />
+		<Topic code="DA3260658E9F7727" name="Mickey's Christmas Carol" />
 		<Topic code="3CBC2AA7F66EB0E8" name="MickeyMouse 1" />
 		<Topic code="1E481B3195A39541" name="Mickey Mouse 2" />
 		<Topic code="240B99C9EAE53A30" name="Mickey Mouse (B&amp;W)" />
@@ -121,6 +124,10 @@
 		<Topic code="4A15CCC227ECE51B" name="Rocko's Modern Life 1" />
 		<Topic code="BCFBAD2D024652D0" name="Rocko's Modern Life 2" />
 	</Subject>
+	<Subject name='Beetle'>
+		<Topic code="640E52A72D4B50DB" name="Beetlejuice 1" />
+		<Topic code="60BCF1B931186AFB" name="Beetlejuice 2" />
+	</Subject>
 	<Subject name='Collection 1'>
 		<Topic code="062B11E65279039E" name="The Tick" />
 		<Topic code="0A98638333D4F0E0" name="Signing Time!" />
@@ -147,10 +154,10 @@
 		<Topic code="4FE7F33E14E92D31" name="Rescue Heroes" />
 		<Topic code="520B8D035444E9C6" name="Underdog " />
 		<Topic code="53852F3A8C9CCCBB" name="Sailor moon " />
+		<Topic code="F1E32880792E501A" name="Theme Songs" />
 	</Subject>
 	<Subject name='Collection 2'>
 		<Topic code="5841BD3FA04C7556" name="Paw Paws " />
-		<Topic code="60BCF1B931186AFB" name="Beetlejuice" />
 		<Topic code="63096D231CB28AD1" name="Double Dragon" />
 		<Topic code="6493FC239D9A59A9" name="Camp Lazlo" />
 		<Topic code="65161AE23D19F187" name="Dinosaur Train " />

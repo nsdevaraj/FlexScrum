@@ -39,7 +39,7 @@ package com.adams.edutube.util
 		public static const YTV_API:String='http://www.chooseandwatch.com/YTTV/ytkey.php?id='
 		public static const YOU_TUBE_M:String='http://m.youtube.com/watch?v='
 		public static var fileSplitter:String =  '//';
-		public static const XMLPATH:String="assets"+fileSplitter+"xml"+fileSplitter+"cartoon.xml";
+		public static const XMLPATH:String="assets"+fileSplitter+"xml"+fileSplitter;
 		public static const VISUALDAO  :String='visualDAO'; 
 		public static const TOPICDAO  :String='topicDAO'; 
 		public static const SUBJECTDAO  :String='subjectDAO'; 

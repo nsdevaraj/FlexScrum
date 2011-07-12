@@ -7,6 +7,12 @@
 	src: url("/assets/fonts/CALIBRI.TTF");
 	embedAsCFF: true;
 }  
+@font-face
+{
+	fontFamily: CalibriMX;
+	src: url("/assets/fonts/CALIBRI.TTF");
+	embedAsCFF: false;
+}  
 s|Application{
 	chrome-color:#2d3239;
 	content-background-color:#313235;
@@ -23,7 +29,9 @@ s|LabelItemRenderer{
 	selectionColor:#ff0000;
 	downColor:#ff0000;
 }
-
+s|TextArea{
+	fontFamily:CalibriMX;
+}
 s|List{
 	selectionColor:#000000;
 } 

@@ -103,6 +103,7 @@ package com.adams.edutube.view.mediators
 		override protected function init():void {
 			super.init();  
 			viewState = Utils.LIST_INDEX;
+			view.appLabel.text = NativeApplication.nativeApplication.applicationID;
 			applicationResizeHandler(); 
 			view.list.addEventListener(IndexChangeEvent.CHANGE, setLevel,false,0,true);
 			view.topicBtn.clicked.add(setBtnLevel);

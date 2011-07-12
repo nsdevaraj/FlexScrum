@@ -17,6 +17,7 @@ package com.adams.edutube
 	import com.adams.swizdao.controller.ServiceController;
 	import com.adams.swizdao.model.vo.CurrentInstance;
 	
+	import flash.desktop.NativeApplication;
 	import flash.events.StatusEvent;
 	
 	import mx.collections.ArrayCollection;
@@ -39,7 +40,12 @@ package com.adams.edutube
 		[PostConstruct]
 		public function execute():void
 		{
-			currentInstance.config.serverLocation =Utils.XMLPATH;
+			var appName:String = NativeApplication.nativeApplication.applicationID;
+			if(appName.indexOf('EduTube')!=-1){
+				currentInstance.config.serverLocation =Utils.XMLPATH+"playlist.xml";
+			}else{
+				currentInstance.config.serverLocation =Utils.XMLPATH+"cartoon.xml";	
+			}
 			currentInstance.mapConfig =new MapConfigVO();
 		} 
 	}
