@@ -171,13 +171,13 @@
 
 	<!-- The icon to display for the file type. Optional. -->
 <icon>
-		<image16x16>assets/icons/diadem16.png</image16x16>
-		<image32x32>assets/icons/diadem32.png</image32x32>
-		<image36x36>assets/icons/diadem36.png</image36x36>
-		<image48x48>assets/icons/diadem48.png</image48x48>
-		<image72x72>assets/icons/diadem72.png</image72x72>
-		<image114x114>assets/icons/diadem114.png</image114x114>
-		<image128x128>assets/icons/diadem128.png</image128x128>
+		<image16x16>assets/icons/mouse16.png</image16x16>
+		<image32x32>assets/icons/mouse32.png</image32x32>
+		<image36x36>assets/icons/mouse36.png</image36x36>
+		<image48x48>assets/icons/mouse48.png</image48x48>
+		<image72x72>assets/icons/mouse72.png</image72x72>
+		<image114x114>assets/icons/mouse114.png</image114x114>
+		<image128x128>assets/icons/mouse128.png</image128x128>
 	</icon>
 
 	<!-- </fileType> -->

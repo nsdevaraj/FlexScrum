@@ -5,7 +5,7 @@
 		xmlns:components="com.adams.swizdao.views.components.*"> 
 	<fx:Declarations>
 		<s:HGroup id="logo" horizontalAlign="left" width="100%" height="100%" verticalAlign="middle">
-			<s:Image source="assets/icons/diadem128.png" height="100%"/>
+			<s:Image id="logoImg" height="100%"/>
 			<s:Label id="appLabel" styleName="header"/>
 		</s:HGroup>
 		<components:NativeButton id="subjectBtn" height="50" width="100%"/>

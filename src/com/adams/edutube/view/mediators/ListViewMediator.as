@@ -109,6 +109,11 @@ package com.adams.edutube.view.mediators
 			view.topicBtn.clicked.add(setBtnLevel);
 			view.subjectBtn.clicked.add(setBtnLevel);
 			view.videoBtn.clicked.add(setBtnLevel);
+			if(view.appLabel.text.indexOf('EduTube') != -1){
+				view.logoImg.source="assets/icons/diadem128.png"
+			}else{
+				view.logoImg.source="assets/icons/mouse128.png"
+			}
 			headerSetup();
 			controlSignal.loadVideoCodesSignal.dispatch(this);
 			view.setting.addEventListener(MouseEvent.CLICK,headerSetup,false,0,true);
