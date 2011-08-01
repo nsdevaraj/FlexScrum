@@ -1,0 +1,55 @@
+<Subjects>
+	<Subject name='Kannada' user="APPUSERIESKANNADA" />
+	<Subject name='Hindi Collection 1' user="APPUSERIESHINDI" />
+	<Subject name='Sindhi' user="APPUSERIESSINDHI" />
+	<Subject name='Marathi' user="APPUSERIESMARATHI" />
+	<Subject name='Gujarati' user="APPUSERIESGUJARATI" />
+	<Subject name='Telugu Collection 1' user="APPUSERIESTELUGU" />
+	<Subject name='Telugu Collection 2'>
+		<Topic code="DE341750A0A203C1" name="Telugu 1" />
+		<Topic code="0C9E2CD5E9D7A5A7" name="Telugu 2" />
+		<Topic code="42721760FC77108F" name="Telugu 3" />
+		<Topic code="046268858BC6D3E7" name="Telugu 4" />
+		<Topic code="795005790D7886D2" name="Telugu 5" />
+		<Topic code="55E891092D3D3557" name="Kids Rhymes" />
+		<Topic code="C22CE6BF662E5C3B" name="Animated Rhymes" />
+		<Topic code="F9E8D45AF7E52CED" name="Favorite Telugu" />
+		<Topic code="62EEF1E596135D2C" name="Telugu Stories" />
+	</Subject>
+	<Subject name='Hindi Collection 2'>
+		<Topic code="CA52243D06AF298C" name="Hindi" />
+		<Topic code="5B1A7B87E65F5A07" name="Rhymes" />
+		<Topic code="2B20E5404598D8C3" name="Animated Rhymes" />
+	</Subject>
+	<Subject name='Tamil'>
+		<Topic code="FC8E6BEDA4EB999E" name="Tamil 1" />
+		<Topic code="E33D10DB791DE362" name="Tamil 2" />
+		<Topic code="1CFC037701A739BA" name="Tamil 3" />
+	</Subject>
+	<Subject name='English'>
+		<Topic code="2B45CD5F2B8D6E9A" name="English 1" />
+		<Topic code="6755E6C70E15F8C6" name="English 2" />
+		<Topic code="47B7DD1EA34527F7" name="English 3" />
+		<Topic code="54FD685741AD8C27" name="English 4" />
+		<Topic code="09C0735152BAA8FA" name="English 5" />
+		<Topic code="86DFB681262D75CA" name="English 5" />
+		<Topic code="22749A19230A26CC" name="XMas Carols" />
+	</Subject>
+	<Subject name='Malayalam'>
+		<Topic code="08E9C1BF7044A8F4" name="Malayalam" />
+	</Subject>
+	<Subject name='Learning Collection 1' user="APPUSERIES" />
+	<Subject name='Learning Collection 2' user="APPUSERIESGAMES" />
+	<Subject name='Learning Collection 3'>
+		<Topic code="188BA30B6DFF0D40" name="Epics" />
+		<Topic code="C79245FFB7352FF0" name="Ramayan" />
+		<Topic code="2B48F21B556F3ED2" name="Fables" />
+		<Topic code="912944F1478A6924" name="Tales 1" />
+		<Topic code="912944F1478A6924" name="Tales 2" />
+		<Topic code="BD2D2B71ADCC0CFD" name="Karadi Tales" />
+		<Topic code="B52354D67732AD3B" name="Indian Heroes" />
+		<Topic code="2C20A00857227AF8" name="Myth Stories" />
+		<Topic code="2B5A14465E89F756" name="Moral Stories 1" />
+		<Topic code="C33C40259AB3C3CA" name="Moral Stories 2" />
+	</Subject>
+</Subjects>

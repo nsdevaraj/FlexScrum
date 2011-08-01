@@ -1,4 +1,5 @@
 <Subjects>
+	<Subject name='Kannada' user="APPUSERIESKANNADA"/> 
 	<Subject name='The Looney Tunes Show'>
 		<Topic code="looney" name="Looney" YTTV="true" />
 		<Topic code="619C868BD457387C" name="Baby Looney Tunes" />

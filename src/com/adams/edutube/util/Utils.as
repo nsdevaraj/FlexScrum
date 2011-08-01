@@ -12,8 +12,10 @@ Copyright (c) 2011 Adams Studio India, All Rights Reserved
 package com.adams.edutube.util
 {  
 	import com.adams.edutube.model.AbstractDAO;
+	import com.adams.edutube.model.vo.Subject;
 	import com.adams.edutube.model.vo.Visual;
-	import com.adams.edutube.service.HTTPDelegate;
+	import com.adams.edutube.service.SubjectHTTPDelegate;
+	import com.adams.edutube.service.VisualHTTPDelegate;
 	import com.adams.swizdao.util.GetVOUtil;
 	
 	import mx.collections.ArrayCollection;
@@ -57,7 +59,8 @@ package com.adams.edutube.util
 		public static const MENU_ON:String = "menuOn"; 
 		public static const MENU_OFF:String = "menuOff"; 	
 		public static var http:HTTPService= new HTTPService()
-		public static var httpDelegate:HTTPDelegate= new HTTPDelegate()
+		public static var httpDelegate:VisualHTTPDelegate= new VisualHTTPDelegate();
+		public static var subhttpDelegate:SubjectHTTPDelegate= new SubjectHTTPDelegate();
 		public static function addArrcStrictItem( item:Object, arrc:ArrayCollection, sortString:String, modified:Boolean =false ):void{
 			var returnValue:int = -1;
 			var sort:Sort = new Sort(); 
@@ -83,6 +86,12 @@ package com.adams.edutube.util
 			http.resultFormat ='e4x';
 			http.url =  "http://gdata.youtube.com/feeds/api/videos/"+ visualUrl;
 			httpDelegate.doSend(http,visual);
+		} 
+		
+		public static function getTopicHTTPResult(user:String,subject:Subject):void{
+			http.resultFormat ='e4x';
+			http.url =  "http://gdata.youtube.com/feeds/api/users/"+user+"/playlists";
+			subhttpDelegate.doSend(http,subject);
 		} 
 		
 		public static function removeArrcItem(item:Object,arrc:ArrayCollection, sortString:String):void{

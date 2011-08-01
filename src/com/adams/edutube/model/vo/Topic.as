@@ -79,8 +79,11 @@ package com.adams.edutube.model.vo
 			_topicId = value;
 		}
 		override public function fill(item:Object):void{ 
-			topicName = item.name;
-			playCode = item.code;
+			if(item.hasOwnProperty('name'))topicName = item.name;
+			if(item.hasOwnProperty('code'))playCode = item.code;
+			
+			if(item.hasOwnProperty('title'))topicName = item.title;
+			if(item.hasOwnProperty('playlistId'))playCode = item.playlistId;
 			if(item.hasOwnProperty('TED'))ted = Boolean(item.TED);
 			if(item.hasOwnProperty('YTTV'))ytv = Boolean(item.YTTV);
 		}

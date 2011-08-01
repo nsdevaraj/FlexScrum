@@ -43,8 +43,10 @@ package com.adams.edutube
 			var appName:String = NativeApplication.nativeApplication.applicationID;
 			if(appName.indexOf('EduTube')!=-1){
 				currentInstance.config.serverLocation =Utils.XMLPATH+"playlist.xml";
-			}else{
+			}else if(appName.indexOf('CartoonTV')!=-1){
 				currentInstance.config.serverLocation =Utils.XMLPATH+"cartoon.xml";	
+			}else{
+				currentInstance.config.serverLocation =Utils.XMLPATH+"rhymes.xml";	
 			}
 			currentInstance.mapConfig =new MapConfigVO();
 		} 
